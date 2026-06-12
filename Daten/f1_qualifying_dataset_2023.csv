@@ -1,0 +1,321 @@
+season,round,gp_name,driver_name,team_name,fp1_besttime,fp2_besttime,fp3_besttime,q1_besttime,qualified_for_q2,q2_besttime,qualified_for_q3,q3_besttime,startposition
+2023,1,Bahrain Grand Prix,Max Verstappen,Red Bull Racing,93.375,91.076,92.345,91.295,True,90.503,True,89.708,1
+2023,1,Bahrain Grand Prix,Sergio Perez,Red Bull Racing,92.758,91.078,92.446,91.479,True,90.746,True,89.846,2
+2023,1,Bahrain Grand Prix,Charles Leclerc,Ferrari,94.257,91.367,92.624,91.094,True,90.282,True,90.0,3
+2023,1,Bahrain Grand Prix,Carlos Sainz,Ferrari,96.072,91.956,92.945,90.993,True,90.515,True,90.154,4
+2023,1,Bahrain Grand Prix,Fernando Alonso,Aston Martin,93.196,90.907,92.34,91.158,True,90.645,True,90.336,5
+2023,1,Bahrain Grand Prix,George Russell,Mercedes,94.966,91.882,92.731,91.057,True,90.507,True,90.34,6
+2023,1,Bahrain Grand Prix,Lewis Hamilton,Mercedes,94.917,91.543,92.555,91.543,True,90.513,True,90.384,7
+2023,1,Bahrain Grand Prix,Lance Stroll,Aston Martin,94.298,91.45,92.919,91.184,True,91.127,True,90.836,8
+2023,1,Bahrain Grand Prix,Esteban Ocon,Alpine,95.105,91.608,93.116,91.508,True,90.914,True,90.984,9
+2023,1,Bahrain Grand Prix,Nico Hulkenberg,Haas F1 Team,95.043,91.376,93.423,91.204,True,90.809,False,,10
+2023,1,Bahrain Grand Prix,Lando Norris,McLaren,94.165,91.57,93.202,91.652,True,91.381,False,,11
+2023,1,Bahrain Grand Prix,Valtteri Bottas,Alfa Romeo,94.689,91.793,93.629,91.504,True,91.443,False,,12
+2023,1,Bahrain Grand Prix,Guanyu Zhou,Alfa Romeo,94.575,91.586,93.18,91.615,True,91.473,False,,13
+2023,1,Bahrain Grand Prix,Yuki Tsunoda,AlphaTauri,95.015,92.525,93.475,91.4,True,92.51,False,,14
+2023,1,Bahrain Grand Prix,Alexander Albon,Williams,96.018,92.44,93.882,91.461,False,,False,,15
+2023,1,Bahrain Grand Prix,Logan Sargeant,Williams,95.749,92.749,93.665,91.652,False,,False,,16
+2023,1,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,94.402,92.11,93.381,91.892,False,,False,,17
+2023,1,Bahrain Grand Prix,Oscar Piastri,McLaren,94.997,92.024,93.045,92.101,False,,False,,18
+2023,1,Bahrain Grand Prix,Nyck De Vries,AlphaTauri,95.402,92.605,94.082,92.121,False,,False,,19
+2023,1,Bahrain Grand Prix,Pierre Gasly,Alpine,95.455,91.475,93.064,92.181,False,,False,,20
+2023,2,Saudi Arabian Grand Prix,Sergio Perez,Red Bull Racing,90.1,89.902,89.098,89.244,True,88.635,True,88.265,1
+2023,2,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,91.118,90.341,89.588,89.376,True,88.903,True,88.42,2
+2023,2,Saudi Arabian Grand Prix,Fernando Alonso,Aston Martin,90.315,89.811,89.483,89.298,True,88.757,True,88.73,3
+2023,2,Saudi Arabian Grand Prix,George Russell,Mercedes,90.771,90.07,89.811,89.592,True,89.132,True,88.857,4
+2023,2,Saudi Arabian Grand Prix,Carlos Sainz,Ferrari,90.924,90.592,89.761,89.411,True,88.957,True,88.931,5
+2023,2,Saudi Arabian Grand Prix,Lance Stroll,Aston Martin,90.577,90.11,89.509,89.335,True,88.962,True,88.945,6
+2023,2,Saudi Arabian Grand Prix,Esteban Ocon,Alpine,91.181,90.039,89.953,89.707,True,89.255,True,89.078,7
+2023,2,Saudi Arabian Grand Prix,Lewis Hamilton,Mercedes,90.787,90.599,89.568,89.689,True,89.374,True,89.223,8
+2023,2,Saudi Arabian Grand Prix,Oscar Piastri,McLaren,91.491,90.964,89.698,89.706,True,89.378,True,89.243,9
+2023,2,Saudi Arabian Grand Prix,Pierre Gasly,Alpine,90.949,90.1,89.701,89.89,True,89.411,True,89.357,10
+2023,2,Saudi Arabian Grand Prix,Nico Hulkenberg,Haas F1 Team,91.552,90.181,89.933,89.547,True,89.451,False,,11
+2023,2,Saudi Arabian Grand Prix,Guanyu Zhou,Alfa Romeo,91.986,90.837,89.917,89.654,True,89.461,False,,12
+2023,2,Saudi Arabian Grand Prix,Kevin Magnussen,Haas F1 Team,91.566,90.82,90.131,89.744,True,89.634,False,,13
+2023,2,Saudi Arabian Grand Prix,Valtteri Bottas,Alfa Romeo,91.97,91.052,90.317,89.929,True,89.668,False,,14
+2023,2,Saudi Arabian Grand Prix,Max Verstappen,Red Bull Racing,89.617,89.603,88.485,88.761,True,109.953,False,,15
+2023,2,Saudi Arabian Grand Prix,Yuki Tsunoda,AlphaTauri,91.11,90.776,90.797,89.939,False,,False,,16
+2023,2,Saudi Arabian Grand Prix,Alexander Albon,Williams,91.03,90.81,89.983,89.994,False,,False,,17
+2023,2,Saudi Arabian Grand Prix,Nyck De Vries,AlphaTauri,91.45,90.921,,90.244,False,,False,,18
+2023,2,Saudi Arabian Grand Prix,Lando Norris,McLaren,92.149,90.721,89.69,90.447,False,,False,,19
+2023,2,Saudi Arabian Grand Prix,Logan Sargeant,Williams,91.922,90.959,90.035,128.51,False,,False,,20
+2023,3,Australian Grand Prix,Max Verstappen,Red Bull Racing,78.79,79.502,77.565,77.384,True,77.056,True,76.732,1
+2023,3,Australian Grand Prix,George Russell,Mercedes,79.699,79.672,77.955,77.654,True,77.513,True,76.968,2
+2023,3,Australian Grand Prix,Lewis Hamilton,Mercedes,79.223,80.323,78.138,77.689,True,77.551,True,77.104,3
+2023,3,Australian Grand Prix,Fernando Alonso,Aston Martin,79.317,78.887,77.727,77.832,True,77.283,True,77.139,4
+2023,3,Australian Grand Prix,Carlos Sainz,Ferrari,79.505,79.695,78.127,77.928,True,77.349,True,77.27,5
+2023,3,Australian Grand Prix,Lance Stroll,Aston Martin,79.766,80.579,78.198,77.873,True,77.616,True,77.308,6
+2023,3,Australian Grand Prix,Charles Leclerc,Ferrari,79.378,79.332,78.691,78.218,True,77.39,True,77.369,7
+2023,3,Australian Grand Prix,Alexander Albon,Williams,79.766,81.182,78.553,77.962,True,77.761,True,77.609,8
+2023,3,Australian Grand Prix,Pierre Gasly,Alpine,79.646,80.206,78.094,78.312,True,77.574,True,77.675,9
+2023,3,Australian Grand Prix,Nico Hulkenberg,Haas F1 Team,79.806,80.194,78.41,78.029,True,77.412,True,77.735,10
+2023,3,Australian Grand Prix,Esteban Ocon,Alpine,80.175,79.725,77.938,77.77,True,77.768,False,,11
+2023,3,Australian Grand Prix,Yuki Tsunoda,AlphaTauri,80.399,80.22,78.901,78.471,True,78.099,False,,12
+2023,3,Australian Grand Prix,Lando Norris,McLaren,79.536,80.176,79.146,78.243,True,78.119,False,,13
+2023,3,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,81.147,81.266,79.056,78.159,True,78.129,False,,14
+2023,3,Australian Grand Prix,Nyck De Vries,AlphaTauri,79.933,80.6,79.092,78.45,True,78.335,False,,15
+2023,3,Australian Grand Prix,Oscar Piastri,McLaren,79.777,80.38,78.713,78.517,False,,False,,16
+2023,3,Australian Grand Prix,Guanyu Zhou,Alfa Romeo,80.569,80.47,78.33,78.54,False,,False,,17
+2023,3,Australian Grand Prix,Logan Sargeant,Williams,80.074,,78.947,78.557,False,,False,,18
+2023,3,Australian Grand Prix,Valtteri Bottas,Alfa Romeo,80.419,80.312,78.809,78.714,False,,False,,19
+2023,3,Australian Grand Prix,Sergio Perez,Red Bull Racing,79.293,80.083,78.123,,False,,False,,20
+2023,5,Miami Grand Prix,Sergio Perez,Red Bull Racing,91.566,88.419,88.05,87.713,True,87.328,True,86.841,1
+2023,5,Miami Grand Prix,Fernando Alonso,Aston Martin,91.231,88.66,88.618,88.179,True,87.097,True,87.202,2
+2023,5,Miami Grand Prix,Carlos Sainz,Ferrari,90.724,88.315,88.125,87.686,True,87.148,True,87.349,3
+2023,5,Miami Grand Prix,Kevin Magnussen,Haas F1 Team,91.853,89.171,88.607,87.809,True,87.673,True,87.767,4
+2023,5,Miami Grand Prix,Pierre Gasly,Alpine,91.104,89.098,88.428,88.061,True,87.612,True,87.786,5
+2023,5,Miami Grand Prix,George Russell,Mercedes,90.125,89.216,88.606,88.086,True,87.743,True,87.804,6
+2023,5,Miami Grand Prix,Charles Leclerc,Ferrari,90.449,88.398,87.941,87.713,True,86.964,True,87.861,7
+2023,5,Miami Grand Prix,Esteban Ocon,Alpine,91.542,88.937,88.407,87.872,True,87.444,True,87.935,8
+2023,5,Miami Grand Prix,Max Verstappen,Red Bull Racing,90.549,87.93,87.535,87.363,True,86.814,False,,9
+2023,5,Miami Grand Prix,Valtteri Bottas,Alfa Romeo,91.902,89.189,88.456,87.864,True,87.564,False,,10
+2023,5,Miami Grand Prix,Alexander Albon,Williams,91.903,89.046,88.561,88.234,True,87.795,False,,11
+2023,5,Miami Grand Prix,Nico Hulkenberg,Haas F1 Team,91.392,89.393,88.497,87.945,True,87.903,False,,12
+2023,5,Miami Grand Prix,Lewis Hamilton,Mercedes,90.337,88.858,88.718,87.846,True,87.975,False,,13
+2023,5,Miami Grand Prix,Guanyu Zhou,Alfa Romeo,92.134,89.181,89.074,88.18,True,88.091,False,,14
+2023,5,Miami Grand Prix,Nyck De Vries,AlphaTauri,94.637,89.928,89.447,88.325,True,88.395,False,,15
+2023,5,Miami Grand Prix,Lando Norris,McLaren,91.997,88.741,89.401,88.394,False,,False,,16
+2023,5,Miami Grand Prix,Yuki Tsunoda,AlphaTauri,92.169,89.613,89.179,88.429,False,,False,,17
+2023,5,Miami Grand Prix,Lance Stroll,Aston Martin,91.337,88.93,88.723,88.476,False,,False,,18
+2023,5,Miami Grand Prix,Oscar Piastri,McLaren,91.81,89.339,89.375,88.484,False,,False,,19
+2023,5,Miami Grand Prix,Logan Sargeant,Williams,92.619,90.038,89.264,88.577,False,,False,,20
+2023,6,Monaco Grand Prix,Max Verstappen,Red Bull Racing,74.244,72.462,72.776,72.386,True,71.908,True,71.365,1
+2023,6,Monaco Grand Prix,Fernando Alonso,Aston Martin,73.71,72.682,73.697,72.886,True,72.107,True,71.449,2
+2023,6,Monaco Grand Prix,Charles Leclerc,Ferrari,74.093,72.527,73.475,72.912,True,72.103,True,71.471,3
+2023,6,Monaco Grand Prix,Esteban Ocon,Alpine,74.585,73.162,73.496,72.967,True,72.248,True,71.553,4
+2023,6,Monaco Grand Prix,Carlos Sainz,Ferrari,73.372,72.569,73.261,72.717,True,72.21,True,71.63,5
+2023,6,Monaco Grand Prix,Lewis Hamilton,Mercedes,74.035,72.96,73.486,72.872,True,72.156,True,71.725,6
+2023,6,Monaco Grand Prix,Pierre Gasly,Alpine,74.866,73.089,73.453,73.033,True,72.169,True,71.933,7
+2023,6,Monaco Grand Prix,George Russell,Mercedes,75.066,73.191,73.59,72.769,True,72.151,True,71.964,8
+2023,6,Monaco Grand Prix,Yuki Tsunoda,AlphaTauri,74.82,73.641,73.738,72.642,True,72.249,True,72.082,9
+2023,6,Monaco Grand Prix,Lando Norris,McLaren,74.467,72.906,73.396,72.877,True,72.377,True,72.254,10
+2023,6,Monaco Grand Prix,Oscar Piastri,McLaren,75.192,73.673,73.998,73.006,True,72.395,False,,11
+2023,6,Monaco Grand Prix,Nyck De Vries,AlphaTauri,75.083,73.663,74.187,73.054,True,72.428,False,,12
+2023,6,Monaco Grand Prix,Alexander Albon,Williams,74.666,74.217,73.93,72.706,True,72.527,False,,13
+2023,6,Monaco Grand Prix,Lance Stroll,Aston Martin,74.653,73.185,72.942,72.722,True,72.623,False,,14
+2023,6,Monaco Grand Prix,Valtteri Bottas,Alfa Romeo,74.718,73.05,73.521,73.038,True,72.625,False,,15
+2023,6,Monaco Grand Prix,Logan Sargeant,Williams,75.557,74.238,73.851,73.113,False,,False,,16
+2023,6,Monaco Grand Prix,Kevin Magnussen,Haas F1 Team,74.725,73.457,73.624,73.27,False,,False,,17
+2023,6,Monaco Grand Prix,Nico Hulkenberg,Haas F1 Team,75.785,73.52,73.65,73.279,False,,False,,18
+2023,6,Monaco Grand Prix,Guanyu Zhou,Alfa Romeo,75.684,73.354,73.772,73.523,False,,False,,19
+2023,6,Monaco Grand Prix,Sergio Perez,Red Bull Racing,74.038,72.991,72.849,73.85,False,,False,,20
+2023,7,Spanish Grand Prix,Max Verstappen,Red Bull Racing,74.606,73.907,73.664,73.615,True,72.76,True,72.272,1
+2023,7,Spanish Grand Prix,Carlos Sainz,Ferrari,75.726,74.274,74.24,73.411,True,72.79,True,72.734,2
+2023,7,Spanish Grand Prix,Lando Norris,McLaren,75.783,74.694,74.681,73.295,True,72.776,True,72.792,3
+2023,7,Spanish Grand Prix,Pierre Gasly,Alpine,75.545,74.457,75.841,73.471,True,73.186,True,72.816,4
+2023,7,Spanish Grand Prix,Lewis Hamilton,Mercedes,75.845,74.549,74.072,72.937,True,72.999,True,72.818,5
+2023,7,Spanish Grand Prix,Lance Stroll,Aston Martin,75.939,75.01,74.756,73.766,True,73.082,True,72.994,6
+2023,7,Spanish Grand Prix,Esteban Ocon,Alpine,75.418,74.242,75.266,73.433,True,73.001,True,73.083,7
+2023,7,Spanish Grand Prix,Nico Hulkenberg,Haas F1 Team,76.461,74.177,74.988,73.42,True,73.283,True,73.229,8
+2023,7,Spanish Grand Prix,Fernando Alonso,Aston Martin,75.547,74.077,74.264,73.747,True,73.098,True,73.507,9
+2023,7,Spanish Grand Prix,Oscar Piastri,McLaren,76.353,74.583,75.105,73.691,True,73.059,True,73.682,10
+2023,7,Spanish Grand Prix,Sergio Perez,Red Bull Racing,75.374,74.219,73.914,73.874,True,73.334,False,,11
+2023,7,Spanish Grand Prix,George Russell,Mercedes,75.753,74.392,74.278,73.326,True,73.447,False,,12
+2023,7,Spanish Grand Prix,Guanyu Zhou,Alfa Romeo,75.906,74.585,74.681,73.677,True,73.521,False,,13
+2023,7,Spanish Grand Prix,Nyck De Vries,AlphaTauri,75.504,74.785,74.693,73.581,True,74.083,False,,14
+2023,7,Spanish Grand Prix,Yuki Tsunoda,AlphaTauri,75.915,74.84,74.659,73.862,True,74.477,False,,15
+2023,7,Spanish Grand Prix,Valtteri Bottas,Alfa Romeo,75.978,74.448,74.36,73.977,False,,False,,16
+2023,7,Spanish Grand Prix,Kevin Magnussen,Haas F1 Team,75.689,74.713,75.534,74.042,False,,False,,17
+2023,7,Spanish Grand Prix,Alexander Albon,Williams,76.63,75.056,75.851,74.063,False,,False,,18
+2023,7,Spanish Grand Prix,Charles Leclerc,Ferrari,75.694,74.246,74.353,74.079,False,,False,,19
+2023,7,Spanish Grand Prix,Logan Sargeant,Williams,76.506,75.415,76.529,74.699,False,,False,,20
+2023,8,Canadian Grand Prix,Max Verstappen,Red Bull Racing,80.231,74.142,83.106,80.851,True,79.092,True,85.858,1
+2023,8,Canadian Grand Prix,Nico Hulkenberg,Haas F1 Team,84.336,76.369,85.14,82.73,True,80.305,True,87.102,2
+2023,8,Canadian Grand Prix,Fernando Alonso,Aston Martin,79.807,74.044,84.483,81.481,True,79.776,True,87.286,3
+2023,8,Canadian Grand Prix,Lewis Hamilton,Mercedes,,73.718,85.087,81.554,True,80.426,True,87.627,4
+2023,8,Canadian Grand Prix,George Russell,Mercedes,,73.745,85.435,81.798,True,80.098,True,87.893,5
+2023,8,Canadian Grand Prix,Esteban Ocon,Alpine,,75.092,86.84,82.114,True,80.406,True,87.945,6
+2023,8,Canadian Grand Prix,Lando Norris,McLaren,,74.617,85.198,81.998,True,79.347,True,88.046,7
+2023,8,Canadian Grand Prix,Carlos Sainz,Ferrari,85.991,73.844,84.765,82.248,True,79.856,True,89.294,8
+2023,8,Canadian Grand Prix,Oscar Piastri,McLaren,81.496,74.533,85.191,82.19,True,79.659,True,91.349,9
+2023,8,Canadian Grand Prix,Alexander Albon,Williams,,75.003,85.379,81.938,True,78.725,False,,10
+2023,8,Canadian Grand Prix,Charles Leclerc,Ferrari,86.809,74.094,83.397,81.843,True,80.615,False,,11
+2023,8,Canadian Grand Prix,Sergio Perez,Red Bull Racing,80.154,74.25,85.857,82.151,True,80.959,False,,12
+2023,8,Canadian Grand Prix,Lance Stroll,Aston Martin,79.175,74.419,84.944,82.677,True,81.484,False,,13
+2023,8,Canadian Grand Prix,Kevin Magnussen,Haas F1 Team,84.045,74.544,84.715,82.351,True,81.678,False,,14
+2023,8,Canadian Grand Prix,Valtteri Bottas,Alfa Romeo,78.728,74.22,84.988,82.332,True,81.821,False,,15
+2023,8,Canadian Grand Prix,Yuki Tsunoda,AlphaTauri,,74.941,84.955,82.746,False,,False,,16
+2023,8,Canadian Grand Prix,Pierre Gasly,Alpine,,74.477,84.825,82.886,False,,False,,17
+2023,8,Canadian Grand Prix,Nyck De Vries,AlphaTauri,92.274,75.002,85.725,83.137,False,,False,,18
+2023,8,Canadian Grand Prix,Logan Sargeant,Williams,,75.426,87.279,83.337,False,,False,,19
+2023,8,Canadian Grand Prix,Guanyu Zhou,Alfa Romeo,84.961,74.811,86.75,83.342,False,,False,,20
+2023,10,British Grand Prix,Max Verstappen,Red Bull Racing,88.6,88.078,88.266,89.428,True,87.702,True,86.72,1
+2023,10,British Grand Prix,Lando Norris,McLaren,89.441,89.26,88.563,88.917,True,88.042,True,86.961,2
+2023,10,British Grand Prix,Oscar Piastri,McLaren,89.658,88.926,89.437,89.874,True,87.845,True,87.092,3
+2023,10,British Grand Prix,Charles Leclerc,Ferrari,89.28,,87.419,89.143,True,88.361,True,87.136,4
+2023,10,British Grand Prix,Carlos Sainz,Ferrari,89.357,88.1,87.964,89.865,True,88.265,True,87.148,5
+2023,10,British Grand Prix,George Russell,Mercedes,89.874,89.238,88.284,89.412,True,88.782,True,87.155,6
+2023,10,British Grand Prix,Lewis Hamilton,Mercedes,89.768,89.283,87.948,89.415,True,88.545,True,87.211,7
+2023,10,British Grand Prix,Alexander Albon,Williams,89.089,88.296,87.592,89.466,True,88.067,True,87.53,8
+2023,10,British Grand Prix,Fernando Alonso,Aston Martin,89.268,89.134,87.784,89.949,True,88.368,True,87.659,9
+2023,10,British Grand Prix,Pierre Gasly,Alpine,89.828,88.889,87.893,89.533,True,88.751,True,87.689,10
+2023,10,British Grand Prix,Nico Hulkenberg,Haas F1 Team,90.591,88.88,93.59,89.603,True,88.896,False,,11
+2023,10,British Grand Prix,Lance Stroll,Aston Martin,89.471,88.866,88.62,89.448,True,88.935,False,,12
+2023,10,British Grand Prix,Esteban Ocon,Alpine,89.319,89.242,89.233,89.7,True,88.956,False,,13
+2023,10,British Grand Prix,Logan Sargeant,Williams,90.124,88.766,88.151,89.873,True,89.031,False,,14
+2023,10,British Grand Prix,Valtteri Bottas,Alfa Romeo,90.09,89.378,89.586,89.798,False,,False,,15
+2023,10,British Grand Prix,Sergio Perez,Red Bull Racing,89.048,88.342,88.904,89.968,False,,False,,16
+2023,10,British Grand Prix,Yuki Tsunoda,AlphaTauri,90.092,89.483,88.337,90.025,False,,False,,17
+2023,10,British Grand Prix,Guanyu Zhou,Alfa Romeo,90.321,89.225,,90.123,False,,False,,18
+2023,10,British Grand Prix,Nyck De Vries,AlphaTauri,89.691,89.571,88.504,90.513,False,,False,,19
+2023,10,British Grand Prix,Kevin Magnussen,Haas F1 Team,90.385,89.439,89.207,92.378,False,,False,,20
+2023,11,Hungarian Grand Prix,Lewis Hamilton,Mercedes,,78.746,77.811,78.577,True,77.427,True,76.609,1
+2023,11,Hungarian Grand Prix,Max Verstappen,Red Bull Racing,,78.279,78.061,78.318,True,77.547,True,76.612,2
+2023,11,Hungarian Grand Prix,Lando Norris,McLaren,,77.701,78.082,78.697,True,77.328,True,76.694,3
+2023,11,Hungarian Grand Prix,Oscar Piastri,McLaren,99.154,79.117,78.598,78.464,True,77.571,True,76.905,4
+2023,11,Hungarian Grand Prix,Guanyu Zhou,Alfa Romeo,,78.108,78.544,78.143,True,77.7,True,76.971,5
+2023,11,Hungarian Grand Prix,Charles Leclerc,Ferrari,,77.686,78.19,78.44,True,77.58,True,76.992,6
+2023,11,Hungarian Grand Prix,Valtteri Bottas,Alfa Romeo,101.032,78.085,78.489,78.775,True,77.563,True,77.034,7
+2023,11,Hungarian Grand Prix,Fernando Alonso,Aston Martin,,78.105,78.35,78.58,True,77.701,True,77.035,8
+2023,11,Hungarian Grand Prix,Sergio Perez,Red Bull Racing,,78.978,78.067,78.36,True,77.675,True,77.045,9
+2023,11,Hungarian Grand Prix,Nico Hulkenberg,Haas F1 Team,,78.058,78.077,78.695,True,77.652,True,77.186,10
+2023,11,Hungarian Grand Prix,Carlos Sainz,Ferrari,,78.182,78.234,78.393,True,77.703,False,,11
+2023,11,Hungarian Grand Prix,Esteban Ocon,Alpine,,78.045,78.979,78.854,True,77.841,False,,12
+2023,11,Hungarian Grand Prix,Daniel Ricciardo,AlphaTauri,,78.385,78.828,78.906,True,78.002,False,,13
+2023,11,Hungarian Grand Prix,Lance Stroll,Aston Martin,,78.319,78.536,78.782,True,78.144,False,,14
+2023,11,Hungarian Grand Prix,Pierre Gasly,Alpine,,77.918,78.776,78.743,True,78.217,False,,15
+2023,11,Hungarian Grand Prix,Alexander Albon,Williams,,78.377,78.592,78.917,False,,False,,16
+2023,11,Hungarian Grand Prix,Yuki Tsunoda,AlphaTauri,,77.934,79.156,78.919,False,,False,,17
+2023,11,Hungarian Grand Prix,George Russell,Mercedes,98.795,79.175,78.119,79.027,False,,False,,18
+2023,11,Hungarian Grand Prix,Kevin Magnussen,Haas F1 Team,,78.504,78.649,79.206,False,,False,,19
+2023,11,Hungarian Grand Prix,Logan Sargeant,Williams,,78.836,78.814,79.248,False,,False,,20
+2023,13,Dutch Grand Prix,Max Verstappen,Red Bull Racing,71.852,71.353,81.631,80.965,True,78.856,True,70.567,1
+2023,13,Dutch Grand Prix,Lando Norris,McLaren,72.46,71.33,83.158,81.276,True,79.769,True,71.104,2
+2023,13,Dutch Grand Prix,George Russell,Mercedes,72.813,72.009,82.01,81.345,True,79.62,True,71.294,3
+2023,13,Dutch Grand Prix,Alexander Albon,Williams,72.447,71.599,82.75,80.939,True,79.399,True,71.419,4
+2023,13,Dutch Grand Prix,Fernando Alonso,Aston Martin,72.13,71.863,82.634,81.84,True,79.429,True,71.506,5
+2023,13,Dutch Grand Prix,Carlos Sainz,Ferrari,,72.093,83.438,81.321,True,79.929,True,71.754,6
+2023,13,Dutch Grand Prix,Sergio Perez,Red Bull Racing,72.323,71.817,82.631,81.972,True,79.856,True,71.88,7
+2023,13,Dutch Grand Prix,Oscar Piastri,McLaren,72.658,72.901,82.892,81.231,True,79.392,True,71.938,8
+2023,13,Dutch Grand Prix,Charles Leclerc,Ferrari,73.519,71.915,83.093,82.019,True,79.6,True,72.665,9
+2023,13,Dutch Grand Prix,Logan Sargeant,Williams,72.617,71.934,83.57,82.036,True,80.067,True,76.748,10
+2023,13,Dutch Grand Prix,Lance Stroll,Aston Martin,,71.835,84.058,81.57,True,80.121,False,,11
+2023,13,Dutch Grand Prix,Pierre Gasly,Alpine,72.895,71.766,83.21,81.735,True,80.128,False,,12
+2023,13,Dutch Grand Prix,Lewis Hamilton,Mercedes,72.225,71.638,82.723,81.919,True,80.151,False,,13
+2023,13,Dutch Grand Prix,Yuki Tsunoda,AlphaTauri,72.749,71.72,83.544,81.781,True,80.23,False,,14
+2023,13,Dutch Grand Prix,Nico Hulkenberg,Haas F1 Team,74.023,72.693,83.64,81.891,True,80.25,False,,15
+2023,13,Dutch Grand Prix,Guanyu Zhou,Alfa Romeo,73.826,72.074,88.482,82.067,False,,False,,16
+2023,13,Dutch Grand Prix,Esteban Ocon,Alpine,72.802,72.001,83.806,82.11,False,,False,,17
+2023,13,Dutch Grand Prix,Kevin Magnussen,Haas F1 Team,73.322,72.404,,82.192,False,,False,,18
+2023,13,Dutch Grand Prix,Valtteri Bottas,Alfa Romeo,73.448,71.857,82.965,82.26,False,,False,,19
+2023,13,Dutch Grand Prix,Liam Lawson,AlphaTauri,,,86.343,83.42,False,,False,,20
+2023,14,Italian Grand Prix,Carlos Sainz,Ferrari,82.703,81.355,80.912,81.965,True,80.991,True,80.294,1
+2023,14,Italian Grand Prix,Max Verstappen,Red Bull Racing,82.657,81.631,80.998,81.573,True,80.937,True,80.307,2
+2023,14,Italian Grand Prix,Charles Leclerc,Ferrari,82.966,81.716,81.486,81.788,True,80.977,True,80.361,3
+2023,14,Italian Grand Prix,George Russell,Mercedes,83.189,82.176,81.73,82.148,True,81.382,True,80.671,4
+2023,14,Italian Grand Prix,Sergio Perez,Red Bull Racing,82.834,81.54,82.192,81.911,True,81.24,True,80.688,5
+2023,14,Italian Grand Prix,Alexander Albon,Williams,83.444,81.979,82.054,81.661,True,81.272,True,80.76,6
+2023,14,Italian Grand Prix,Oscar Piastri,McLaren,83.446,81.545,82.302,82.106,True,81.527,True,80.785,7
+2023,14,Italian Grand Prix,Lewis Hamilton,Mercedes,83.269,82.783,81.453,81.977,True,81.369,True,80.82,8
+2023,14,Italian Grand Prix,Lando Norris,McLaren,83.241,81.374,82.515,81.995,True,81.581,True,80.979,9
+2023,14,Italian Grand Prix,Fernando Alonso,Aston Martin,83.214,82.071,81.711,82.043,True,81.543,True,81.417,10
+2023,14,Italian Grand Prix,Yuki Tsunoda,AlphaTauri,83.271,82.696,82.297,81.852,True,81.594,False,,11
+2023,14,Italian Grand Prix,Liam Lawson,AlphaTauri,83.833,83.167,82.296,82.112,True,81.758,False,,12
+2023,14,Italian Grand Prix,Nico Hulkenberg,Haas F1 Team,84.067,82.291,81.985,82.343,True,81.776,False,,13
+2023,14,Italian Grand Prix,Valtteri Bottas,Alfa Romeo,83.952,82.595,82.511,82.249,True,81.94,False,,14
+2023,14,Italian Grand Prix,Logan Sargeant,Williams,83.661,82.755,82.38,81.93,True,81.944,False,,15
+2023,14,Italian Grand Prix,Guanyu Zhou,Alfa Romeo,84.232,83.346,82.742,82.39,False,,False,,16
+2023,14,Italian Grand Prix,Pierre Gasly,Alpine,83.931,82.651,82.852,82.545,False,,False,,17
+2023,14,Italian Grand Prix,Esteban Ocon,Alpine,84.09,82.716,82.739,82.548,False,,False,,18
+2023,14,Italian Grand Prix,Kevin Magnussen,Haas F1 Team,84.217,82.574,81.884,82.592,False,,False,,19
+2023,14,Italian Grand Prix,Lance Stroll,Aston Martin,,,82.245,82.86,False,,False,,20
+2023,15,Singapore Grand Prix,Carlos Sainz,Ferrari,93.428,92.12,92.065,92.339,True,91.439,True,90.984,1
+2023,15,Singapore Grand Prix,George Russell,Mercedes,93.695,92.355,92.134,92.331,True,91.743,True,91.056,2
+2023,15,Singapore Grand Prix,Charles Leclerc,Ferrari,93.35,92.138,92.381,92.406,True,92.012,True,91.063,3
+2023,15,Singapore Grand Prix,Lando Norris,McLaren,93.522,92.711,92.303,92.483,True,91.951,True,91.27,4
+2023,15,Singapore Grand Prix,Lewis Hamilton,Mercedes,93.54,92.585,92.535,92.651,True,92.019,True,91.485,5
+2023,15,Singapore Grand Prix,Kevin Magnussen,Haas F1 Team,94.887,93.017,92.97,92.242,True,91.892,True,91.575,6
+2023,15,Singapore Grand Prix,Fernando Alonso,Aston Martin,93.974,92.478,93.051,92.584,True,91.835,True,91.615,7
+2023,15,Singapore Grand Prix,Esteban Ocon,Alpine,94.066,93.361,92.979,92.369,True,92.089,True,91.673,8
+2023,15,Singapore Grand Prix,Nico Hulkenberg,Haas F1 Team,94.985,93.139,92.896,92.1,True,91.994,True,91.808,9
+2023,15,Singapore Grand Prix,Liam Lawson,AlphaTauri,94.894,93.285,93.357,92.215,True,92.166,True,92.268,10
+2023,15,Singapore Grand Prix,Max Verstappen,Red Bull Racing,93.476,92.852,92.378,92.398,True,92.173,False,,11
+2023,15,Singapore Grand Prix,Pierre Gasly,Alpine,94.639,93.824,93.351,92.452,True,92.274,False,,12
+2023,15,Singapore Grand Prix,Sergio Perez,Red Bull Racing,93.725,92.812,92.784,92.099,True,92.31,False,,13
+2023,15,Singapore Grand Prix,Alexander Albon,Williams,94.657,95.558,93.37,92.668,True,93.719,False,,14
+2023,15,Singapore Grand Prix,Yuki Tsunoda,AlphaTauri,94.042,93.477,92.945,91.991,False,,False,,15
+2023,15,Singapore Grand Prix,Valtteri Bottas,Alfa Romeo,94.802,93.105,93.54,92.809,False,,False,,16
+2023,15,Singapore Grand Prix,Oscar Piastri,McLaren,95.474,93.461,92.73,92.902,False,,False,,17
+2023,15,Singapore Grand Prix,Logan Sargeant,Williams,95.778,94.327,93.708,93.252,False,,False,,18
+2023,15,Singapore Grand Prix,Guanyu Zhou,Alfa Romeo,95.456,93.575,93.637,93.258,False,,False,,19
+2023,15,Singapore Grand Prix,Lance Stroll,Aston Martin,94.568,93.39,93.126,93.397,False,,False,,20
+2023,16,Japanese Grand Prix,Max Verstappen,Red Bull Racing,91.647,90.688,90.267,89.878,True,89.964,True,88.877,1
+2023,16,Japanese Grand Prix,Oscar Piastri,McLaren,92.713,91.662,90.555,90.439,True,90.122,True,89.458,2
+2023,16,Japanese Grand Prix,Lando Norris,McLaren,92.392,91.152,90.507,90.063,True,90.296,True,89.493,3
+2023,16,Japanese Grand Prix,Charles Leclerc,Ferrari,92.574,91.008,91.022,90.393,True,89.94,True,89.542,4
+2023,16,Japanese Grand Prix,Sergio Perez,Red Bull Racing,93.043,91.71,91.004,90.652,True,89.965,True,89.65,5
+2023,16,Japanese Grand Prix,Carlos Sainz,Ferrari,92.273,91.237,91.137,90.651,True,90.067,True,89.85,6
+2023,16,Japanese Grand Prix,Lewis Hamilton,Mercedes,93.699,91.829,91.159,90.811,True,90.04,True,89.908,7
+2023,16,Japanese Grand Prix,George Russell,Mercedes,93.31,91.328,91.505,90.811,True,90.268,True,90.219,8
+2023,16,Japanese Grand Prix,Yuki Tsunoda,AlphaTauri,92.597,92.178,91.951,90.733,True,90.204,True,90.303,9
+2023,16,Japanese Grand Prix,Fernando Alonso,Aston Martin,92.65,91.492,91.549,90.971,True,90.465,True,90.56,10
+2023,16,Japanese Grand Prix,Liam Lawson,AlphaTauri,93.005,92.141,92.048,90.425,True,90.508,False,,11
+2023,16,Japanese Grand Prix,Pierre Gasly,Alpine,93.129,92.179,92.199,90.843,True,90.509,False,,12
+2023,16,Japanese Grand Prix,Alexander Albon,Williams,92.991,91.555,92.113,90.941,True,90.537,False,,13
+2023,16,Japanese Grand Prix,Esteban Ocon,Alpine,93.516,91.794,91.924,90.96,True,90.586,False,,14
+2023,16,Japanese Grand Prix,Kevin Magnussen,Haas F1 Team,93.975,92.169,91.88,90.976,True,90.665,False,,15
+2023,16,Japanese Grand Prix,Valtteri Bottas,Alfa Romeo,93.86,91.739,91.699,91.049,False,,False,,16
+2023,16,Japanese Grand Prix,Lance Stroll,Aston Martin,93.04,91.771,92.154,91.181,False,,False,,17
+2023,16,Japanese Grand Prix,Nico Hulkenberg,Haas F1 Team,93.448,91.797,91.979,91.299,False,,False,,18
+2023,16,Japanese Grand Prix,Guanyu Zhou,Alfa Romeo,94.831,92.165,91.668,91.398,False,,False,,19
+2023,16,Japanese Grand Prix,Logan Sargeant,Williams,94.212,92.32,92.002,,False,,False,,20
+2023,19,Mexico City Grand Prix,Charles Leclerc,Ferrari,80.297,78.952,78.97,78.401,True,77.901,True,77.166,1
+2023,19,Mexico City Grand Prix,Carlos Sainz,Ferrari,80.479,79.257,79.293,78.755,True,78.382,True,77.233,2
+2023,19,Mexico City Grand Prix,Max Verstappen,Red Bull Racing,79.718,78.686,77.887,78.099,True,77.625,True,77.263,3
+2023,19,Mexico City Grand Prix,Daniel Ricciardo,AlphaTauri,80.568,79.002,78.499,78.341,True,77.706,True,77.382,4
+2023,19,Mexico City Grand Prix,Sergio Perez,Red Bull Racing,80.015,78.988,78.026,78.553,True,78.124,True,77.423,5
+2023,19,Mexico City Grand Prix,Lewis Hamilton,Mercedes,80.724,79.024,78.522,78.677,True,77.571,True,77.454,6
+2023,19,Mexico City Grand Prix,Oscar Piastri,McLaren,80.463,79.163,78.392,78.241,True,77.874,True,77.623,7
+2023,19,Mexico City Grand Prix,George Russell,Mercedes,,79.227,78.248,78.893,True,77.673,True,77.674,8
+2023,19,Mexico City Grand Prix,Valtteri Bottas,Alfa Romeo,,78.955,78.437,78.429,True,78.016,True,78.032,9
+2023,19,Mexico City Grand Prix,Guanyu Zhou,Alfa Romeo,81.129,79.415,78.917,79.016,True,78.44,True,78.05,10
+2023,19,Mexico City Grand Prix,Pierre Gasly,Alpine,,79.642,79.509,78.945,True,78.521,False,,11
+2023,19,Mexico City Grand Prix,Nico Hulkenberg,Haas F1 Team,80.968,79.535,79.32,78.969,True,78.524,False,,12
+2023,19,Mexico City Grand Prix,Fernando Alonso,Aston Martin,81.347,80.426,79.471,78.848,True,78.738,False,,13
+2023,19,Mexico City Grand Prix,Alexander Albon,Williams,79.813,79.446,77.957,78.828,True,79.147,False,,14
+2023,19,Mexico City Grand Prix,Yuki Tsunoda,AlphaTauri,,79.29,78.45,78.89,False,,False,,15
+2023,19,Mexico City Grand Prix,Esteban Ocon,Alpine,80.677,79.077,79.839,79.08,False,,False,,16
+2023,19,Mexico City Grand Prix,Kevin Magnussen,Haas F1 Team,,80.112,79.573,79.163,False,,False,,17
+2023,19,Mexico City Grand Prix,Lance Stroll,Aston Martin,80.687,80.075,79.094,79.227,False,,False,,18
+2023,19,Mexico City Grand Prix,Lando Norris,McLaren,80.237,78.805,78.48,81.554,False,,False,,19
+2023,19,Mexico City Grand Prix,Logan Sargeant,Williams,81.157,79.9,78.718,,False,,False,,20
+2023,21,Las Vegas Grand Prix,Charles Leclerc,Ferrari,100.909,95.265,95.908,93.617,True,92.775,True,92.726,1
+2023,21,Las Vegas Grand Prix,Carlos Sainz,Ferrari,105.824,95.782,95.939,93.851,True,93.338,True,92.77,2
+2023,21,Las Vegas Grand Prix,Max Verstappen,Red Bull Racing,104.397,96.183,94.653,94.19,True,93.572,True,93.104,3
+2023,21,Las Vegas Grand Prix,George Russell,Mercedes,105.497,96.89,94.093,94.137,True,93.351,True,93.112,4
+2023,21,Las Vegas Grand Prix,Pierre Gasly,Alpine,108.253,97.134,96.485,94.272,True,93.494,True,93.239,5
+2023,21,Las Vegas Grand Prix,Alexander Albon,Williams,,96.688,94.726,94.634,True,93.588,True,93.323,6
+2023,21,Las Vegas Grand Prix,Logan Sargeant,Williams,,98.14,94.645,94.525,True,93.733,True,93.513,7
+2023,21,Las Vegas Grand Prix,Valtteri Bottas,Alfa Romeo,107.147,96.129,94.908,94.305,True,93.809,True,93.525,8
+2023,21,Las Vegas Grand Prix,Kevin Magnussen,Haas F1 Team,104.261,96.917,95.067,94.337,True,93.664,True,93.537,9
+2023,21,Las Vegas Grand Prix,Fernando Alonso,Aston Martin,,95.793,94.788,94.422,True,93.617,True,93.555,10
+2023,21,Las Vegas Grand Prix,Lewis Hamilton,Mercedes,108.513,96.663,94.853,94.307,True,93.837,False,,11
+2023,21,Las Vegas Grand Prix,Sergio Perez,Red Bull Racing,106.793,96.085,94.706,94.574,True,93.855,False,,12
+2023,21,Las Vegas Grand Prix,Nico Hulkenberg,Haas F1 Team,103.446,96.489,95.112,94.265,True,93.979,False,,13
+2023,21,Las Vegas Grand Prix,Lance Stroll,Aston Martin,,96.496,95.253,94.504,True,94.199,False,,14
+2023,21,Las Vegas Grand Prix,Daniel Ricciardo,AlphaTauri,108.65,97.68,97.778,94.683,True,94.308,False,,15
+2023,21,Las Vegas Grand Prix,Lando Norris,McLaren,108.947,96.864,95.089,94.703,False,,False,,16
+2023,21,Las Vegas Grand Prix,Esteban Ocon,Alpine,105.365,97.241,95.297,94.834,False,,False,,17
+2023,21,Las Vegas Grand Prix,Guanyu Zhou,Alfa Romeo,108.822,97.656,95.881,94.849,False,,False,,18
+2023,21,Las Vegas Grand Prix,Oscar Piastri,McLaren,,96.987,94.491,94.85,False,,False,,19
+2023,21,Las Vegas Grand Prix,Yuki Tsunoda,AlphaTauri,105.908,97.412,96.087,96.447,False,,False,,20
+2023,22,Abu Dhabi Grand Prix,Max Verstappen,Red Bull Racing,,84.982,85.153,84.16,True,83.74,True,83.445,1
+2023,22,Abu Dhabi Grand Prix,Charles Leclerc,Ferrari,,84.809,85.099,84.459,True,83.969,True,83.584,2
+2023,22,Abu Dhabi Grand Prix,Oscar Piastri,McLaren,86.665,85.361,84.81,84.487,True,84.278,True,83.782,3
+2023,22,Abu Dhabi Grand Prix,George Russell,Mercedes,86.072,85.122,84.418,84.337,True,84.013,True,83.788,4
+2023,22,Abu Dhabi Grand Prix,Lando Norris,McLaren,,84.852,84.513,84.368,True,83.92,True,83.816,5
+2023,22,Abu Dhabi Grand Prix,Yuki Tsunoda,AlphaTauri,86.725,85.669,85.222,84.286,True,84.207,True,83.968,6
+2023,22,Abu Dhabi Grand Prix,Fernando Alonso,Aston Martin,,85.397,85.343,84.501,True,84.131,True,84.084,7
+2023,22,Abu Dhabi Grand Prix,Nico Hulkenberg,Haas F1 Team,,87.147,85.584,84.425,True,84.213,True,84.108,8
+2023,22,Abu Dhabi Grand Prix,Sergio Perez,Red Bull Racing,,85.112,85.259,84.209,True,84.116,True,84.171,9
+2023,22,Abu Dhabi Grand Prix,Pierre Gasly,Alpine,86.72,85.321,85.303,84.6,True,84.078,True,84.548,10
+2023,22,Abu Dhabi Grand Prix,Lewis Hamilton,Mercedes,,85.315,85.292,84.437,True,84.359,False,,11
+2023,22,Abu Dhabi Grand Prix,Esteban Ocon,Alpine,,85.566,85.194,84.565,True,84.391,False,,12
+2023,22,Abu Dhabi Grand Prix,Lance Stroll,Aston Martin,86.631,85.492,85.405,84.405,True,84.422,False,,13
+2023,22,Abu Dhabi Grand Prix,Alexander Albon,Williams,,86.081,84.929,84.298,True,84.439,False,,14
+2023,22,Abu Dhabi Grand Prix,Daniel Ricciardo,AlphaTauri,86.433,85.467,85.597,84.461,True,84.442,False,,15
+2023,22,Abu Dhabi Grand Prix,Carlos Sainz,Ferrari,86.676,86.707,85.713,84.738,False,,False,,16
+2023,22,Abu Dhabi Grand Prix,Kevin Magnussen,Haas F1 Team,87.462,86.413,85.652,84.764,False,,False,,17
+2023,22,Abu Dhabi Grand Prix,Valtteri Bottas,Alfa Romeo,86.453,85.024,85.42,84.788,False,,False,,18
+2023,22,Abu Dhabi Grand Prix,Guanyu Zhou,Alfa Romeo,,85.223,85.258,85.159,False,,False,,19
+2023,22,Abu Dhabi Grand Prix,Logan Sargeant,Williams,86.742,86.659,85.205,,False,,False,,20

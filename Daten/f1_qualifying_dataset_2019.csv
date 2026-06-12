@@ -1,0 +1,401 @@
+season,round,gp_name,driver_name,team_name,fp1_besttime,fp2_besttime,fp3_besttime,q1_besttime,qualified_for_q2,q2_besttime,qualified_for_q3,q3_besttime,startposition
+2019,1,Australian Grand Prix,Lewis Hamilton,Mercedes,83.599,82.6,82.292,82.043,True,81.014,True,80.486,1
+2019,1,Australian Grand Prix,Valtteri Bottas,Mercedes,83.866,82.648,83.422,82.367,True,81.193,True,80.598,2
+2019,1,Australian Grand Prix,Sebastian Vettel,Ferrari,83.637,83.473,82.556,82.885,True,81.912,True,81.19,3
+2019,1,Australian Grand Prix,Max Verstappen,Red Bull Racing,83.792,83.4,83.481,82.876,True,81.678,True,81.32,4
+2019,1,Australian Grand Prix,Charles Leclerc,Ferrari,83.673,83.754,82.749,82.017,True,81.739,True,81.442,5
+2019,1,Australian Grand Prix,Romain Grosjean,Haas F1 Team,85.224,83.814,83.112,82.959,True,81.87,True,81.826,6
+2019,1,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,84.934,83.988,83.334,82.519,True,82.221,True,82.099,7
+2019,1,Australian Grand Prix,Lando Norris,McLaren,85.966,84.733,84.568,82.702,True,82.423,True,82.304,8
+2019,1,Australian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,84.816,83.572,84.402,82.966,True,82.349,True,82.314,9
+2019,1,Australian Grand Prix,Sergio Perez,Racing Point,85.498,84.401,84.082,82.908,True,82.532,True,82.781,10
+2019,1,Australian Grand Prix,Nico Hulkenberg,Renault,85.015,83.574,83.737,82.54,True,82.562,False,,11
+2019,1,Australian Grand Prix,Daniel Ricciardo,Renault,85.634,83.644,83.695,82.921,True,82.57,False,,12
+2019,1,Australian Grand Prix,Alexander Albon,Toro Rosso,85.23,84.675,84.328,82.757,True,82.636,False,,13
+2019,1,Australian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,85.166,84.293,83.831,82.431,True,82.714,False,,14
+2019,1,Australian Grand Prix,Daniil Kvyat,Toro Rosso,84.832,83.933,83.442,82.511,True,82.774,False,,15
+2019,1,Australian Grand Prix,Lance Stroll,Racing Point,85.288,84.011,84.345,83.017,False,,False,,16
+2019,1,Australian Grand Prix,Pierre Gasly,Red Bull Racing,84.932,83.442,83.367,83.02,False,,False,,17
+2019,1,Australian Grand Prix,Carlos Sainz,McLaren,85.285,84.133,84.049,83.084,False,,False,,18
+2019,1,Australian Grand Prix,George Russell,Williams,88.74,86.453,85.944,84.36,False,,False,,19
+2019,1,Australian Grand Prix,Robert Kubica,Williams,87.914,86.655,86.589,86.067,False,,False,,20
+2019,2,Bahrain Grand Prix,Charles Leclerc,Ferrari,90.354,88.881,89.569,88.495,True,88.046,True,87.866,1
+2019,2,Bahrain Grand Prix,Sebastian Vettel,Ferrari,90.617,88.846,89.738,88.733,True,88.356,True,88.16,2
+2019,2,Bahrain Grand Prix,Lewis Hamilton,Mercedes,91.601,89.449,90.334,89.262,True,88.578,True,88.19,3
+2019,2,Bahrain Grand Prix,Valtteri Bottas,Mercedes,91.328,89.557,90.389,89.498,True,88.83,True,88.256,4
+2019,2,Bahrain Grand Prix,Max Verstappen,Red Bull Racing,91.673,89.725,90.959,89.579,True,89.109,True,88.752,5
+2019,2,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,92.602,90.0,91.54,89.532,True,89.017,True,88.757,6
+2019,2,Bahrain Grand Prix,Carlos Sainz,McLaren,91.952,90.192,90.965,89.528,True,89.055,True,88.813,7
+2019,2,Bahrain Grand Prix,Romain Grosjean,Haas F1 Team,92.994,90.068,90.818,89.688,True,89.249,True,89.015,8
+2019,2,Bahrain Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,92.385,91.088,91.333,89.959,True,89.471,True,89.022,9
+2019,2,Bahrain Grand Prix,Lando Norris,McLaren,92.945,90.017,90.955,89.381,True,89.258,True,89.043,10
+2019,2,Bahrain Grand Prix,Daniel Ricciardo,Renault,92.401,90.848,91.643,89.859,True,89.488,False,,11
+2019,2,Bahrain Grand Prix,Alexander Albon,Toro Rosso,92.874,90.458,91.679,89.514,True,89.513,False,,12
+2019,2,Bahrain Grand Prix,Pierre Gasly,Red Bull Racing,91.815,90.429,91.392,89.9,True,89.526,False,,13
+2019,2,Bahrain Grand Prix,Sergio Perez,Racing Point,92.885,90.716,91.638,89.893,True,89.756,False,,14
+2019,2,Bahrain Grand Prix,Daniil Kvyat,Toro Rosso,92.339,90.093,91.173,89.876,True,89.854,False,,15
+2019,2,Bahrain Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,92.949,91.144,92.132,90.026,False,,False,,16
+2019,2,Bahrain Grand Prix,Nico Hulkenberg,Renault,92.04,89.669,90.91,90.034,False,,False,,17
+2019,2,Bahrain Grand Prix,Lance Stroll,Racing Point,93.518,91.129,91.618,90.217,False,,False,,18
+2019,2,Bahrain Grand Prix,George Russell,Williams,94.188,91.904,93.387,91.759,False,,False,,19
+2019,2,Bahrain Grand Prix,Robert Kubica,Williams,94.253,92.932,93.525,91.799,False,,False,,20
+2019,3,Chinese Grand Prix,Valtteri Bottas,Mercedes,94.653,93.33,92.83,92.658,True,91.728,True,91.547,1
+2019,3,Chinese Grand Prix,Lewis Hamilton,Mercedes,94.118,94.037,93.689,93.115,True,91.637,True,91.57,2
+2019,3,Chinese Grand Prix,Sebastian Vettel,Ferrari,93.911,93.357,93.222,93.557,True,92.232,True,91.848,3
+2019,3,Chinese Grand Prix,Charles Leclerc,Ferrari,94.167,94.158,93.248,92.712,True,92.324,True,91.865,4
+2019,3,Chinese Grand Prix,Max Verstappen,Red Bull Racing,94.334,93.551,94.447,93.274,True,92.369,True,92.089,5
+2019,3,Chinese Grand Prix,Pierre Gasly,Red Bull Racing,95.428,94.455,95.326,93.863,True,92.948,True,92.93,6
+2019,3,Chinese Grand Prix,Daniel Ricciardo,Renault,95.239,94.336,95.142,93.709,True,93.214,True,92.958,7
+2019,3,Chinese Grand Prix,Nico Hulkenberg,Renault,95.591,94.096,93.974,93.644,True,93.968,True,92.962,8
+2019,3,Chinese Grand Prix,Kevin Magnussen,Haas F1 Team,95.517,94.788,95.998,94.036,True,93.15,False,,9
+2019,3,Chinese Grand Prix,Romain Grosjean,Haas F1 Team,95.507,95.704,95.771,93.752,True,93.156,False,,10
+2019,3,Chinese Grand Prix,Daniil Kvyat,Toro Rosso,95.447,94.694,94.783,93.783,True,93.236,False,,11
+2019,3,Chinese Grand Prix,Sergio Perez,Racing Point,95.82,94.784,95.078,94.026,True,93.299,False,,12
+2019,3,Chinese Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,95.729,94.551,94.246,94.125,True,93.419,False,,13
+2019,3,Chinese Grand Prix,Carlos Sainz,McLaren,95.756,94.141,94.51,93.686,True,93.523,False,,14
+2019,3,Chinese Grand Prix,Lando Norris,McLaren,95.631,94.296,94.938,94.148,True,93.967,False,,15
+2019,3,Chinese Grand Prix,Lance Stroll,Racing Point,95.466,94.779,95.223,94.292,False,,False,,16
+2019,3,Chinese Grand Prix,George Russell,Williams,97.619,96.229,96.124,95.253,False,,False,,17
+2019,3,Chinese Grand Prix,Robert Kubica,Williams,96.847,96.121,96.176,95.281,False,,False,,18
+2019,3,Chinese Grand Prix,Alexander Albon,Toro Rosso,95.695,94.634,94.6,,False,,False,,19
+2019,3,Chinese Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,,95.914,95.726,,False,,False,,20
+2019,4,Azerbaijan Grand Prix,Valtteri Bottas,Mercedes,,104.003,103.064,102.026,True,101.5,True,100.495,1
+2019,4,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes,,103.541,103.176,101.614,True,101.58,True,100.554,2
+2019,4,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,109.598,103.196,101.802,102.042,True,101.889,True,100.797,3
+2019,4,Azerbaijan Grand Prix,Max Verstappen,Red Bull Racing,,103.793,102.852,101.727,True,101.388,True,101.069,4
+2019,4,Azerbaijan Grand Prix,Sergio Perez,Racing Point,,105.436,103.43,102.249,True,101.87,True,101.593,5
+2019,4,Azerbaijan Grand Prix,Daniil Kvyat,Toro Rosso,,104.177,103.223,102.324,True,102.221,True,101.681,6
+2019,4,Azerbaijan Grand Prix,Lando Norris,McLaren,,104.295,103.924,102.371,True,102.084,True,101.886,7
+2019,4,Azerbaijan Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,,105.366,103.637,102.14,True,102.381,True,102.424,8
+2019,4,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,107.497,102.872,101.604,101.426,True,101.995,False,,9
+2019,4,Azerbaijan Grand Prix,Carlos Sainz,McLaren,,104.183,103.978,101.936,True,102.398,False,,10
+2019,4,Azerbaijan Grand Prix,Daniel Ricciardo,Renault,,105.483,103.561,102.486,True,102.477,False,,11
+2019,4,Azerbaijan Grand Prix,Alexander Albon,Toro Rosso,,104.216,103.3,102.154,True,102.494,False,,12
+2019,4,Azerbaijan Grand Prix,Kevin Magnussen,Haas F1 Team,,104.901,103.294,102.382,True,102.699,False,,13
+2019,4,Azerbaijan Grand Prix,Lance Stroll,Racing Point,,107.875,104.039,102.63,False,,False,,14
+2019,4,Azerbaijan Grand Prix,Romain Grosjean,Haas F1 Team,,105.618,104.374,103.407,False,,False,,15
+2019,4,Azerbaijan Grand Prix,Nico Hulkenberg,Renault,,106.717,104.043,103.427,False,,False,,16
+2019,4,Azerbaijan Grand Prix,George Russell,Williams,,,106.29,105.062,False,,False,,17
+2019,4,Azerbaijan Grand Prix,Robert Kubica,Williams,,108.111,106.0,105.455,False,,False,,18
+2019,4,Azerbaijan Grand Prix,Pierre Gasly,Red Bull Racing,,104.24,107.836,,False,,False,,19
+2019,4,Azerbaijan Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,,105.482,103.537,,False,,False,,20
+2019,5,Spanish Grand Prix,Valtteri Bottas,Mercedes,77.951,77.284,77.123,76.979,True,75.924,True,75.406,1
+2019,5,Spanish Grand Prix,Lewis Hamilton,Mercedes,78.575,77.333,76.568,77.292,True,76.038,True,76.04,2
+2019,5,Spanish Grand Prix,Sebastian Vettel,Ferrari,78.066,77.673,77.172,77.425,True,76.667,True,76.272,3
+2019,5,Spanish Grand Prix,Max Verstappen,Red Bull Racing,79.844,78.035,77.558,77.244,True,76.726,True,76.357,4
+2019,5,Spanish Grand Prix,Charles Leclerc,Ferrari,78.172,77.585,77.099,77.388,True,76.714,True,76.588,5
+2019,5,Spanish Grand Prix,Pierre Gasly,Red Bull Racing,79.285,78.238,78.693,77.862,True,76.932,True,76.708,6
+2019,5,Spanish Grand Prix,Romain Grosjean,Haas F1 Team,78.943,78.153,77.192,78.042,True,77.066,True,76.911,7
+2019,5,Spanish Grand Prix,Kevin Magnussen,Haas F1 Team,79.18,78.355,77.53,77.669,True,77.272,True,76.922,8
+2019,5,Spanish Grand Prix,Daniil Kvyat,Toro Rosso,79.364,78.722,78.105,77.914,True,77.243,True,77.573,9
+2019,5,Spanish Grand Prix,Daniel Ricciardo,Renault,79.511,78.934,78.974,78.385,True,77.299,True,78.106,10
+2019,5,Spanish Grand Prix,Lando Norris,McLaren,80.066,79.041,79.007,77.611,True,77.338,False,,11
+2019,5,Spanish Grand Prix,Alexander Albon,Toro Rosso,80.03,78.779,77.864,77.796,True,77.445,False,,12
+2019,5,Spanish Grand Prix,Carlos Sainz,McLaren,79.155,78.658,78.003,77.76,True,77.599,False,,13
+2019,5,Spanish Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,80.591,78.727,77.969,78.132,True,77.788,False,,14
+2019,5,Spanish Grand Prix,Sergio Perez,Racing Point,80.459,79.448,78.656,78.286,True,77.886,False,,15
+2019,5,Spanish Grand Prix,Nico Hulkenberg,Renault,79.45,78.861,78.35,78.404,False,,False,,16
+2019,5,Spanish Grand Prix,Lance Stroll,Racing Point,79.855,78.839,78.734,78.471,False,,False,,17
+2019,5,Spanish Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,80.021,79.427,78.74,78.664,False,,False,,18
+2019,5,Spanish Grand Prix,George Russell,Williams,80.99,80.191,79.421,79.072,False,,False,,19
+2019,5,Spanish Grand Prix,Robert Kubica,Williams,80.889,80.781,80.57,80.254,False,,False,,20
+2019,6,Monaco Grand Prix,Lewis Hamilton,Mercedes,72.106,71.118,71.478,71.542,True,70.835,True,70.166,1
+2019,6,Monaco Grand Prix,Valtteri Bottas,Mercedes,72.178,71.199,71.318,71.562,True,70.701,True,70.252,2
+2019,6,Monaco Grand Prix,Max Verstappen,Red Bull Racing,72.165,72.052,71.539,71.597,True,70.618,True,70.641,3
+2019,6,Monaco Grand Prix,Sebastian Vettel,Ferrari,72.823,71.881,72.583,71.434,True,71.227,True,70.947,4
+2019,6,Monaco Grand Prix,Pierre Gasly,Red Bull Racing,73.17,71.938,71.738,71.74,True,71.457,True,71.041,5
+2019,6,Monaco Grand Prix,Kevin Magnussen,Haas F1 Team,73.232,72.174,72.27,71.865,True,71.363,True,71.109,6
+2019,6,Monaco Grand Prix,Daniel Ricciardo,Renault,73.413,72.888,72.519,71.767,True,71.543,True,71.218,7
+2019,6,Monaco Grand Prix,Daniil Kvyat,Toro Rosso,73.731,72.577,72.194,71.602,True,71.412,True,71.271,8
+2019,6,Monaco Grand Prix,Carlos Sainz,McLaren,120.67,72.419,72.862,71.872,True,71.608,True,71.417,9
+2019,6,Monaco Grand Prix,Alexander Albon,Toro Rosso,73.827,72.031,72.338,72.007,True,71.429,True,71.653,10
+2019,6,Monaco Grand Prix,Nico Hulkenberg,Renault,73.227,72.872,72.489,72.097,True,71.67,False,,11
+2019,6,Monaco Grand Prix,Lando Norris,McLaren,74.278,72.393,72.914,71.845,True,71.724,False,,12
+2019,6,Monaco Grand Prix,Romain Grosjean,Haas F1 Team,73.379,72.392,72.566,71.837,True,72.027,False,,13
+2019,6,Monaco Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,73.363,72.342,72.308,71.993,True,72.115,False,,14
+2019,6,Monaco Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,73.437,72.239,72.17,71.976,True,72.185,False,,15
+2019,6,Monaco Grand Prix,Charles Leclerc,Ferrari,72.467,72.35,71.265,72.149,False,,False,,16
+2019,6,Monaco Grand Prix,Sergio Perez,Racing Point,74.566,72.752,73.232,72.233,False,,False,,17
+2019,6,Monaco Grand Prix,Lance Stroll,Racing Point,76.135,74.558,73.622,72.846,False,,False,,18
+2019,6,Monaco Grand Prix,George Russell,Williams,75.115,75.052,74.305,73.477,False,,False,,19
+2019,6,Monaco Grand Prix,Robert Kubica,Williams,75.514,75.146,74.086,73.751,False,,False,,20
+2019,7,Canadian Grand Prix,Sebastian Vettel,Ferrari,73.905,72.251,70.843,71.2,True,71.142,True,70.24,1
+2019,7,Canadian Grand Prix,Lewis Hamilton,Mercedes,72.767,72.938,71.236,71.518,True,71.01,True,70.446,2
+2019,7,Canadian Grand Prix,Charles Leclerc,Ferrari,73.72,72.177,70.982,71.214,True,71.205,True,70.92,3
+2019,7,Canadian Grand Prix,Daniel Ricciardo,Renault,74.123,73.016,72.045,71.837,True,71.532,True,71.071,4
+2019,7,Canadian Grand Prix,Pierre Gasly,Red Bull Racing,74.57,73.345,71.914,72.023,True,71.196,True,71.079,5
+2019,7,Canadian Grand Prix,Valtteri Bottas,Mercedes,72.914,72.311,71.531,71.229,True,71.095,True,71.101,6
+2019,7,Canadian Grand Prix,Nico Hulkenberg,Renault,74.474,73.168,72.305,71.72,True,71.553,True,71.324,7
+2019,7,Canadian Grand Prix,Lando Norris,McLaren,74.246,73.249,72.154,71.78,True,71.735,True,71.863,8
+2019,7,Canadian Grand Prix,Carlos Sainz,McLaren,73.973,72.553,72.399,71.75,True,71.572,True,73.981,9
+2019,7,Canadian Grand Prix,Kevin Magnussen,Haas F1 Team,74.202,72.935,72.337,72.107,True,71.786,False,,10
+2019,7,Canadian Grand Prix,Max Verstappen,Red Bull Racing,73.755,73.388,71.842,71.619,True,71.8,False,,11
+2019,7,Canadian Grand Prix,Daniil Kvyat,Toro Rosso,75.343,73.521,72.298,71.965,True,71.921,False,,12
+2019,7,Canadian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,74.582,74.87,72.627,72.122,True,72.136,False,,13
+2019,7,Canadian Grand Prix,Alexander Albon,Toro Rosso,74.703,73.436,72.423,72.02,True,72.193,False,,14
+2019,7,Canadian Grand Prix,Romain Grosjean,Haas F1 Team,74.645,73.598,73.197,72.109,False,,False,,15
+2019,7,Canadian Grand Prix,Sergio Perez,Racing Point,74.172,73.003,72.175,72.197,False,,False,,16
+2019,7,Canadian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,73.945,73.542,72.708,72.23,False,,False,,17
+2019,7,Canadian Grand Prix,Lance Stroll,Racing Point,74.812,73.171,,72.266,False,,False,,18
+2019,7,Canadian Grand Prix,George Russell,Williams,75.989,75.036,73.966,73.617,False,,False,,19
+2019,7,Canadian Grand Prix,Robert Kubica,Williams,,75.287,74.426,74.393,False,,False,,20
+2019,8,French Grand Prix,Lewis Hamilton,Mercedes,92.738,91.361,90.2,90.609,True,89.52,True,88.319,1
+2019,8,French Grand Prix,Valtteri Bottas,Mercedes,92.807,90.937,90.159,90.55,True,89.437,True,88.605,2
+2019,8,French Grand Prix,Charles Leclerc,Ferrari,93.111,91.586,90.605,90.647,True,89.699,True,88.965,3
+2019,8,French Grand Prix,Max Verstappen,Red Bull Racing,93.618,92.049,91.538,91.327,True,90.099,True,89.409,4
+2019,8,French Grand Prix,Lando Norris,McLaren,94.11,91.882,91.654,90.989,True,90.019,True,89.418,5
+2019,8,French Grand Prix,Carlos Sainz,McLaren,94.261,92.432,91.887,91.073,True,90.319,True,89.522,6
+2019,8,French Grand Prix,Sebastian Vettel,Ferrari,93.79,91.665,90.633,91.075,True,89.506,True,89.799,7
+2019,8,French Grand Prix,Daniel Ricciardo,Renault,94.54,93.02,91.802,90.954,True,90.369,True,89.918,8
+2019,8,French Grand Prix,Pierre Gasly,Red Bull Racing,94.091,92.448,91.599,91.152,True,90.421,True,90.184,9
+2019,8,French Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,96.102,92.973,92.171,91.18,True,90.408,True,93.42,10
+2019,8,French Grand Prix,Alexander Albon,Toro Rosso,94.804,93.023,92.178,91.445,True,90.461,False,,11
+2019,8,French Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,95.522,92.677,91.943,90.972,True,90.533,False,,12
+2019,8,French Grand Prix,Nico Hulkenberg,Renault,94.81,93.081,92.023,90.865,True,90.544,False,,13
+2019,8,French Grand Prix,Sergio Perez,Racing Point,94.809,93.3,92.491,90.964,True,90.738,False,,14
+2019,8,French Grand Prix,Kevin Magnussen,Haas F1 Team,95.41,92.789,92.4,91.166,True,91.44,False,,15
+2019,8,French Grand Prix,Daniil Kvyat,Toro Rosso,95.326,93.254,92.54,91.564,False,,False,,16
+2019,8,French Grand Prix,Romain Grosjean,Haas F1 Team,97.62,93.591,92.385,91.626,False,,False,,17
+2019,8,French Grand Prix,Lance Stroll,Racing Point,95.063,93.884,92.678,91.726,False,,False,,18
+2019,8,French Grand Prix,George Russell,Williams,,94.614,99.987,92.789,False,,False,,19
+2019,8,French Grand Prix,Robert Kubica,Williams,97.172,95.195,93.902,93.205,False,,False,,20
+2019,9,Austrian Grand Prix,Charles Leclerc,Ferrari,65.141,65.086,63.987,64.138,True,63.378,True,63.003,1
+2019,9,Austrian Grand Prix,Lewis Hamilton,Mercedes,64.838,65.529,64.13,63.818,True,63.803,True,63.262,2
+2019,9,Austrian Grand Prix,Max Verstappen,Red Bull Racing,65.26,65.879,64.446,63.807,True,63.835,True,63.439,3
+2019,9,Austrian Grand Prix,Valtteri Bottas,Mercedes,64.999,65.417,64.221,64.084,True,63.863,True,63.537,4
+2019,9,Austrian Grand Prix,Kevin Magnussen,Haas F1 Team,65.876,65.96,66.017,64.778,True,64.466,True,64.072,5
+2019,9,Austrian Grand Prix,Lando Norris,McLaren,66.125,65.952,64.986,64.361,True,64.211,True,64.099,6
+2019,9,Austrian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,66.729,65.728,65.514,64.615,True,64.056,True,64.166,7
+2019,9,Austrian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,66.708,66.119,65.336,64.45,True,64.194,True,64.179,8
+2019,9,Austrian Grand Prix,Pierre Gasly,Red Bull Racing,65.378,65.487,65.152,64.412,True,63.988,True,64.199,9
+2019,9,Austrian Grand Prix,Sebastian Vettel,Ferrari,64.982,65.871,64.25,64.43,True,63.667,False,,10
+2019,9,Austrian Grand Prix,Romain Grosjean,Haas F1 Team,66.135,65.701,65.62,64.552,True,64.49,False,,11
+2019,9,Austrian Grand Prix,Nico Hulkenberg,Renault,66.383,66.249,65.514,64.733,True,64.516,False,,12
+2019,9,Austrian Grand Prix,Alexander Albon,Toro Rosso,66.285,66.064,65.481,64.708,True,64.665,False,,13
+2019,9,Austrian Grand Prix,Daniel Ricciardo,Renault,65.846,66.418,65.878,64.647,True,64.79,False,,14
+2019,9,Austrian Grand Prix,Carlos Sainz,McLaren,65.502,65.545,65.219,64.453,True,73.601,False,,15
+2019,9,Austrian Grand Prix,Sergio Perez,Racing Point,66.457,65.964,65.523,64.789,False,,False,,16
+2019,9,Austrian Grand Prix,Lance Stroll,Racing Point,66.756,66.829,65.65,64.832,False,,False,,17
+2019,9,Austrian Grand Prix,Daniil Kvyat,Toro Rosso,66.272,66.148,65.391,65.324,False,,False,,18
+2019,9,Austrian Grand Prix,George Russell,Williams,66.805,67.217,66.676,65.904,False,,False,,19
+2019,9,Austrian Grand Prix,Robert Kubica,Williams,67.665,68.508,67.484,66.206,False,,False,,20
+2019,10,British Grand Prix,Valtteri Bottas,Mercedes,87.629,86.732,86.456,85.75,True,85.672,True,85.093,1
+2019,10,British Grand Prix,Lewis Hamilton,Mercedes,88.122,86.801,85.954,85.513,True,85.84,True,85.099,2
+2019,10,British Grand Prix,Charles Leclerc,Ferrari,88.253,86.929,85.905,85.533,True,85.546,True,85.172,3
+2019,10,British Grand Prix,Max Verstappen,Red Bull Racing,88.009,87.562,86.44,85.7,True,85.848,True,85.276,4
+2019,10,British Grand Prix,Pierre Gasly,Red Bull Racing,87.173,87.249,86.118,86.273,True,86.038,True,85.59,5
+2019,10,British Grand Prix,Sebastian Vettel,Ferrari,88.304,87.18,85.931,85.898,True,86.023,True,85.787,6
+2019,10,British Grand Prix,Daniel Ricciardo,Renault,89.031,88.128,86.965,86.428,True,86.283,True,86.182,7
+2019,10,British Grand Prix,Lando Norris,McLaren,89.17,87.546,86.689,86.079,True,86.385,True,86.224,8
+2019,10,British Grand Prix,Alexander Albon,Toro Rosso,89.093,87.997,86.976,86.482,True,86.403,True,86.345,9
+2019,10,British Grand Prix,Nico Hulkenberg,Renault,88.803,88.217,86.945,86.568,True,86.397,True,86.386,10
+2019,10,British Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,90.099,88.294,87.036,86.449,True,86.519,False,,11
+2019,10,British Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,90.747,88.126,87.424,86.558,True,86.546,False,,12
+2019,10,British Grand Prix,Carlos Sainz,McLaren,89.162,87.987,87.106,86.203,True,86.578,False,,13
+2019,10,British Grand Prix,Romain Grosjean,Haas F1 Team,90.811,88.794,87.11,86.347,True,86.757,False,,14
+2019,10,British Grand Prix,Sergio Perez,Racing Point,89.453,88.002,87.598,86.649,True,86.928,False,,15
+2019,10,British Grand Prix,Kevin Magnussen,Haas F1 Team,90.605,88.059,87.275,86.662,False,,False,,16
+2019,10,British Grand Prix,Daniil Kvyat,Toro Rosso,89.5,88.008,87.108,86.721,False,,False,,17
+2019,10,British Grand Prix,Lance Stroll,Racing Point,89.657,88.24,87.544,86.762,False,,False,,18
+2019,10,British Grand Prix,George Russell,Williams,90.741,90.514,89.065,87.789,False,,False,,19
+2019,10,British Grand Prix,Robert Kubica,Williams,92.121,89.935,89.45,88.257,False,,False,,20
+2019,11,German Grand Prix,Lewis Hamilton,Mercedes,74.315,73.595,72.965,72.852,True,72.149,True,71.767,1
+2019,11,German Grand Prix,Max Verstappen,Red Bull Racing,74.33,74.133,72.548,72.593,True,72.427,True,72.113,2
+2019,11,German Grand Prix,Valtteri Bottas,Mercedes,74.66,74.111,72.89,73.075,True,72.424,True,72.129,3
+2019,11,German Grand Prix,Pierre Gasly,Red Bull Racing,74.813,75.089,73.324,72.991,True,72.385,True,72.522,4
+2019,11,German Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,75.953,74.458,73.351,73.066,True,72.519,True,72.538,5
+2019,11,German Grand Prix,Romain Grosjean,Haas F1 Team,75.074,74.179,73.378,73.146,True,72.769,True,72.851,6
+2019,11,German Grand Prix,Carlos Sainz,McLaren,75.062,74.662,73.3,73.221,True,72.632,True,72.897,7
+2019,11,German Grand Prix,Sergio Perez,Racing Point,75.604,74.518,73.476,73.194,True,72.776,True,73.065,8
+2019,11,German Grand Prix,Nico Hulkenberg,Renault,75.823,74.472,73.496,73.186,True,72.766,True,73.126,9
+2019,11,German Grand Prix,Charles Leclerc,Ferrari,74.268,73.449,72.38,72.229,True,72.344,False,,10
+2019,11,German Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,76.382,75.406,73.671,73.17,True,72.786,False,,11
+2019,11,German Grand Prix,Kevin Magnussen,Haas F1 Team,75.759,75.47,72.893,73.103,True,72.789,False,,12
+2019,11,German Grand Prix,Daniel Ricciardo,Renault,75.567,75.01,73.816,73.131,True,72.799,False,,13
+2019,11,German Grand Prix,Daniil Kvyat,Toro Rosso,75.776,74.8,73.767,73.278,True,73.135,False,,14
+2019,11,German Grand Prix,Lance Stroll,Racing Point,75.191,74.268,73.672,73.256,True,73.45,False,,15
+2019,11,German Grand Prix,Lando Norris,McLaren,75.616,75.247,73.556,73.333,False,,False,,16
+2019,11,German Grand Prix,Alexander Albon,Toro Rosso,75.777,75.062,73.554,73.461,False,,False,,17
+2019,11,German Grand Prix,George Russell,Williams,77.126,76.9,75.824,74.721,False,,False,,18
+2019,11,German Grand Prix,Robert Kubica,Williams,76.559,76.98,75.54,74.839,False,,False,,19
+2019,11,German Grand Prix,Sebastian Vettel,Ferrari,74.013,73.573,72.644,,False,,False,,20
+2019,12,Hungarian Grand Prix,Max Verstappen,Red Bull Racing,77.398,77.909,76.097,75.817,True,75.573,True,74.572,1
+2019,12,Hungarian Grand Prix,Valtteri Bottas,Mercedes,,78.184,76.355,76.078,True,75.669,True,74.59,2
+2019,12,Hungarian Grand Prix,Lewis Hamilton,Mercedes,77.233,77.995,76.084,76.068,True,75.548,True,74.769,3
+2019,12,Hungarian Grand Prix,Charles Leclerc,Ferrari,78.188,78.852,76.392,76.337,True,75.792,True,75.043,4
+2019,12,Hungarian Grand Prix,Sebastian Vettel,Ferrari,77.399,79.254,76.166,76.452,True,75.885,True,75.071,5
+2019,12,Hungarian Grand Prix,Pierre Gasly,Red Bull Racing,77.682,77.854,76.684,76.716,True,76.393,True,75.45,6
+2019,12,Hungarian Grand Prix,Lando Norris,McLaren,78.531,80.401,76.774,76.697,True,76.06,True,75.8,7
+2019,12,Hungarian Grand Prix,Carlos Sainz,McLaren,78.702,79.398,77.217,76.493,True,76.308,True,75.852,8
+2019,12,Hungarian Grand Prix,Romain Grosjean,Haas F1 Team,78.973,79.149,77.293,76.978,True,76.319,True,76.013,9
+2019,12,Hungarian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,78.787,78.682,77.216,76.506,True,76.518,True,76.041,10
+2019,12,Hungarian Grand Prix,Nico Hulkenberg,Renault,78.417,78.892,77.667,76.79,True,76.565,False,,11
+2019,12,Hungarian Grand Prix,Alexander Albon,Toro Rosso,79.223,,78.024,76.912,True,76.687,False,,12
+2019,12,Hungarian Grand Prix,Daniil Kvyat,Toro Rosso,78.982,78.957,77.432,76.75,True,76.692,False,,13
+2019,12,Hungarian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,79.488,78.909,77.929,76.894,True,76.804,False,,14
+2019,12,Hungarian Grand Prix,Kevin Magnussen,Haas F1 Team,77.942,79.178,77.23,76.122,True,77.081,False,,15
+2019,12,Hungarian Grand Prix,George Russell,Williams,79.649,79.889,78.072,77.031,False,,False,,16
+2019,12,Hungarian Grand Prix,Sergio Perez,Racing Point,79.325,79.721,77.67,77.109,False,,False,,17
+2019,12,Hungarian Grand Prix,Daniel Ricciardo,Renault,78.894,78.597,77.962,77.257,False,,False,,18
+2019,12,Hungarian Grand Prix,Lance Stroll,Racing Point,79.722,79.774,78.534,77.542,False,,False,,19
+2019,12,Hungarian Grand Prix,Robert Kubica,Williams,80.322,80.439,78.709,78.324,False,,False,,20
+2019,13,Belgian Grand Prix,Charles Leclerc,Ferrari,104.788,104.123,104.206,103.587,True,102.938,True,102.519,1
+2019,13,Belgian Grand Prix,Sebastian Vettel,Ferrari,104.574,104.753,104.657,104.109,True,103.037,True,103.267,2
+2019,13,Belgian Grand Prix,Lewis Hamilton,Mercedes,105.973,105.015,105.566,105.26,True,103.592,True,103.282,3
+2019,13,Belgian Grand Prix,Valtteri Bottas,Mercedes,105.882,104.969,104.703,105.141,True,103.98,True,103.415,4
+2019,13,Belgian Grand Prix,Max Verstappen,Red Bull Racing,105.507,105.394,105.312,104.622,True,104.132,True,103.69,5
+2019,13,Belgian Grand Prix,Daniel Ricciardo,Renault,106.426,105.735,104.974,105.56,True,104.103,True,104.257,6
+2019,13,Belgian Grand Prix,Nico Hulkenberg,Renault,106.669,106.209,105.855,105.899,True,104.549,True,104.542,7
+2019,13,Belgian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,107.024,105.708,105.659,105.842,True,104.14,True,104.557,8
+2019,13,Belgian Grand Prix,Sergio Perez,Racing Point,106.433,105.117,105.521,105.732,True,104.707,True,104.706,9
+2019,13,Belgian Grand Prix,Kevin Magnussen,Haas F1 Team,107.488,106.399,106.004,105.839,True,104.738,True,105.086,10
+2019,13,Belgian Grand Prix,Romain Grosjean,Haas F1 Team,107.176,106.12,105.806,105.694,True,104.797,False,,11
+2019,13,Belgian Grand Prix,Lando Norris,McLaren,106.67,106.258,106.27,106.154,True,104.847,False,,12
+2019,13,Belgian Grand Prix,Lance Stroll,Racing Point,106.198,105.732,106.379,106.0,True,105.047,False,,13
+2019,13,Belgian Grand Prix,Alexander Albon,Red Bull Racing,105.584,105.771,110.681,105.528,True,105.799,False,,14
+2019,13,Belgian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,107.333,106.328,105.688,105.637,False,,False,,15
+2019,13,Belgian Grand Prix,Pierre Gasly,Toro Rosso,107.968,106.374,105.752,106.435,False,,False,,16
+2019,13,Belgian Grand Prix,Carlos Sainz,McLaren,106.557,105.999,106.017,106.507,False,,False,,17
+2019,13,Belgian Grand Prix,Daniil Kvyat,Toro Rosso,107.636,106.214,106.642,106.518,False,,False,,18
+2019,13,Belgian Grand Prix,George Russell,Williams,,107.887,107.858,107.548,False,,False,,19
+2019,13,Belgian Grand Prix,Robert Kubica,Williams,108.966,108.331,108.35,,False,,False,,20
+2019,14,Italian Grand Prix,Charles Leclerc,Ferrari,87.905,80.978,80.403,80.126,True,79.553,True,79.307,1
+2019,14,Italian Grand Prix,Lewis Hamilton,Mercedes,88.73,81.046,80.595,80.272,True,79.464,True,79.346,2
+2019,14,Italian Grand Prix,Valtteri Bottas,Mercedes,90.596,81.347,80.403,80.156,True,80.018,True,79.354,3
+2019,14,Italian Grand Prix,Sebastian Vettel,Ferrari,90.507,81.179,80.294,80.378,True,79.715,True,79.457,4
+2019,14,Italian Grand Prix,Daniel Ricciardo,Renault,94.528,82.249,80.564,80.374,True,79.833,True,79.839,5
+2019,14,Italian Grand Prix,Nico Hulkenberg,Renault,95.133,82.338,80.752,80.155,True,80.275,True,80.049,6
+2019,14,Italian Grand Prix,Carlos Sainz,McLaren,88.211,82.482,80.949,80.413,True,80.202,True,80.455,7
+2019,14,Italian Grand Prix,Alexander Albon,Red Bull Racing,89.025,81.589,80.827,80.382,True,80.021,False,,8
+2019,14,Italian Grand Prix,Lance Stroll,Racing Point,93.976,82.706,81.639,80.643,True,80.498,False,,9
+2019,14,Italian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,,82.523,81.325,80.634,True,80.515,False,,10
+2019,14,Italian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,92.848,83.065,80.881,80.657,True,80.517,False,,11
+2019,14,Italian Grand Prix,Kevin Magnussen,Haas F1 Team,94.715,82.511,81.336,80.616,True,80.615,False,,12
+2019,14,Italian Grand Prix,Daniil Kvyat,Toro Rosso,89.96,82.26,80.945,80.723,True,80.63,False,,13
+2019,14,Italian Grand Prix,Lando Norris,McLaren,88.45,83.561,81.292,80.646,True,81.068,False,,14
+2019,14,Italian Grand Prix,Pierre Gasly,Toro Rosso,90.695,82.124,81.073,80.508,True,81.125,False,,15
+2019,14,Italian Grand Prix,Romain Grosjean,Haas F1 Team,95.98,82.153,81.621,80.784,False,,False,,16
+2019,14,Italian Grand Prix,Sergio Perez,Racing Point,,82.882,81.003,81.291,False,,False,,17
+2019,14,Italian Grand Prix,George Russell,Williams,98.421,84.313,82.374,81.8,False,,False,,18
+2019,14,Italian Grand Prix,Robert Kubica,Williams,97.816,83.737,82.758,82.356,False,,False,,19
+2019,14,Italian Grand Prix,Max Verstappen,Red Bull Racing,90.1,81.35,80.326,,False,,False,,20
+2019,15,Singapore Grand Prix,Charles Leclerc,Ferrari,103.618,100.018,98.192,98.014,True,96.65,True,96.217,1
+2019,15,Singapore Grand Prix,Lewis Hamilton,Mercedes,100.925,98.773,98.399,97.565,True,96.933,True,96.408,2
+2019,15,Singapore Grand Prix,Sebastian Vettel,Ferrari,100.426,99.591,98.811,98.374,True,96.72,True,96.437,3
+2019,15,Singapore Grand Prix,Max Verstappen,Red Bull Racing,100.259,98.957,99.366,98.54,True,97.089,True,96.813,4
+2019,15,Singapore Grand Prix,Valtteri Bottas,Mercedes,101.336,99.894,98.885,97.317,True,97.142,True,97.146,5
+2019,15,Singapore Grand Prix,Alexander Albon,Red Bull Racing,101.467,99.943,99.258,99.106,True,97.865,True,97.411,6
+2019,15,Singapore Grand Prix,Carlos Sainz,McLaren,101.966,100.145,99.507,98.882,True,97.982,True,97.818,7
+2019,15,Singapore Grand Prix,Nico Hulkenberg,Renault,101.812,100.324,100.118,99.001,True,98.58,True,98.264,8
+2019,15,Singapore Grand Prix,Lando Norris,McLaren,102.18,100.361,99.709,98.606,True,97.572,True,98.329,9
+2019,15,Singapore Grand Prix,Sergio Perez,Racing Point,103.369,100.875,100.985,99.909,True,98.52,False,,10
+2019,15,Singapore Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,102.677,101.128,101.169,99.272,True,98.697,False,,11
+2019,15,Singapore Grand Prix,Pierre Gasly,Toro Rosso,102.377,100.637,100.339,99.085,True,98.699,False,,12
+2019,15,Singapore Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,102.786,101.232,100.953,99.454,True,98.858,False,,13
+2019,15,Singapore Grand Prix,Kevin Magnussen,Haas F1 Team,103.15,101.564,101.494,99.942,True,99.65,False,,14
+2019,15,Singapore Grand Prix,Daniil Kvyat,Toro Rosso,102.305,100.713,,99.957,False,,False,,15
+2019,15,Singapore Grand Prix,Lance Stroll,Racing Point,102.791,101.128,100.209,99.979,False,,False,,16
+2019,15,Singapore Grand Prix,Romain Grosjean,Haas F1 Team,102.63,101.392,101.542,100.277,False,,False,,17
+2019,15,Singapore Grand Prix,George Russell,Williams,103.993,101.445,101.156,100.867,False,,False,,18
+2019,15,Singapore Grand Prix,Robert Kubica,Williams,103.336,102.177,101.954,101.186,False,,False,,19
+2019,15,Singapore Grand Prix,Daniel Ricciardo,Renault,102.527,100.811,100.153,,False,,False,,20
+2019,16,Russian Grand Prix,Charles Leclerc,Ferrari,94.462,93.497,92.733,93.613,True,92.434,True,91.628,1
+2019,16,Russian Grand Prix,Lewis Hamilton,Mercedes,95.411,93.96,93.129,93.23,True,93.134,True,92.03,2
+2019,16,Russian Grand Prix,Sebastian Vettel,Ferrari,95.005,94.201,93.049,93.032,True,92.536,True,92.053,3
+2019,16,Russian Grand Prix,Max Verstappen,Red Bull Racing,94.544,93.162,94.227,93.368,True,92.634,True,92.31,4
+2019,16,Russian Grand Prix,Valtteri Bottas,Mercedes,95.198,93.808,93.354,93.413,True,93.281,True,92.632,5
+2019,16,Russian Grand Prix,Carlos Sainz,McLaren,96.523,95.635,94.607,94.184,True,93.807,True,93.222,6
+2019,16,Russian Grand Prix,Nico Hulkenberg,Renault,95.74,95.026,94.421,94.236,True,93.898,True,93.289,7
+2019,16,Russian Grand Prix,Lando Norris,McLaren,96.844,95.223,94.527,94.201,True,93.725,True,93.301,8
+2019,16,Russian Grand Prix,Romain Grosjean,Haas F1 Team,96.516,95.593,94.308,94.283,True,93.643,True,93.517,9
+2019,16,Russian Grand Prix,Daniel Ricciardo,Renault,96.287,95.37,94.586,94.138,True,93.862,True,93.661,10
+2019,16,Russian Grand Prix,Pierre Gasly,Toro Rosso,96.538,94.971,94.564,94.456,True,93.95,False,,11
+2019,16,Russian Grand Prix,Sergio Perez,Racing Point,96.321,94.998,94.86,94.336,True,93.958,False,,12
+2019,16,Russian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,97.328,96.004,94.766,94.755,True,94.037,False,,13
+2019,16,Russian Grand Prix,Kevin Magnussen,Haas F1 Team,96.596,95.351,94.546,93.889,True,94.082,False,,14
+2019,16,Russian Grand Prix,Lance Stroll,Racing Point,96.714,95.176,94.898,94.287,True,94.233,False,,15
+2019,16,Russian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,96.77,95.374,95.714,94.84,False,,False,,16
+2019,16,Russian Grand Prix,George Russell,Williams,98.52,96.785,96.011,95.356,False,,False,,17
+2019,16,Russian Grand Prix,Robert Kubica,Williams,98.67,97.838,96.942,96.474,False,,False,,18
+2019,16,Russian Grand Prix,Alexander Albon,Red Bull Racing,95.484,95.216,94.371,99.197,False,,False,,19
+2019,16,Russian Grand Prix,Daniil Kvyat,Toro Rosso,98.55,95.337,96.081,99.544,False,,False,,20
+2019,18,Mexican Grand Prix,Max Verstappen,Red Bull Racing,77.461,76.722,76.903,75.949,True,76.136,True,74.758,1
+2019,18,Mexican Grand Prix,Charles Leclerc,Ferrari,77.446,77.072,76.145,76.364,True,76.219,True,75.024,2
+2019,18,Mexican Grand Prix,Sebastian Vettel,Ferrari,78.218,76.607,76.172,76.696,True,75.914,True,75.17,3
+2019,18,Mexican Grand Prix,Lewis Hamilton,Mercedes,77.327,77.57,76.381,76.424,True,75.721,True,75.262,4
+2019,18,Mexican Grand Prix,Alexander Albon,Red Bull Racing,77.949,81.665,77.094,76.175,True,76.574,True,75.336,5
+2019,18,Mexican Grand Prix,Valtteri Bottas,Mercedes,78.005,77.221,76.259,77.062,True,75.852,True,75.338,6
+2019,18,Mexican Grand Prix,Carlos Sainz,McLaren,78.401,78.079,76.638,77.044,True,76.267,True,76.014,7
+2019,18,Mexican Grand Prix,Lando Norris,McLaren,79.299,78.349,77.146,77.092,True,76.447,True,76.322,8
+2019,18,Mexican Grand Prix,Daniil Kvyat,Toro Rosso,78.835,77.747,77.529,77.041,True,76.657,True,76.469,9
+2019,18,Mexican Grand Prix,Pierre Gasly,Toro Rosso,78.593,78.003,77.09,77.065,True,76.679,True,76.586,10
+2019,18,Mexican Grand Prix,Sergio Perez,Racing Point,79.717,78.366,77.207,77.465,True,76.687,False,,11
+2019,18,Mexican Grand Prix,Nico Hulkenberg,Renault,79.011,78.261,,77.608,True,76.885,False,,12
+2019,18,Mexican Grand Prix,Daniel Ricciardo,Renault,79.499,78.38,,77.27,True,76.933,False,,13
+2019,18,Mexican Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,79.205,78.681,77.74,77.225,True,76.967,False,,14
+2019,18,Mexican Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,78.959,78.889,77.881,77.794,True,77.269,False,,15
+2019,18,Mexican Grand Prix,Lance Stroll,Racing Point,79.679,78.362,77.866,78.065,False,,False,,16
+2019,18,Mexican Grand Prix,Kevin Magnussen,Haas F1 Team,79.013,79.306,78.132,78.436,False,,False,,17
+2019,18,Mexican Grand Prix,Romain Grosjean,Haas F1 Team,79.85,78.766,78.527,78.599,False,,False,,18
+2019,18,Mexican Grand Prix,George Russell,Williams,80.548,79.968,80.965,78.823,False,,False,,19
+2019,18,Mexican Grand Prix,Robert Kubica,Williams,,80.18,82.002,80.179,False,,False,,20
+2019,19,United States Grand Prix,Valtteri Bottas,Mercedes,96.159,94.045,93.904,93.75,True,93.16,True,92.029,1
+2019,19,United States Grand Prix,Sebastian Vettel,Ferrari,94.226,93.89,93.523,93.766,True,93.782,True,92.041,2
+2019,19,United States Grand Prix,Max Verstappen,Red Bull Racing,94.057,93.547,93.305,93.549,True,93.12,True,92.096,3
+2019,19,United States Grand Prix,Charles Leclerc,Ferrari,95.38,93.533,,93.988,True,92.76,True,92.137,4
+2019,19,United States Grand Prix,Lewis Hamilton,Mercedes,95.439,93.232,93.923,93.454,True,93.045,True,92.321,5
+2019,19,United States Grand Prix,Alexander Albon,Red Bull Racing,94.316,94.434,93.983,93.984,True,92.898,True,92.548,6
+2019,19,United States Grand Prix,Carlos Sainz,McLaren,95.723,94.667,94.408,93.916,True,93.422,True,92.847,7
+2019,19,United States Grand Prix,Lando Norris,McLaren,96.263,95.025,93.818,93.353,True,93.316,True,93.175,8
+2019,19,United States Grand Prix,Daniel Ricciardo,Renault,95.263,94.924,94.774,93.835,True,93.608,True,93.488,9
+2019,19,United States Grand Prix,Pierre Gasly,Toro Rosso,95.008,94.509,94.517,93.556,True,93.715,True,93.601,10
+2019,19,United States Grand Prix,Nico Hulkenberg,Renault,96.124,94.988,94.784,94.092,True,93.815,False,,11
+2019,19,United States Grand Prix,Kevin Magnussen,Haas F1 Team,95.659,95.442,95.305,93.812,True,93.979,False,,12
+2019,19,United States Grand Prix,Daniil Kvyat,Toro Rosso,95.661,94.975,95.129,94.138,True,93.989,False,,13
+2019,19,United States Grand Prix,Lance Stroll,Racing Point,95.586,94.744,94.792,93.921,True,94.1,False,,14
+2019,19,United States Grand Prix,Romain Grosjean,Haas F1 Team,95.356,95.789,94.849,94.161,True,94.158,False,,15
+2019,19,United States Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,96.037,94.839,95.956,94.226,False,,False,,16
+2019,19,United States Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,95.854,95.387,94.513,94.369,False,,False,,17
+2019,19,United States Grand Prix,George Russell,Williams,,96.749,96.256,95.372,False,,False,,18
+2019,19,United States Grand Prix,Sergio Perez,Racing Point,95.971,95.109,98.426,95.808,False,,False,,19
+2019,19,United States Grand Prix,Robert Kubica,Williams,97.948,97.283,96.628,95.889,False,,False,,20
+2019,20,Brazilian Grand Prix,Max Verstappen,Red Bull Racing,,69.351,68.346,68.242,True,67.503,True,67.508,1
+2019,20,Brazilian Grand Prix,Sebastian Vettel,Ferrari,77.041,69.217,68.664,68.556,True,68.05,True,67.631,2
+2019,20,Brazilian Grand Prix,Lewis Hamilton,Mercedes,,69.44,68.32,68.614,True,68.088,True,67.699,3
+2019,20,Brazilian Grand Prix,Charles Leclerc,Ferrari,77.285,69.238,68.611,68.496,True,67.888,True,67.728,4
+2019,20,Brazilian Grand Prix,Valtteri Bottas,Mercedes,76.693,69.373,69.201,68.545,True,68.232,True,67.874,5
+2019,20,Brazilian Grand Prix,Alexander Albon,Red Bull Racing,76.142,70.275,69.136,68.503,True,68.117,True,67.935,6
+2019,20,Brazilian Grand Prix,Pierre Gasly,Toro Rosso,78.1,70.352,69.625,68.909,True,68.77,True,68.837,7
+2019,20,Brazilian Grand Prix,Romain Grosjean,Haas F1 Team,,70.504,69.798,69.197,True,68.705,True,68.854,8
+2019,20,Brazilian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,79.532,70.21,69.619,69.276,True,68.858,True,68.984,9
+2019,20,Brazilian Grand Prix,Kevin Magnussen,Haas F1 Team,79.247,70.143,69.713,68.875,True,68.803,True,69.037,10
+2019,20,Brazilian Grand Prix,Lando Norris,McLaren,78.559,70.7,69.585,68.891,True,68.868,False,,11
+2019,20,Brazilian Grand Prix,Daniel Ricciardo,Renault,77.985,70.194,69.761,69.086,True,68.903,False,,12
+2019,20,Brazilian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,79.6,70.419,69.462,69.175,True,68.919,False,,13
+2019,20,Brazilian Grand Prix,Nico Hulkenberg,Renault,77.899,70.325,69.65,69.05,True,68.921,False,,14
+2019,20,Brazilian Grand Prix,Sergio Perez,Racing Point,,70.443,69.995,69.288,True,69.035,False,,15
+2019,20,Brazilian Grand Prix,Daniil Kvyat,Toro Rosso,78.274,70.424,69.415,69.32,False,,False,,16
+2019,20,Brazilian Grand Prix,Lance Stroll,Racing Point,79.414,70.568,70.312,69.536,False,,False,,17
+2019,20,Brazilian Grand Prix,George Russell,Williams,78.779,71.818,70.843,70.126,False,,False,,18
+2019,20,Brazilian Grand Prix,Robert Kubica,Williams,,,71.205,70.614,False,,False,,19
+2019,20,Brazilian Grand Prix,Carlos Sainz,McLaren,77.786,70.31,69.588,,False,,False,,20
+2019,21,Abu Dhabi Grand Prix,Lewis Hamilton,Mercedes,97.591,96.566,96.64,95.851,True,95.634,True,94.779,1
+2019,21,Abu Dhabi Grand Prix,Valtteri Bottas,Mercedes,96.957,96.256,96.655,96.2,True,95.674,True,94.973,2
+2019,21,Abu Dhabi Grand Prix,Max Verstappen,Red Bull Racing,97.492,96.807,96.566,96.39,True,96.275,True,95.139,3
+2019,21,Abu Dhabi Grand Prix,Charles Leclerc,Ferrari,99.249,96.642,97.01,96.478,True,95.543,True,95.219,4
+2019,21,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,98.906,96.691,96.975,96.963,True,95.786,True,95.339,5
+2019,21,Abu Dhabi Grand Prix,Alexander Albon,Red Bull Racing,98.084,97.288,96.927,96.102,True,96.718,True,95.682,6
+2019,21,Abu Dhabi Grand Prix,Lando Norris,McLaren,99.628,97.918,98.1,97.545,True,96.764,True,96.436,7
+2019,21,Abu Dhabi Grand Prix,Daniel Ricciardo,Renault,100.85,98.4,97.615,97.106,True,96.785,True,96.456,8
+2019,21,Abu Dhabi Grand Prix,Carlos Sainz,McLaren,100.687,97.834,97.691,97.358,True,96.308,True,96.459,9
+2019,21,Abu Dhabi Grand Prix,Nico Hulkenberg,Renault,99.505,98.122,98.58,97.506,True,96.859,True,96.71,10
+2019,21,Abu Dhabi Grand Prix,Sergio Perez,Racing Point,99.901,97.637,97.516,96.961,True,97.055,False,,11
+2019,21,Abu Dhabi Grand Prix,Pierre Gasly,Toro Rosso,100.401,97.77,97.736,97.198,True,97.089,False,,12
+2019,21,Abu Dhabi Grand Prix,Lance Stroll,Racing Point,99.864,97.985,98.462,97.528,True,97.103,False,,13
+2019,21,Abu Dhabi Grand Prix,Daniil Kvyat,Toro Rosso,99.969,97.651,97.963,97.683,True,97.141,False,,14
+2019,21,Abu Dhabi Grand Prix,Kevin Magnussen,Haas F1 Team,99.35,98.08,98.198,97.71,True,97.254,False,,15
+2019,21,Abu Dhabi Grand Prix,Romain Grosjean,Haas F1 Team,99.146,97.601,97.768,98.051,False,,False,,16
+2019,21,Abu Dhabi Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,99.423,98.464,98.782,98.114,False,,False,,17
+2019,21,Abu Dhabi Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,99.888,98.415,98.514,98.383,False,,False,,18
+2019,21,Abu Dhabi Grand Prix,George Russell,Williams,101.362,99.512,99.206,98.717,False,,False,,19
+2019,21,Abu Dhabi Grand Prix,Robert Kubica,Williams,100.792,100.455,99.859,99.236,False,,False,,20

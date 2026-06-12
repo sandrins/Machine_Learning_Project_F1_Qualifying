@@ -1,0 +1,3 @@
+season,round,gp_name,fp1_mean_airtemp,fp1_mean_tracktemp,fp1_mean_humidity,fp1_has_rain,fp2_mean_airtemp,fp2_mean_tracktemp,fp2_mean_humidity,fp2_has_rain,fp3_mean_airtemp,fp3_mean_tracktemp,fp3_mean_humidity,fp3_has_rain,qualifying_mean_airtemp,qualifying_mean_tracktemp,qualifying_mean_humidity,qualifying_has_rain
+2026,1,Australian Grand Prix,20.763,35.307,70.904,False,22.451,33.285,63.818,False,20.618,36.887,63.774,False,20.453,34.273,63.719,False
+2026,3,Japanese Grand Prix,16.445,36.861,49.289,False,17.172,28.646,46.414,False,16.13,36.719,53.855,False,16.539,29.667,51.587,False

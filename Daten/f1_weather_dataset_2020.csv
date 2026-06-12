@@ -1,0 +1,15 @@
+season,round,gp_name,fp1_mean_airtemp,fp1_mean_tracktemp,fp1_mean_humidity,fp1_has_rain,fp2_mean_airtemp,fp2_mean_tracktemp,fp2_mean_humidity,fp2_has_rain,fp3_mean_airtemp,fp3_mean_tracktemp,fp3_mean_humidity,fp3_has_rain,qualifying_mean_airtemp,qualifying_mean_tracktemp,qualifying_mean_humidity,qualifying_has_rain
+2020,1,Austrian Grand Prix,18.146,22.526,72.482,True,21.31,32.008,54.68,True,22.287,45.604,40.281,False,24.591,49.927,34.66,False
+2020,3,Hungarian Grand Prix,18.652,25.678,70.521,True,16.109,19.993,89.576,True,17.863,26.043,73.222,True,18.783,27.255,71.499,False
+2020,4,British Grand Prix,30.657,41.78,32.012,False,35.316,48.477,28.124,False,20.549,32.942,62.49,False,22.498,38.938,54.387,False
+2020,5,70th Anniversary Grand Prix,26.98,38.954,43.916,False,30.117,38.325,35.423,False,24.595,36.584,60.556,False,26.205,41.797,53.356,False
+2020,6,Spanish Grand Prix,28.972,39.616,56.116,False,30.389,48.113,51.021,False,30.604,44.866,49.646,False,30.803,48.967,55.728,False
+2020,7,Belgian Grand Prix,16.137,21.689,64.872,False,17.716,24.42,62.514,False,14.93,21.616,73.57,True,16.449,24.58,62.844,False
+2020,8,Italian Grand Prix,24.5,34.963,53.449,False,27.819,42.598,43.388,False,26.558,39.142,51.8,False,29.167,45.322,43.597,False
+2020,9,Tuscan Grand Prix,28.195,39.005,46.693,False,28.906,42.43,46.851,False,28.059,41.492,43.368,False,29.362,45.149,40.43,False
+2020,10,Russian Grand Prix,27.1,30.349,60.83,False,27.969,36.461,51.952,False,26.69,38.448,71.578,False,25.819,32.922,56.734,False
+2020,12,Portuguese Grand Prix,19.111,28.003,69.578,False,20.955,33.462,52.423,False,19.108,26.52,47.974,False,21.304,35.379,48.758,False
+2020,14,Turkish Grand Prix,15.177,20.305,67.645,True,15.977,19.09,64.529,False,12.348,13.844,86.838,True,12.138,13.502,89.855,True
+2020,15,Bahrain Grand Prix,26.394,27.598,50.655,True,25.647,26.033,52.161,True,28.154,31.838,46.313,True,26.252,27.899,56.719,False
+2020,16,Sakhir Grand Prix,25.637,29.156,62.044,False,24.642,26.454,71.356,False,25.057,29.374,67.364,False,24.014,26.929,77.401,False
+2020,17,Abu Dhabi Grand Prix,25.574,39.459,35.0,False,24.159,29.303,44.275,False,24.567,36.934,49.552,False,23.392,28.816,61.572,False

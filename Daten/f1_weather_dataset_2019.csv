@@ -1,0 +1,21 @@
+season,round,gp_name,fp1_mean_airtemp,fp1_mean_tracktemp,fp1_mean_humidity,fp1_has_rain,fp2_mean_airtemp,fp2_mean_tracktemp,fp2_mean_humidity,fp2_has_rain,fp3_mean_airtemp,fp3_mean_tracktemp,fp3_mean_humidity,fp3_has_rain,qualifying_mean_airtemp,qualifying_mean_tracktemp,qualifying_mean_humidity,qualifying_has_rain
+2019,1,Australian Grand Prix,20.908,37.53,52.566,False,21.932,41.93,55.525,False,22.964,44.69,60.528,False,23.169,37.771,69.103,False
+2019,2,Bahrain Grand Prix,28.436,47.741,18.789,False,24.166,29.521,37.243,False,26.118,38.276,52.52,False,25.088,28.982,53.832,True
+2019,3,Chinese Grand Prix,16.963,32.673,44.195,False,19.36,32.066,36.783,False,19.678,39.628,48.225,False,20.571,33.965,48.42,False
+2019,4,Azerbaijan Grand Prix,16.442,40.318,68.8,False,17.505,31.67,55.592,False,17.115,43.59,67.09,False,15.898,31.926,72.2,False
+2019,5,Spanish Grand Prix,22.526,35.414,47.311,False,23.438,41.913,44.515,False,20.95,27.986,60.496,False,21.07,33.8,58.271,False
+2019,6,Monaco Grand Prix,18.834,25.392,70.899,True,19.735,33.37,70.56,True,20.639,34.304,67.135,True,21.439,42.41,63.342,False
+2019,7,Canadian Grand Prix,19.948,33.705,48.738,False,25.495,47.91,31.181,False,19.145,39.064,35.582,False,22.5,48.021,22.35,False
+2019,8,French Grand Prix,24.781,45.382,51.325,True,25.669,54.675,47.425,False,25.381,49.873,47.281,False,26.271,54.033,45.788,False
+2019,9,Austrian Grand Prix,27.573,47.263,31.401,True,30.668,50.023,20.803,False,25.996,48.806,34.636,False,29.651,50.982,27.096,False
+2019,10,British Grand Prix,19.685,31.654,64.494,False,21.658,36.468,53.638,False,16.589,24.144,77.175,True,19.0,29.511,67.699,False
+2019,11,German Grand Prix,33.523,44.081,30.563,False,37.579,50.649,23.201,False,25.941,38.01,61.456,False,28.323,44.026,51.686,False
+2019,12,Hungarian Grand Prix,24.768,33.971,51.498,True,22.956,28.69,62.469,True,24.714,38.309,50.661,False,23.932,42.861,51.705,False
+2019,13,Belgian Grand Prix,19.865,30.368,60.563,False,24.344,39.595,41.59,False,26.861,35.827,47.409,False,29.238,41.254,36.514,False
+2019,14,Italian Grand Prix,17.234,21.146,80.729,True,19.504,24.84,63.588,True,20.662,28.792,58.458,False,22.984,37.296,51.209,False
+2019,15,Singapore Grand Prix,31.408,40.717,63.213,False,29.345,33.859,73.891,False,31.314,39.044,58.837,False,30.014,34.551,61.254,False
+2019,16,Russian Grand Prix,23.373,27.667,62.845,False,24.174,28.834,56.584,False,21.882,26.984,66.561,False,22.058,30.751,60.341,False
+2019,18,Mexican Grand Prix,17.014,22.911,72.326,False,21.143,34.666,52.782,False,15.964,20.677,80.167,False,20.551,34.994,56.846,False
+2019,19,United States Grand Prix,10.851,18.139,36.598,False,16.166,24.479,22.462,False,18.666,25.961,27.294,False,20.459,26.37,25.004,False
+2019,20,Brazilian Grand Prix,18.346,23.506,87.669,True,19.048,23.918,81.107,True,20.721,36.831,66.143,False,20.682,33.89,66.549,False
+2019,21,Abu Dhabi Grand Prix,26.363,36.677,54.907,False,25.349,28.961,58.685,False,27.249,38.885,54.673,True,25.947,30.377,64.22,False

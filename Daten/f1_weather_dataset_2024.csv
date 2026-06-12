@@ -1,0 +1,19 @@
+season,round,gp_name,fp1_mean_airtemp,fp1_mean_tracktemp,fp1_mean_humidity,fp1_has_rain,fp2_mean_airtemp,fp2_mean_tracktemp,fp2_mean_humidity,fp2_has_rain,fp3_mean_airtemp,fp3_mean_tracktemp,fp3_mean_humidity,fp3_has_rain,qualifying_mean_airtemp,qualifying_mean_tracktemp,qualifying_mean_humidity,qualifying_has_rain
+2024,1,Bahrain Grand Prix,19.373,34.216,38.744,False,17.248,22.099,39.024,False,20.26,32.013,35.72,False,18.049,21.514,46.948,False
+2024,2,Saudi Arabian Grand Prix,26.755,39.701,57.575,False,25.371,30.597,59.785,False,25.984,39.559,60.341,False,25.106,30.786,56.053,False
+2024,3,Australian Grand Prix,18.469,33.71,61.012,False,20.157,36.157,56.927,False,18.273,27.669,59.395,False,18.742,34.414,53.59,True
+2024,4,Japanese Grand Prix,16.566,24.296,42.688,False,13.021,16.752,72.953,True,17.382,26.661,66.101,False,17.539,26.711,58.105,False
+2024,7,Emilia Romagna Grand Prix,23.972,43.454,32.532,False,24.379,36.842,33.949,False,23.604,44.481,41.321,False,24.188,41.559,43.253,False
+2024,8,Monaco Grand Prix,20.717,35.561,66.727,True,20.762,31.302,66.444,False,21.675,46.862,57.405,False,21.242,44.726,60.855,False
+2024,9,Canadian Grand Prix,18.237,28.682,83.577,True,18.996,25.546,68.5,True,20.854,36.4,61.926,False,20.554,31.117,66.885,True
+2024,10,Spanish Grand Prix,28.165,47.093,33.667,False,24.865,43.052,49.901,False,26.441,43.355,57.712,False,24.089,36.536,68.355,False
+2024,12,British Grand Prix,16.386,24.554,75.617,False,18.32,29.296,67.568,True,11.173,16.291,89.427,True,13.698,21.215,74.388,True
+2024,13,Hungarian Grand Prix,31.005,58.499,38.0,False,31.196,45.82,37.173,False,26.84,39.057,42.938,False,24.375,30.313,61.81,True
+2024,14,Belgian Grand Prix,22.012,38.387,60.855,True,21.782,35.19,64.305,False,18.109,21.783,92.915,True,18.001,22.023,92.709,True
+2024,15,Dutch Grand Prix,20.233,21.726,83.877,True,21.377,31.17,62.519,False,19.351,21.572,94.203,True,24.481,30.141,66.329,False
+2024,16,Italian Grand Prix,32.764,50.814,38.136,False,34.029,44.351,32.177,False,31.627,46.333,41.704,False,33.446,48.73,36.835,False
+2024,17,Azerbaijan Grand Prix,29.196,43.685,39.098,False,28.529,36.349,33.098,False,26.991,31.889,39.402,True,27.024,36.749,36.513,False
+2024,18,Singapore Grand Prix,31.35,37.115,64.438,False,30.182,32.95,73.988,False,30.062,37.067,75.134,False,29.433,31.963,79.032,False
+2024,20,Mexico City Grand Prix,19.534,45.618,45.139,False,22.756,37.79,27.514,False,18.249,32.758,53.855,False,21.963,39.412,40.531,False
+2024,22,Las Vegas Grand Prix,14.065,15.683,19.627,False,11.146,12.871,24.29,False,14.854,16.83,18.573,False,11.835,14.065,26.755,False
+2024,24,Abu Dhabi Grand Prix,27.949,41.568,56.195,False,26.475,31.649,66.101,False,27.905,40.274,60.568,False,25.811,29.673,65.79,False

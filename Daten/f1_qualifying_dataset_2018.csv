@@ -1,0 +1,421 @@
+season,round,gp_name,driver_name,team_name,fp1_besttime,fp2_besttime,fp3_besttime,q1_besttime,qualified_for_q2,q2_besttime,qualified_for_q3,q3_besttime,startposition
+2018,1,Australian Grand Prix,Lewis Hamilton,Mercedes,84.026,83.931,94.225,82.824,True,82.051,True,81.164,1
+2018,1,Australian Grand Prix,Kimi Räikkönen,Ferrari,84.875,84.214,88.499,83.096,True,82.507,True,81.828,2
+2018,1,Australian Grand Prix,Sebastian Vettel,Ferrari,84.995,84.46,86.067,83.348,True,81.944,True,81.838,3
+2018,1,Australian Grand Prix,Max Verstappen,Red Bull Racing,84.771,84.058,91.68,83.483,True,82.416,True,81.879,4
+2018,1,Australian Grand Prix,Daniel Ricciardo,Red Bull Racing,85.063,84.721,94.043,83.494,True,82.897,True,82.152,5
+2018,1,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,87.035,85.246,96.807,83.909,True,83.3,True,83.187,6
+2018,1,Australian Grand Prix,Romain Grosjean,Haas F1 Team,85.73,84.648,96.171,83.671,True,83.468,True,83.339,7
+2018,1,Australian Grand Prix,Nico Hulkenberg,Renault,86.583,85.471,98.482,83.782,True,83.544,True,83.532,8
+2018,1,Australian Grand Prix,Carlos Sainz,Renault,85.922,85.39,93.172,83.529,True,83.061,True,83.577,9
+2018,1,Australian Grand Prix,Valtteri Bottas,Mercedes,84.577,84.159,94.174,83.686,True,82.089,False,,10
+2018,1,Australian Grand Prix,Fernando Alonso,McLaren,85.896,85.2,94.298,83.597,True,83.692,False,,11
+2018,1,Australian Grand Prix,Stoffel Vandoorne,McLaren,86.482,85.285,94.233,84.073,True,83.853,False,,12
+2018,1,Australian Grand Prix,Sergio Perez,Force India,86.767,85.413,,84.344,True,84.005,False,,13
+2018,1,Australian Grand Prix,Lance Stroll,Williams,86.636,85.543,95.828,84.464,True,84.23,False,,14
+2018,1,Australian Grand Prix,Esteban Ocon,Force India,86.605,85.888,,84.503,True,84.786,False,,15
+2018,1,Australian Grand Prix,Brendon Hartley,Toro Rosso,87.745,85.925,95.438,84.532,False,,False,,16
+2018,1,Australian Grand Prix,Marcus Ericsson,Sauber,87.964,86.814,88.89,84.556,False,,False,,17
+2018,1,Australian Grand Prix,Charles Leclerc,Sauber,88.853,86.815,96.448,84.636,False,,False,,18
+2018,1,Australian Grand Prix,Sergey Sirotkin,Williams,86.536,85.974,95.589,84.922,False,,False,,19
+2018,1,Australian Grand Prix,Pierre Gasly,Toro Rosso,86.494,85.945,94.99,85.295,False,,False,,20
+2018,2,Bahrain Grand Prix,Sebastian Vettel,Ferrari,91.47,89.828,90.719,89.06,True,88.341,True,87.958,1
+2018,2,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,91.458,89.817,89.868,88.951,True,88.515,True,88.101,2
+2018,2,Bahrain Grand Prix,Valtteri Bottas,Mercedes,91.364,90.38,90.781,89.275,True,88.794,True,88.124,3
+2018,2,Bahrain Grand Prix,Lewis Hamilton,Mercedes,92.272,90.472,90.691,89.396,True,88.458,True,88.22,4
+2018,2,Bahrain Grand Prix,Daniel Ricciardo,Red Bull Racing,91.06,90.751,90.452,89.552,True,88.962,True,88.398,5
+2018,2,Bahrain Grand Prix,Pierre Gasly,Toro Rosso,92.779,91.232,91.438,90.121,True,89.836,True,89.329,6
+2018,2,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,92.971,91.969,91.737,89.594,True,89.623,True,89.358,7
+2018,2,Bahrain Grand Prix,Nico Hulkenberg,Renault,93.104,91.22,91.144,90.26,True,89.187,True,89.57,8
+2018,2,Bahrain Grand Prix,Esteban Ocon,Force India,93.794,91.809,91.554,90.338,True,90.009,True,89.874,9
+2018,2,Bahrain Grand Prix,Carlos Sainz,Renault,92.885,91.601,91.2,89.893,True,89.802,True,89.986,10
+2018,2,Bahrain Grand Prix,Brendon Hartley,Toro Rosso,93.497,92.908,91.46,90.412,True,90.105,False,,11
+2018,2,Bahrain Grand Prix,Sergio Perez,Force India,93.662,91.868,91.564,90.218,True,90.156,False,,12
+2018,2,Bahrain Grand Prix,Fernando Alonso,McLaren,93.223,91.282,91.445,90.53,True,90.212,False,,13
+2018,2,Bahrain Grand Prix,Stoffel Vandoorne,McLaren,93.364,91.422,91.86,90.479,True,90.525,False,,14
+2018,2,Bahrain Grand Prix,Max Verstappen,Red Bull Racing,,90.745,90.393,89.374,False,,False,,15
+2018,2,Bahrain Grand Prix,Romain Grosjean,Haas F1 Team,92.516,91.591,91.513,90.53,False,,False,,16
+2018,2,Bahrain Grand Prix,Marcus Ericsson,Sauber,93.508,92.733,91.859,91.063,False,,False,,17
+2018,2,Bahrain Grand Prix,Sergey Sirotkin,Williams,93.467,92.474,92.463,91.414,False,,False,,18
+2018,2,Bahrain Grand Prix,Charles Leclerc,Sauber,93.278,92.372,92.047,91.42,False,,False,,19
+2018,2,Bahrain Grand Prix,Lance Stroll,Williams,93.379,92.382,92.865,91.503,False,,False,,20
+2018,3,Chinese Grand Prix,Sebastian Vettel,Ferrari,94.861,93.59,93.018,92.171,True,92.385,True,91.095,1
+2018,3,Chinese Grand Prix,Kimi Räikkönen,Ferrari,94.358,93.489,93.469,92.474,True,92.286,True,91.182,2
+2018,3,Chinese Grand Prix,Valtteri Bottas,Mercedes,94.457,93.515,93.761,92.921,True,92.063,True,91.625,3
+2018,3,Chinese Grand Prix,Lewis Hamilton,Mercedes,93.999,93.482,94.057,93.283,True,91.914,True,91.675,4
+2018,3,Chinese Grand Prix,Max Verstappen,Red Bull Racing,94.668,93.823,93.969,92.932,True,92.809,True,91.796,5
+2018,3,Chinese Grand Prix,Daniel Ricciardo,Red Bull Racing,94.537,94.557,95.061,93.877,True,92.688,True,91.948,6
+2018,3,Chinese Grand Prix,Nico Hulkenberg,Renault,95.8,94.313,94.841,93.545,True,92.494,True,92.532,7
+2018,3,Chinese Grand Prix,Sergio Perez,Force India,96.051,94.792,94.445,93.464,True,92.931,True,92.758,8
+2018,3,Chinese Grand Prix,Carlos Sainz,Renault,95.616,94.473,94.582,93.315,True,92.97,True,92.819,9
+2018,3,Chinese Grand Prix,Romain Grosjean,Haas F1 Team,95.718,96.471,95.756,93.238,True,92.524,True,92.855,10
+2018,3,Chinese Grand Prix,Kevin Magnussen,Haas F1 Team,95.178,94.458,94.329,93.359,True,92.986,False,,11
+2018,3,Chinese Grand Prix,Esteban Ocon,Force India,96.351,94.874,94.456,93.585,True,93.057,False,,12
+2018,3,Chinese Grand Prix,Fernando Alonso,McLaren,96.044,94.632,94.851,93.428,True,93.232,False,,13
+2018,3,Chinese Grand Prix,Stoffel Vandoorne,McLaren,96.756,95.163,94.977,93.824,True,93.505,False,,14
+2018,3,Chinese Grand Prix,Brendon Hartley,Toro Rosso,96.715,95.333,94.991,94.013,True,93.795,False,,15
+2018,3,Chinese Grand Prix,Sergey Sirotkin,Williams,96.691,95.34,94.741,94.062,False,,False,,16
+2018,3,Chinese Grand Prix,Pierre Gasly,Toro Rosso,96.037,94.849,95.079,94.101,False,,False,,17
+2018,3,Chinese Grand Prix,Lance Stroll,Williams,97.277,97.147,95.375,94.285,False,,False,,18
+2018,3,Chinese Grand Prix,Charles Leclerc,Sauber,96.723,95.916,95.497,94.454,False,,False,,19
+2018,3,Chinese Grand Prix,Marcus Ericsson,Sauber,96.909,95.624,95.679,94.914,False,,False,,20
+2018,4,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,106.513,104.127,103.091,102.762,True,103.015,True,101.498,1
+2018,4,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes,105.2,103.603,103.452,102.693,True,102.676,True,101.677,2
+2018,4,Azerbaijan Grand Prix,Valtteri Bottas,Mercedes,104.242,103.57,103.569,103.355,True,102.679,True,101.837,3
+2018,4,Azerbaijan Grand Prix,Daniel Ricciardo,Red Bull Racing,104.277,102.795,104.861,102.857,True,103.482,True,101.911,4
+2018,4,Azerbaijan Grand Prix,Max Verstappen,Red Bull Racing,105.559,102.911,103.519,102.642,True,102.901,True,101.994,5
+2018,4,Azerbaijan Grand Prix,Kimi Räikkönen,Ferrari,106.861,102.864,103.493,102.538,True,102.51,True,102.49,6
+2018,4,Azerbaijan Grand Prix,Esteban Ocon,Force India,105.237,103.814,104.22,103.021,True,102.967,True,102.523,7
+2018,4,Azerbaijan Grand Prix,Sergio Perez,Force India,105.075,104.142,103.936,103.992,True,103.366,True,102.547,8
+2018,4,Azerbaijan Grand Prix,Nico Hulkenberg,Renault,106.749,104.091,105.456,103.746,True,103.232,True,103.066,9
+2018,4,Azerbaijan Grand Prix,Carlos Sainz,Renault,108.741,103.834,105.432,103.426,True,103.464,True,103.351,10
+2018,4,Azerbaijan Grand Prix,Lance Stroll,Williams,106.59,104.459,104.123,104.359,True,103.585,False,,11
+2018,4,Azerbaijan Grand Prix,Sergey Sirotkin,Williams,106.48,105.007,104.534,104.261,True,103.886,False,,12
+2018,4,Azerbaijan Grand Prix,Fernando Alonso,McLaren,106.465,103.7,104.763,104.01,True,104.019,False,,13
+2018,4,Azerbaijan Grand Prix,Charles Leclerc,Sauber,106.875,104.94,105.218,103.752,True,104.074,False,,14
+2018,4,Azerbaijan Grand Prix,Kevin Magnussen,Haas F1 Team,107.434,103.977,103.958,103.674,True,104.759,False,,15
+2018,4,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,107.967,105.288,105.505,104.489,False,,False,,16
+2018,4,Azerbaijan Grand Prix,Pierre Gasly,Toro Rosso,106.492,104.712,104.905,104.496,False,,False,,17
+2018,4,Azerbaijan Grand Prix,Marcus Ericsson,Sauber,107.073,106.042,105.91,105.541,False,,False,,18
+2018,4,Azerbaijan Grand Prix,Brendon Hartley,Toro Rosso,106.747,105.051,106.186,117.354,False,,False,,19
+2018,4,Azerbaijan Grand Prix,Romain Grosjean,Haas F1 Team,106.856,104.425,105.261,,False,,False,,20
+2018,5,Spanish Grand Prix,Lewis Hamilton,Mercedes,78.997,78.259,77.281,77.633,True,77.166,True,76.173,1
+2018,5,Spanish Grand Prix,Valtteri Bottas,Mercedes,78.148,78.611,77.294,77.674,True,77.111,True,76.213,2
+2018,5,Spanish Grand Prix,Sebastian Vettel,Ferrari,79.098,78.585,77.55,77.031,True,76.802,True,76.305,3
+2018,5,Spanish Grand Prix,Kimi Räikkönen,Ferrari,79.499,78.829,77.581,77.483,True,77.071,True,76.612,4
+2018,5,Spanish Grand Prix,Max Verstappen,Red Bull Racing,79.187,78.533,79.013,77.411,True,77.266,True,76.816,5
+2018,5,Spanish Grand Prix,Daniel Ricciardo,Red Bull Racing,79.871,78.392,77.981,77.623,True,77.638,True,76.818,6
+2018,5,Spanish Grand Prix,Kevin Magnussen,Haas F1 Team,80.637,79.643,78.357,78.169,True,77.618,True,77.676,7
+2018,5,Spanish Grand Prix,Fernando Alonso,McLaren,79.858,80.035,78.847,78.276,True,78.1,True,77.721,8
+2018,5,Spanish Grand Prix,Carlos Sainz,Renault,81.053,80.672,78.783,78.48,True,77.803,True,77.79,9
+2018,5,Spanish Grand Prix,Romain Grosjean,Haas F1 Team,79.906,79.579,78.706,78.305,True,77.699,True,77.835,10
+2018,5,Spanish Grand Prix,Stoffel Vandoorne,McLaren,80.083,79.722,79.236,78.885,True,78.323,False,,11
+2018,5,Spanish Grand Prix,Pierre Gasly,Toro Rosso,80.508,80.373,78.886,78.55,True,78.463,False,,12
+2018,5,Spanish Grand Prix,Esteban Ocon,Force India,81.144,80.024,79.121,78.813,True,78.696,False,,13
+2018,5,Spanish Grand Prix,Charles Leclerc,Sauber,80.665,80.514,79.292,78.661,True,78.91,False,,14
+2018,5,Spanish Grand Prix,Sergio Perez,Force India,80.924,79.962,79.376,78.74,True,79.098,False,,15
+2018,5,Spanish Grand Prix,Nico Hulkenberg,Renault,81.159,80.183,78.905,78.923,False,,False,,16
+2018,5,Spanish Grand Prix,Marcus Ericsson,Sauber,80.984,80.501,79.744,79.493,False,,False,,17
+2018,5,Spanish Grand Prix,Sergey Sirotkin,Williams,,82.06,79.909,79.695,False,,False,,18
+2018,5,Spanish Grand Prix,Lance Stroll,Williams,82.756,81.556,79.9,80.225,False,,False,,19
+2018,5,Spanish Grand Prix,Brendon Hartley,Toro Rosso,81.373,81.265,79.428,,False,,False,,20
+2018,6,Monaco Grand Prix,Daniel Ricciardo,Red Bull Racing,72.126,71.841,71.786,72.013,True,71.278,True,70.81,1
+2018,6,Monaco Grand Prix,Sebastian Vettel,Ferrari,73.041,72.413,72.023,72.415,True,71.518,True,71.039,2
+2018,6,Monaco Grand Prix,Lewis Hamilton,Mercedes,72.48,72.536,72.273,72.46,True,71.584,True,71.232,3
+2018,6,Monaco Grand Prix,Kimi Räikkönen,Ferrari,73.066,72.543,72.142,72.639,True,71.391,True,71.266,4
+2018,6,Monaco Grand Prix,Valtteri Bottas,Mercedes,73.502,72.642,72.356,72.434,True,72.002,True,71.441,5
+2018,6,Monaco Grand Prix,Esteban Ocon,Force India,74.0,73.382,72.94,73.028,True,72.188,True,72.061,6
+2018,6,Monaco Grand Prix,Fernando Alonso,McLaren,74.637,73.115,73.279,72.657,True,72.269,True,72.11,7
+2018,6,Monaco Grand Prix,Carlos Sainz,Renault,73.456,73.2,72.85,72.95,True,72.286,True,72.13,8
+2018,6,Monaco Grand Prix,Sergio Perez,Force India,73.717,73.37,73.025,72.848,True,72.194,True,72.154,9
+2018,6,Monaco Grand Prix,Pierre Gasly,Toro Rosso,74.24,73.41,72.761,72.941,True,72.313,True,72.221,10
+2018,6,Monaco Grand Prix,Nico Hulkenberg,Renault,74.134,73.047,73.112,73.065,True,72.411,False,,11
+2018,6,Monaco Grand Prix,Stoffel Vandoorne,McLaren,74.291,73.077,72.874,72.463,True,72.44,False,,12
+2018,6,Monaco Grand Prix,Sergey Sirotkin,Williams,73.962,73.547,72.854,72.706,True,72.521,False,,13
+2018,6,Monaco Grand Prix,Charles Leclerc,Sauber,74.521,73.575,73.644,72.829,True,72.714,False,,14
+2018,6,Monaco Grand Prix,Romain Grosjean,Haas F1 Team,73.943,73.763,73.881,72.93,True,72.728,False,,15
+2018,6,Monaco Grand Prix,Brendon Hartley,Toro Rosso,74.034,73.222,72.752,73.179,False,,False,,16
+2018,6,Monaco Grand Prix,Marcus Ericsson,Sauber,75.206,74.173,74.221,73.265,False,,False,,17
+2018,6,Monaco Grand Prix,Lance Stroll,Williams,74.782,74.011,73.595,73.323,False,,False,,18
+2018,6,Monaco Grand Prix,Kevin Magnussen,Haas F1 Team,78.801,73.572,74.192,73.393,False,,False,,19
+2018,6,Monaco Grand Prix,Max Verstappen,Red Bull Racing,72.28,72.035,71.787,,False,,False,,20
+2018,7,Canadian Grand Prix,Sebastian Vettel,Ferrari,73.574,72.985,71.648,71.71,True,71.524,True,70.764,1
+2018,7,Canadian Grand Prix,Valtteri Bottas,Mercedes,73.617,73.061,72.255,71.95,True,71.514,True,70.857,2
+2018,7,Canadian Grand Prix,Max Verstappen,Red Bull Racing,73.302,72.198,71.599,72.008,True,71.472,True,70.937,3
+2018,7,Canadian Grand Prix,Lewis Hamilton,Mercedes,73.39,72.777,71.706,71.835,True,71.74,True,70.996,4
+2018,7,Canadian Grand Prix,Kimi Räikkönen,Ferrari,73.727,72.328,71.65,71.725,True,71.62,True,71.095,5
+2018,7,Canadian Grand Prix,Daniel Ricciardo,Red Bull Racing,73.518,72.603,72.153,72.459,True,71.434,True,71.116,6
+2018,7,Canadian Grand Prix,Nico Hulkenberg,Renault,,73.967,72.946,72.795,True,71.916,True,71.973,7
+2018,7,Canadian Grand Prix,Esteban Ocon,Force India,75.071,73.747,73.064,72.577,True,72.141,True,72.084,8
+2018,7,Canadian Grand Prix,Carlos Sainz,Renault,74.116,74.433,73.331,72.689,True,72.097,True,72.168,9
+2018,7,Canadian Grand Prix,Sergio Perez,Force India,,73.754,72.903,72.702,True,72.395,True,72.671,10
+2018,7,Canadian Grand Prix,Kevin Magnussen,Haas F1 Team,75.579,73.956,73.488,72.68,True,72.606,False,,11
+2018,7,Canadian Grand Prix,Brendon Hartley,Toro Rosso,75.756,73.889,73.076,72.587,True,72.635,False,,12
+2018,7,Canadian Grand Prix,Charles Leclerc,Sauber,75.439,73.884,73.452,72.945,True,72.661,False,,13
+2018,7,Canadian Grand Prix,Fernando Alonso,McLaren,73.9,73.866,73.225,72.979,True,72.856,False,,14
+2018,7,Canadian Grand Prix,Stoffel Vandoorne,McLaren,74.311,74.167,73.034,72.998,True,72.865,False,,15
+2018,7,Canadian Grand Prix,Pierre Gasly,Toro Rosso,75.004,74.486,73.334,73.047,False,,False,,16
+2018,7,Canadian Grand Prix,Lance Stroll,Williams,76.259,74.703,73.968,73.59,False,,False,,17
+2018,7,Canadian Grand Prix,Sergey Sirotkin,Williams,75.768,74.782,73.818,73.643,False,,False,,18
+2018,7,Canadian Grand Prix,Marcus Ericsson,Sauber,75.386,74.108,73.925,74.593,False,,False,,19
+2018,7,Canadian Grand Prix,Romain Grosjean,Haas F1 Team,75.119,73.62,73.014,,False,,False,,20
+2018,8,French Grand Prix,Lewis Hamilton,Mercedes,92.231,92.539,100.743,91.271,True,90.645,True,90.029,1
+2018,8,French Grand Prix,Valtteri Bottas,Mercedes,92.371,94.156,93.666,91.776,True,91.227,True,90.147,2
+2018,8,French Grand Prix,Sebastian Vettel,Ferrari,93.172,93.689,96.756,91.82,True,90.751,True,90.4,3
+2018,8,French Grand Prix,Max Verstappen,Red Bull Racing,93.331,93.271,,91.531,True,90.818,True,90.705,4
+2018,8,French Grand Prix,Daniel Ricciardo,Red Bull Racing,92.527,93.243,99.738,91.91,True,91.538,True,90.895,5
+2018,8,French Grand Prix,Kimi Räikkönen,Ferrari,93.003,93.426,109.711,91.567,True,90.772,True,91.057,6
+2018,8,French Grand Prix,Carlos Sainz,Renault,94.258,95.086,94.953,92.394,True,92.016,True,92.126,7
+2018,8,French Grand Prix,Charles Leclerc,Sauber,94.513,95.583,95.012,92.538,True,92.055,True,92.635,8
+2018,8,French Grand Prix,Kevin Magnussen,Haas F1 Team,94.108,94.457,,92.169,True,91.51,True,92.93,9
+2018,8,French Grand Prix,Romain Grosjean,Haas F1 Team,93.318,93.699,,92.083,True,91.472,False,,10
+2018,8,French Grand Prix,Esteban Ocon,Force India,94.484,95.705,100.087,92.786,True,92.075,False,,11
+2018,8,French Grand Prix,Nico Hulkenberg,Renault,94.993,95.067,,92.949,True,92.115,False,,12
+2018,8,French Grand Prix,Sergio Perez,Force India,93.719,96.08,99.641,92.692,True,92.454,False,,13
+2018,8,French Grand Prix,Pierre Gasly,Toro Rosso,93.685,94.535,98.317,92.447,True,92.46,False,,14
+2018,8,French Grand Prix,Marcus Ericsson,Sauber,94.592,,98.45,92.804,True,92.82,False,,15
+2018,8,French Grand Prix,Fernando Alonso,McLaren,94.862,94.4,96.365,92.976,False,,False,,16
+2018,8,French Grand Prix,Brendon Hartley,Toro Rosso,94.664,95.697,,93.025,False,,False,,17
+2018,8,French Grand Prix,Stoffel Vandoorne,McLaren,95.021,95.172,97.547,93.162,False,,False,,18
+2018,8,French Grand Prix,Sergey Sirotkin,Williams,95.105,95.97,124.093,93.636,False,,False,,19
+2018,8,French Grand Prix,Lance Stroll,Williams,94.881,95.936,122.399,93.729,False,,False,,20
+2018,9,Austrian Grand Prix,Valtteri Bottas,Mercedes,64.966,64.755,64.204,64.175,True,63.756,True,63.13,1
+2018,9,Austrian Grand Prix,Lewis Hamilton,Mercedes,64.839,64.579,64.099,64.08,True,63.577,True,63.149,2
+2018,9,Austrian Grand Prix,Sebastian Vettel,Ferrari,65.18,64.815,64.07,64.347,True,63.544,True,63.464,3
+2018,9,Austrian Grand Prix,Kimi Räikkönen,Ferrari,65.776,65.265,64.47,64.234,True,63.975,True,63.66,4
+2018,9,Austrian Grand Prix,Max Verstappen,Red Bull Racing,65.072,65.125,64.791,64.273,True,64.001,True,63.84,5
+2018,9,Austrian Grand Prix,Romain Grosjean,Haas F1 Team,66.028,65.429,64.916,64.242,True,64.059,True,63.892,6
+2018,9,Austrian Grand Prix,Daniel Ricciardo,Red Bull Racing,65.483,65.031,64.891,64.723,True,64.403,True,63.996,7
+2018,9,Austrian Grand Prix,Kevin Magnussen,Haas F1 Team,66.404,65.559,65.013,64.46,True,64.291,True,64.051,8
+2018,9,Austrian Grand Prix,Carlos Sainz,Renault,66.427,65.999,65.086,64.948,True,64.561,True,64.725,9
+2018,9,Austrian Grand Prix,Nico Hulkenberg,Renault,66.479,66.273,65.228,64.864,True,64.676,True,65.019,10
+2018,9,Austrian Grand Prix,Esteban Ocon,Force India,66.055,66.133,65.444,65.148,True,64.845,False,,11
+2018,9,Austrian Grand Prix,Pierre Gasly,Toro Rosso,66.394,65.758,65.264,65.011,True,64.874,False,,12
+2018,9,Austrian Grand Prix,Charles Leclerc,Sauber,66.215,66.096,65.219,64.967,True,64.979,False,,13
+2018,9,Austrian Grand Prix,Fernando Alonso,McLaren,66.612,66.429,65.448,64.965,True,65.058,False,,14
+2018,9,Austrian Grand Prix,Lance Stroll,Williams,66.567,66.626,66.029,65.264,True,65.286,False,,15
+2018,9,Austrian Grand Prix,Stoffel Vandoorne,McLaren,66.698,65.93,65.837,65.271,False,,False,,16
+2018,9,Austrian Grand Prix,Sergio Perez,Force India,66.455,66.354,65.502,65.279,False,,False,,17
+2018,9,Austrian Grand Prix,Sergey Sirotkin,Williams,,66.326,66.318,65.322,False,,False,,18
+2018,9,Austrian Grand Prix,Brendon Hartley,Toro Rosso,66.871,66.332,65.705,65.366,False,,False,,19
+2018,9,Austrian Grand Prix,Marcus Ericsson,Sauber,66.4,66.199,65.699,65.479,False,,False,,20
+2018,10,British Grand Prix,Lewis Hamilton,Mercedes,87.487,87.739,86.722,86.818,True,86.256,True,85.892,1
+2018,10,British Grand Prix,Sebastian Vettel,Ferrari,87.998,87.552,87.851,86.585,True,86.372,True,85.936,2
+2018,10,British Grand Prix,Kimi Räikkönen,Ferrari,88.218,88.045,86.815,87.549,True,86.483,True,85.99,3
+2018,10,British Grand Prix,Valtteri Bottas,Mercedes,87.854,87.909,87.364,87.025,True,86.413,True,86.217,4
+2018,10,British Grand Prix,Max Verstappen,Red Bull Racing,88.325,,88.012,87.309,True,87.013,True,86.602,5
+2018,10,British Grand Prix,Daniel Ricciardo,Red Bull Racing,88.144,88.408,88.018,87.979,True,87.369,True,87.099,6
+2018,10,British Grand Prix,Kevin Magnussen,Haas F1 Team,90.065,89.617,88.418,88.143,True,87.73,True,87.244,7
+2018,10,British Grand Prix,Romain Grosjean,Haas F1 Team,89.352,,88.554,88.086,True,87.522,True,87.455,8
+2018,10,British Grand Prix,Charles Leclerc,Sauber,90.027,89.557,88.146,87.962,True,87.79,True,87.879,9
+2018,10,British Grand Prix,Esteban Ocon,Force India,89.815,89.467,88.917,88.279,True,87.843,True,88.194,10
+2018,10,British Grand Prix,Nico Hulkenberg,Renault,90.701,89.354,89.094,88.017,True,87.901,False,,11
+2018,10,British Grand Prix,Sergio Perez,Force India,89.812,89.522,89.066,88.21,True,87.928,False,,12
+2018,10,British Grand Prix,Fernando Alonso,McLaren,90.322,89.306,89.07,88.187,True,88.139,False,,13
+2018,10,British Grand Prix,Pierre Gasly,Toro Rosso,90.004,89.831,90.05,88.399,True,88.343,False,,14
+2018,10,British Grand Prix,Marcus Ericsson,Sauber,89.942,90.046,88.814,88.249,True,88.391,False,,15
+2018,10,British Grand Prix,Carlos Sainz,Renault,90.358,89.563,89.133,88.456,False,,False,,16
+2018,10,British Grand Prix,Stoffel Vandoorne,McLaren,90.416,90.121,90.004,89.096,False,,False,,17
+2018,10,British Grand Prix,Sergey Sirotkin,Williams,91.017,90.103,89.984,89.252,False,,False,,18
+2018,10,British Grand Prix,Brendon Hartley,Toro Rosso,90.749,90.404,,,False,,False,,19
+2018,10,British Grand Prix,Lance Stroll,Williams,89.878,90.069,89.829,,False,,False,,20
+2018,11,German Grand Prix,Sebastian Vettel,Ferrari,73.796,73.31,95.573,72.538,True,72.505,True,71.212,1
+2018,11,German Grand Prix,Valtteri Bottas,Mercedes,73.903,73.19,,72.962,True,72.152,True,71.416,2
+2018,11,German Grand Prix,Kimi Räikkönen,Ferrari,74.267,73.427,97.755,72.505,True,72.336,True,71.547,3
+2018,11,German Grand Prix,Max Verstappen,Red Bull Racing,73.714,73.085,,73.127,True,72.188,True,71.822,4
+2018,11,German Grand Prix,Kevin Magnussen,Haas F1 Team,74.853,74.189,,73.105,True,72.523,True,72.2,5
+2018,11,German Grand Prix,Romain Grosjean,Haas F1 Team,74.691,73.973,,72.986,True,72.722,True,72.544,6
+2018,11,German Grand Prix,Nico Hulkenberg,Renault,75.282,74.496,96.873,73.479,True,72.946,True,72.56,7
+2018,11,German Grand Prix,Carlos Sainz,Renault,75.769,74.592,,73.324,True,73.032,True,72.692,8
+2018,11,German Grand Prix,Charles Leclerc,Sauber,75.097,74.374,94.577,73.077,True,72.995,True,72.717,9
+2018,11,German Grand Prix,Sergio Perez,Force India,75.415,74.552,,73.427,True,73.072,True,72.774,10
+2018,11,German Grand Prix,Fernando Alonso,McLaren,75.544,74.836,,73.614,True,73.657,False,,11
+2018,11,German Grand Prix,Sergey Sirotkin,Williams,75.876,75.408,95.334,73.708,True,73.702,False,,12
+2018,11,German Grand Prix,Marcus Ericsson,Sauber,,74.783,95.0,73.562,True,73.736,False,,13
+2018,11,German Grand Prix,Lewis Hamilton,Mercedes,73.529,73.111,,73.012,False,,False,,14
+2018,11,German Grand Prix,Daniel Ricciardo,Red Bull Racing,73.525,74.682,,73.318,False,,False,,15
+2018,11,German Grand Prix,Esteban Ocon,Force India,,74.508,,73.72,False,,False,,16
+2018,11,German Grand Prix,Pierre Gasly,Toro Rosso,76.071,74.793,95.659,73.749,False,,False,,17
+2018,11,German Grand Prix,Brendon Hartley,Toro Rosso,75.864,74.83,96.151,74.045,False,,False,,18
+2018,11,German Grand Prix,Lance Stroll,Williams,75.629,75.269,98.393,74.206,False,,False,,19
+2018,11,German Grand Prix,Stoffel Vandoorne,McLaren,76.149,75.454,,74.401,False,,False,,20
+2018,12,Hungarian Grand Prix,Lewis Hamilton,Mercedes,78.036,77.587,76.749,77.419,True,91.242,True,95.658,1
+2018,12,Hungarian Grand Prix,Valtteri Bottas,Mercedes,78.47,77.868,76.229,77.123,True,92.081,True,95.918,2
+2018,12,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,77.948,77.153,76.373,77.526,True,92.762,True,96.186,3
+2018,12,Hungarian Grand Prix,Sebastian Vettel,Ferrari,77.692,76.834,76.17,76.666,True,88.636,True,96.21,4
+2018,12,Hungarian Grand Prix,Carlos Sainz,Renault,79.128,78.495,77.754,77.829,True,90.771,True,96.743,5
+2018,12,Hungarian Grand Prix,Pierre Gasly,Toro Rosso,79.352,78.518,78.139,78.577,True,91.286,True,97.591,6
+2018,12,Hungarian Grand Prix,Max Verstappen,Red Bull Racing,77.701,76.908,76.946,76.94,True,91.178,True,98.032,7
+2018,12,Hungarian Grand Prix,Brendon Hartley,Toro Rosso,79.841,78.916,78.252,78.429,True,92.59,True,98.128,8
+2018,12,Hungarian Grand Prix,Kevin Magnussen,Haas F1 Team,79.187,78.88,78.23,78.314,True,92.968,True,99.858,9
+2018,12,Hungarian Grand Prix,Romain Grosjean,Haas F1 Team,78.975,78.065,78.084,77.901,True,93.65,True,100.593,10
+2018,12,Hungarian Grand Prix,Fernando Alonso,McLaren,79.69,78.857,78.467,78.208,True,95.214,False,,11
+2018,12,Hungarian Grand Prix,Daniel Ricciardo,Red Bull Racing,77.613,77.061,76.803,78.54,True,96.442,False,,12
+2018,12,Hungarian Grand Prix,Nico Hulkenberg,Renault,79.025,78.913,78.083,77.905,True,96.506,False,,13
+2018,12,Hungarian Grand Prix,Marcus Ericsson,Sauber,80.697,79.043,78.842,78.641,True,97.075,False,,14
+2018,12,Hungarian Grand Prix,Lance Stroll,Williams,80.012,79.645,79.132,78.56,False,,False,,15
+2018,12,Hungarian Grand Prix,Stoffel Vandoorne,McLaren,80.151,79.712,78.789,78.782,False,,False,,16
+2018,12,Hungarian Grand Prix,Charles Leclerc,Sauber,,79.137,78.376,78.817,False,,False,,17
+2018,12,Hungarian Grand Prix,Esteban Ocon,Force India,80.065,78.761,78.512,79.142,False,,False,,18
+2018,12,Hungarian Grand Prix,Sergio Perez,Force India,80.159,78.85,78.962,79.2,False,,False,,19
+2018,12,Hungarian Grand Prix,Sergey Sirotkin,Williams,80.307,79.77,78.63,79.301,False,,False,,20
+2018,13,Belgian Grand Prix,Lewis Hamilton,Mercedes,104.676,103.523,102.798,102.977,True,101.553,True,118.179,1
+2018,13,Belgian Grand Prix,Sebastian Vettel,Ferrari,104.358,104.129,102.661,103.035,True,101.501,True,118.905,2
+2018,13,Belgian Grand Prix,Esteban Ocon,Racing Point,105.786,105.935,105.485,104.003,True,103.302,True,121.851,3
+2018,13,Belgian Grand Prix,Sergio Perez,Racing Point,106.169,104.662,105.341,104.004,True,103.014,True,121.894,4
+2018,13,Belgian Grand Prix,Romain Grosjean,Haas F1 Team,106.387,105.817,105.814,103.597,True,103.042,True,122.122,5
+2018,13,Belgian Grand Prix,Kimi Räikkönen,Ferrari,104.718,103.355,102.724,102.585,True,101.533,True,122.671,6
+2018,13,Belgian Grand Prix,Max Verstappen,Red Bull Racing,104.509,104.046,104.048,103.199,True,102.554,True,122.769,7
+2018,13,Belgian Grand Prix,Daniel Ricciardo,Red Bull Racing,105.558,104.25,104.479,103.604,True,103.126,True,122.939,8
+2018,13,Belgian Grand Prix,Kevin Magnussen,Haas F1 Team,107.012,106.078,106.087,103.834,True,103.32,True,124.933,9
+2018,13,Belgian Grand Prix,Valtteri Bottas,Mercedes,104.724,103.803,103.464,102.805,True,102.191,False,,10
+2018,13,Belgian Grand Prix,Pierre Gasly,Toro Rosso,106.3,106.08,106.182,104.221,True,103.844,False,,11
+2018,13,Belgian Grand Prix,Brendon Hartley,Toro Rosso,106.932,106.337,106.259,104.153,True,103.865,False,,12
+2018,13,Belgian Grand Prix,Charles Leclerc,Sauber,106.554,105.622,104.963,103.654,True,104.062,False,,13
+2018,13,Belgian Grand Prix,Marcus Ericsson,Sauber,106.557,105.537,105.536,103.846,True,104.301,False,,14
+2018,13,Belgian Grand Prix,Nico Hulkenberg,Renault,105.951,105.753,105.464,104.145,False,,False,,15
+2018,13,Belgian Grand Prix,Carlos Sainz,Renault,106.21,105.481,105.925,104.489,False,,False,,16
+2018,13,Belgian Grand Prix,Fernando Alonso,McLaren,,106.153,106.942,104.917,False,,False,,17
+2018,13,Belgian Grand Prix,Sergey Sirotkin,Williams,107.367,106.451,106.63,104.998,False,,False,,18
+2018,13,Belgian Grand Prix,Lance Stroll,Williams,106.965,106.47,106.502,105.134,False,,False,,19
+2018,13,Belgian Grand Prix,Stoffel Vandoorne,McLaren,107.452,106.496,107.061,105.307,False,,False,,20
+2018,14,Italian Grand Prix,Kimi Räikkönen,Ferrari,94.55,81.375,80.682,80.722,True,79.846,True,79.119,1
+2018,14,Italian Grand Prix,Sebastian Vettel,Ferrari,97.867,81.105,80.509,80.542,True,79.629,True,79.28,2
+2018,14,Italian Grand Prix,Lewis Hamilton,Mercedes,96.546,81.392,80.59,80.81,True,79.798,True,79.294,3
+2018,14,Italian Grand Prix,Valtteri Bottas,Mercedes,96.238,81.803,81.112,81.381,True,80.427,True,79.656,4
+2018,14,Italian Grand Prix,Max Verstappen,Red Bull Racing,95.665,82.154,81.388,81.381,True,80.333,True,80.615,5
+2018,14,Italian Grand Prix,Romain Grosjean,Haas F1 Team,97.683,83.077,82.357,81.887,True,81.239,True,80.936,6
+2018,14,Italian Grand Prix,Carlos Sainz,Renault,95.995,83.193,82.737,81.732,True,81.552,True,81.041,7
+2018,14,Italian Grand Prix,Esteban Ocon,Racing Point,94.593,82.93,82.055,81.57,True,81.315,True,81.099,8
+2018,14,Italian Grand Prix,Pierre Gasly,Toro Rosso,95.438,83.402,82.631,81.834,True,81.667,True,81.35,9
+2018,14,Italian Grand Prix,Lance Stroll,Williams,98.253,83.566,82.86,81.838,True,81.494,True,81.627,10
+2018,14,Italian Grand Prix,Kevin Magnussen,Haas F1 Team,97.066,83.233,82.011,81.783,True,81.669,False,,11
+2018,14,Italian Grand Prix,Sergey Sirotkin,Williams,97.929,83.514,82.778,81.813,True,81.732,False,,12
+2018,14,Italian Grand Prix,Fernando Alonso,McLaren,97.426,83.741,82.892,81.85,True,82.568,False,,13
+2018,14,Italian Grand Prix,Daniel Ricciardo,Red Bull Racing,95.207,82.296,82.31,81.28,False,,False,,14
+2018,14,Italian Grand Prix,Nico Hulkenberg,Renault,96.107,83.063,83.149,81.801,False,,False,,15
+2018,14,Italian Grand Prix,Sergio Perez,Racing Point,94.0,82.942,82.486,81.888,False,,False,,16
+2018,14,Italian Grand Prix,Charles Leclerc,Sauber,96.648,82.965,82.313,81.889,False,,False,,17
+2018,14,Italian Grand Prix,Brendon Hartley,Toro Rosso,95.024,83.531,83.164,81.934,False,,False,,18
+2018,14,Italian Grand Prix,Marcus Ericsson,Sauber,97.79,,82.882,82.048,False,,False,,19
+2018,14,Italian Grand Prix,Stoffel Vandoorne,McLaren,,84.084,82.987,82.085,False,,False,,20
+2018,15,Singapore Grand Prix,Lewis Hamilton,Mercedes,101.232,98.71,98.558,99.403,True,97.344,True,96.015,1
+2018,15,Singapore Grand Prix,Max Verstappen,Red Bull Racing,99.912,99.221,99.265,98.751,True,97.214,True,96.334,2
+2018,15,Singapore Grand Prix,Sebastian Vettel,Ferrari,99.997,100.633,98.054,98.218,True,97.876,True,96.628,3
+2018,15,Singapore Grand Prix,Valtteri Bottas,Mercedes,101.429,99.368,98.603,99.291,True,97.254,True,96.702,4
+2018,15,Singapore Grand Prix,Kimi Räikkönen,Ferrari,100.486,98.699,98.416,98.534,True,97.194,True,96.794,5
+2018,15,Singapore Grand Prix,Daniel Ricciardo,Red Bull Racing,99.711,99.309,99.186,98.153,True,97.406,True,96.996,6
+2018,15,Singapore Grand Prix,Sergio Perez,Racing Point,102.412,100.774,100.231,98.814,True,98.342,True,97.985,7
+2018,15,Singapore Grand Prix,Romain Grosjean,Haas F1 Team,102.108,100.384,99.747,98.685,True,98.367,True,98.32,8
+2018,15,Singapore Grand Prix,Esteban Ocon,Racing Point,103.177,100.87,100.073,98.912,True,98.534,True,98.365,9
+2018,15,Singapore Grand Prix,Nico Hulkenberg,Renault,101.105,100.668,100.45,98.932,True,98.45,True,98.588,10
+2018,15,Singapore Grand Prix,Fernando Alonso,McLaren,102.63,100.459,100.254,99.022,True,98.641,False,,11
+2018,15,Singapore Grand Prix,Carlos Sainz,Renault,101.329,100.274,100.591,99.103,True,98.716,False,,12
+2018,15,Singapore Grand Prix,Charles Leclerc,Sauber,102.035,101.062,100.915,99.206,True,98.747,False,,13
+2018,15,Singapore Grand Prix,Marcus Ericsson,Sauber,102.408,100.812,101.953,99.366,True,99.453,False,,14
+2018,15,Singapore Grand Prix,Pierre Gasly,Toro Rosso,103.24,101.615,100.686,99.614,True,99.691,False,,15
+2018,15,Singapore Grand Prix,Kevin Magnussen,Haas F1 Team,102.452,101.154,100.559,99.644,False,,False,,16
+2018,15,Singapore Grand Prix,Brendon Hartley,Toro Rosso,103.485,101.542,101.562,99.809,False,,False,,17
+2018,15,Singapore Grand Prix,Stoffel Vandoorne,McLaren,105.16,101.164,100.798,99.864,False,,False,,18
+2018,15,Singapore Grand Prix,Sergey Sirotkin,Williams,104.036,102.181,101.884,101.263,False,,False,,19
+2018,15,Singapore Grand Prix,Lance Stroll,Williams,103.849,102.141,102.22,101.334,False,,False,,20
+2018,16,Russian Grand Prix,Valtteri Bottas,Mercedes,94.999,93.584,93.321,92.964,True,92.744,True,91.387,1
+2018,16,Russian Grand Prix,Lewis Hamilton,Mercedes,94.818,93.385,93.067,92.41,True,92.595,True,91.532,2
+2018,16,Russian Grand Prix,Sebastian Vettel,Ferrari,94.488,93.928,93.667,93.476,True,93.045,True,91.943,3
+2018,16,Russian Grand Prix,Kimi Räikkönen,Ferrari,95.696,94.388,93.688,93.341,True,93.065,True,92.237,4
+2018,16,Russian Grand Prix,Kevin Magnussen,Haas F1 Team,96.196,95.331,94.82,94.078,True,93.747,True,93.181,5
+2018,16,Russian Grand Prix,Esteban Ocon,Racing Point,95.663,95.147,94.809,94.29,True,93.596,True,93.413,6
+2018,16,Russian Grand Prix,Charles Leclerc,Sauber,97.054,95.432,94.628,93.924,True,93.488,True,93.419,7
+2018,16,Russian Grand Prix,Sergio Perez,Racing Point,,95.122,94.916,94.084,True,93.923,True,93.563,8
+2018,16,Russian Grand Prix,Romain Grosjean,Haas F1 Team,96.816,95.911,95.185,94.022,True,93.517,True,93.704,9
+2018,16,Russian Grand Prix,Marcus Ericsson,Sauber,,95.295,95.37,94.17,True,93.995,True,95.196,10
+2018,16,Russian Grand Prix,Max Verstappen,Red Bull Racing,94.538,93.827,93.937,93.048,False,,False,,11
+2018,16,Russian Grand Prix,Daniel Ricciardo,Red Bull Racing,95.524,93.844,94.394,93.247,False,,False,,12
+2018,16,Russian Grand Prix,Pierre Gasly,Toro Rosso,96.944,95.137,95.125,94.383,False,,False,,13
+2018,16,Russian Grand Prix,Carlos Sainz,Renault,,95.341,94.988,94.626,False,,False,,14
+2018,16,Russian Grand Prix,Nico Hulkenberg,Renault,96.274,95.568,95.213,94.655,False,,False,,15
+2018,16,Russian Grand Prix,Brendon Hartley,Toro Rosso,97.944,96.024,96.033,95.037,False,,False,,16
+2018,16,Russian Grand Prix,Fernando Alonso,McLaren,,96.074,96.992,95.504,False,,False,,17
+2018,16,Russian Grand Prix,Sergey Sirotkin,Williams,97.225,96.861,96.071,95.612,False,,False,,18
+2018,16,Russian Grand Prix,Stoffel Vandoorne,McLaren,97.187,96.617,96.597,95.977,False,,False,,19
+2018,16,Russian Grand Prix,Lance Stroll,Williams,99.137,97.001,96.274,96.437,False,,False,,20
+2018,17,Japanese Grand Prix,Lewis Hamilton,Mercedes,88.691,88.217,89.599,88.702,True,88.017,True,87.76,1
+2018,17,Japanese Grand Prix,Valtteri Bottas,Mercedes,89.137,88.678,90.422,89.297,True,87.987,True,88.059,2
+2018,17,Japanese Grand Prix,Max Verstappen,Red Bull Racing,89.841,89.257,90.304,89.48,True,88.849,True,89.057,3
+2018,17,Japanese Grand Prix,Kimi Räikkönen,Ferrari,89.627,89.498,90.054,89.631,True,88.595,True,89.521,4
+2018,17,Japanese Grand Prix,Romain Grosjean,Haas F1 Team,90.814,90.44,91.636,89.724,True,89.678,True,89.761,5
+2018,17,Japanese Grand Prix,Brendon Hartley,Toro Rosso,91.908,90.502,92.03,90.248,True,89.848,True,90.023,6
+2018,17,Japanese Grand Prix,Pierre Gasly,Toro Rosso,91.073,90.795,93.105,90.137,True,89.81,True,90.093,7
+2018,17,Japanese Grand Prix,Esteban Ocon,Racing Point,90.591,90.035,91.088,89.899,True,89.538,True,90.126,8
+2018,17,Japanese Grand Prix,Sebastian Vettel,Ferrari,89.685,89.05,89.715,89.049,True,88.279,True,92.192,9
+2018,17,Japanese Grand Prix,Sergio Perez,Racing Point,91.272,90.51,91.483,90.247,True,89.567,True,97.229,10
+2018,17,Japanese Grand Prix,Charles Leclerc,Sauber,90.929,90.906,91.76,89.706,True,89.864,False,,11
+2018,17,Japanese Grand Prix,Kevin Magnussen,Haas F1 Team,91.274,90.956,91.521,90.219,True,90.226,False,,12
+2018,17,Japanese Grand Prix,Carlos Sainz,Renault,91.1,90.904,91.513,90.236,True,90.49,False,,13
+2018,17,Japanese Grand Prix,Lance Stroll,Williams,91.508,91.215,92.201,90.317,True,90.714,False,,14
+2018,17,Japanese Grand Prix,Daniel Ricciardo,Red Bull Racing,89.373,89.513,90.474,89.806,False,,False,,15
+2018,17,Japanese Grand Prix,Nico Hulkenberg,Renault,91.418,90.644,92.224,90.361,False,,False,,16
+2018,17,Japanese Grand Prix,Sergey Sirotkin,Williams,92.513,91.087,92.631,90.372,False,,False,,17
+2018,17,Japanese Grand Prix,Fernando Alonso,McLaren,92.034,90.988,92.608,90.573,False,,False,,18
+2018,17,Japanese Grand Prix,Stoffel Vandoorne,McLaren,,91.981,93.034,91.041,False,,False,,19
+2018,17,Japanese Grand Prix,Marcus Ericsson,Sauber,91.073,90.478,92.442,91.213,False,,False,,20
+2018,18,United States Grand Prix,Lewis Hamilton,Mercedes,107.502,108.716,93.87,94.13,True,93.48,True,92.237,1
+2018,18,United States Grand Prix,Sebastian Vettel,Ferrari,109.489,113.912,93.797,94.569,True,93.079,True,92.298,2
+2018,18,United States Grand Prix,Kimi Räikkönen,Ferrari,109.928,113.443,93.843,94.703,True,92.884,True,92.307,3
+2018,18,United States Grand Prix,Valtteri Bottas,Mercedes,108.806,,94.556,94.518,True,93.702,True,92.616,4
+2018,18,United States Grand Prix,Daniel Ricciardo,Red Bull Racing,109.326,,94.91,94.755,True,94.185,True,93.494,5
+2018,18,United States Grand Prix,Esteban Ocon,Racing Point,111.655,115.348,95.562,94.876,True,94.522,True,94.145,6
+2018,18,United States Grand Prix,Nico Hulkenberg,Renault,111.717,112.208,95.882,94.932,True,94.564,True,94.215,7
+2018,18,United States Grand Prix,Romain Grosjean,Haas F1 Team,110.821,,95.468,94.892,True,94.419,True,94.25,8
+2018,18,United States Grand Prix,Charles Leclerc,Sauber,110.961,114.101,95.365,95.069,True,94.255,True,94.42,9
+2018,18,United States Grand Prix,Sergio Perez,Racing Point,111.459,114.963,95.411,95.193,True,94.525,True,94.594,10
+2018,18,United States Grand Prix,Carlos Sainz,Renault,110.665,,95.45,94.891,True,94.566,False,,11
+2018,18,United States Grand Prix,Kevin Magnussen,Haas F1 Team,111.614,,95.77,94.972,True,94.732,False,,12
+2018,18,United States Grand Prix,Max Verstappen,Red Bull Racing,108.847,109.798,94.703,94.766,False,,False,,13
+2018,18,United States Grand Prix,Pierre Gasly,Toro Rosso,111.234,109.728,95.713,94.85,False,,False,,14
+2018,18,United States Grand Prix,Brendon Hartley,Toro Rosso,,112.505,96.33,95.206,False,,False,,15
+2018,18,United States Grand Prix,Fernando Alonso,McLaren,111.036,111.728,96.332,95.294,False,,False,,16
+2018,18,United States Grand Prix,Sergey Sirotkin,Williams,111.589,115.446,96.193,95.362,False,,False,,17
+2018,18,United States Grand Prix,Lance Stroll,Williams,111.896,114.637,96.188,95.48,False,,False,,18
+2018,18,United States Grand Prix,Marcus Ericsson,Sauber,111.016,113.07,96.0,95.536,False,,False,,19
+2018,18,United States Grand Prix,Stoffel Vandoorne,McLaren,,113.354,96.302,95.735,False,,False,,20
+2018,19,Mexican Grand Prix,Daniel Ricciardo,Red Bull Racing,77.139,76.873,77.028,75.866,True,75.845,True,74.759,1
+2018,19,Mexican Grand Prix,Max Verstappen,Red Bull Racing,76.656,76.72,76.284,75.756,True,75.64,True,74.785,2
+2018,19,Mexican Grand Prix,Lewis Hamilton,Mercedes,78.075,78.1,76.538,75.673,True,75.644,True,74.894,3
+2018,19,Mexican Grand Prix,Sebastian Vettel,Ferrari,78.746,77.954,76.566,76.089,True,75.715,True,74.97,4
+2018,19,Mexican Grand Prix,Valtteri Bottas,Mercedes,78.322,78.14,78.839,75.58,True,75.923,True,75.16,5
+2018,19,Mexican Grand Prix,Kimi Räikkönen,Ferrari,78.936,78.133,77.045,76.446,True,75.996,True,75.33,6
+2018,19,Mexican Grand Prix,Nico Hulkenberg,Renault,78.028,78.046,77.623,76.498,True,76.126,True,75.827,7
+2018,19,Mexican Grand Prix,Carlos Sainz,Renault,77.926,77.953,77.336,76.813,True,76.188,True,76.084,8
+2018,19,Mexican Grand Prix,Charles Leclerc,Sauber,,79.024,77.059,76.862,True,76.32,True,76.189,9
+2018,19,Mexican Grand Prix,Marcus Ericsson,Sauber,79.312,79.322,77.565,76.701,True,76.633,True,76.513,10
+2018,19,Mexican Grand Prix,Esteban Ocon,Racing Point,,78.485,77.731,76.252,True,76.844,False,,11
+2018,19,Mexican Grand Prix,Fernando Alonso,McLaren,,79.543,78.548,76.857,True,76.871,False,,12
+2018,19,Mexican Grand Prix,Sergio Perez,Racing Point,79.124,78.167,77.819,76.242,True,77.167,False,,13
+2018,19,Mexican Grand Prix,Brendon Hartley,Toro Rosso,79.024,78.061,78.637,76.682,True,77.184,False,,14
+2018,19,Mexican Grand Prix,Pierre Gasly,Toro Rosso,,79.047,77.525,76.828,False,,False,,15
+2018,19,Mexican Grand Prix,Romain Grosjean,Haas F1 Team,79.276,78.733,78.145,76.911,False,,False,,16
+2018,19,Mexican Grand Prix,Stoffel Vandoorne,McLaren,79.716,79.096,78.445,76.966,False,,False,,17
+2018,19,Mexican Grand Prix,Kevin Magnussen,Haas F1 Team,79.853,79.67,,77.599,False,,False,,18
+2018,19,Mexican Grand Prix,Lance Stroll,Williams,80.142,79.219,78.698,77.689,False,,False,,19
+2018,19,Mexican Grand Prix,Sergey Sirotkin,Williams,79.899,79.335,78.669,77.886,False,,False,,20
+2018,20,Brazilian Grand Prix,Lewis Hamilton,Mercedes,69.107,68.849,68.165,68.464,True,67.795,True,67.281,1
+2018,20,Brazilian Grand Prix,Sebastian Vettel,Ferrari,69.06,68.919,67.948,68.452,True,67.776,True,67.374,2
+2018,20,Brazilian Grand Prix,Valtteri Bottas,Mercedes,69.679,68.846,68.465,68.492,True,67.727,True,67.441,3
+2018,20,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,69.573,69.412,68.49,68.452,True,68.028,True,67.456,4
+2018,20,Brazilian Grand Prix,Max Verstappen,Red Bull Racing,69.011,69.339,68.733,68.205,True,68.017,True,67.778,5
+2018,20,Brazilian Grand Prix,Daniel Ricciardo,Red Bull Racing,69.395,69.164,68.788,68.544,True,68.055,True,67.78,6
+2018,20,Brazilian Grand Prix,Marcus Ericsson,Sauber,,70.532,69.808,68.754,True,68.579,True,68.296,7
+2018,20,Brazilian Grand Prix,Charles Leclerc,Sauber,70.346,69.943,69.448,68.667,True,68.335,True,68.492,8
+2018,20,Brazilian Grand Prix,Romain Grosjean,Haas F1 Team,69.922,69.769,69.257,68.735,True,68.239,True,68.517,9
+2018,20,Brazilian Grand Prix,Pierre Gasly,Toro Rosso,70.934,70.33,69.402,69.046,True,68.616,True,69.029,10
+2018,20,Brazilian Grand Prix,Kevin Magnussen,Haas F1 Team,70.236,70.007,69.146,68.474,True,68.659,False,,11
+2018,20,Brazilian Grand Prix,Sergio Perez,Racing Point,,70.32,70.116,69.217,True,68.741,False,,12
+2018,20,Brazilian Grand Prix,Esteban Ocon,Racing Point,70.361,70.159,69.588,69.264,True,68.77,False,,13
+2018,20,Brazilian Grand Prix,Nico Hulkenberg,Renault,70.679,71.674,69.461,69.009,True,68.834,False,,14
+2018,20,Brazilian Grand Prix,Sergey Sirotkin,Williams,71.037,70.569,69.885,69.259,True,70.381,False,,15
+2018,20,Brazilian Grand Prix,Carlos Sainz,Renault,70.662,70.458,69.864,69.269,False,,False,,16
+2018,20,Brazilian Grand Prix,Brendon Hartley,Toro Rosso,71.176,70.734,69.985,69.28,False,,False,,17
+2018,20,Brazilian Grand Prix,Fernando Alonso,McLaren,,70.332,70.02,69.402,False,,False,,18
+2018,20,Brazilian Grand Prix,Lance Stroll,Williams,70.799,70.662,70.001,69.441,False,,False,,19
+2018,20,Brazilian Grand Prix,Stoffel Vandoorne,McLaren,71.452,70.596,70.289,69.601,False,,False,,20
+2018,21,Abu Dhabi Grand Prix,Lewis Hamilton,Mercedes,99.543,97.443,97.176,96.828,True,95.693,True,94.794,1
+2018,21,Abu Dhabi Grand Prix,Valtteri Bottas,Mercedes,99.452,97.236,97.933,96.789,True,96.392,True,94.956,2
+2018,21,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,100.453,97.569,97.587,96.775,True,96.345,True,95.125,3
+2018,21,Abu Dhabi Grand Prix,Kimi Räikkönen,Ferrari,100.417,97.461,97.464,97.01,True,96.735,True,95.365,4
+2018,21,Abu Dhabi Grand Prix,Daniel Ricciardo,Red Bull Racing,98.945,97.428,98.09,97.117,True,96.964,True,95.401,5
+2018,21,Abu Dhabi Grand Prix,Max Verstappen,Red Bull Racing,98.491,97.28,97.747,97.195,True,96.144,True,95.589,6
+2018,21,Abu Dhabi Grand Prix,Romain Grosjean,Haas F1 Team,100.663,98.06,98.304,97.575,True,96.732,True,96.192,7
+2018,21,Abu Dhabi Grand Prix,Charles Leclerc,Sauber,,98.831,99.282,97.124,True,96.58,True,96.237,8
+2018,21,Abu Dhabi Grand Prix,Esteban Ocon,Racing Point,100.102,98.402,99.011,96.936,True,96.814,True,96.54,9
+2018,21,Abu Dhabi Grand Prix,Nico Hulkenberg,Renault,101.023,98.23,98.85,97.569,True,96.63,True,96.542,10
+2018,21,Abu Dhabi Grand Prix,Carlos Sainz,Renault,100.588,98.511,98.97,97.757,True,96.982,False,,11
+2018,21,Abu Dhabi Grand Prix,Marcus Ericsson,Sauber,101.928,99.502,99.997,97.619,True,97.132,False,,12
+2018,21,Abu Dhabi Grand Prix,Kevin Magnussen,Haas F1 Team,100.235,98.318,99.612,97.934,True,97.309,False,,13
+2018,21,Abu Dhabi Grand Prix,Sergio Perez,Racing Point,101.075,98.806,99.053,97.255,True,97.541,False,,14
+2018,21,Abu Dhabi Grand Prix,Fernando Alonso,McLaren,102.313,98.725,99.974,97.89,True,97.743,False,,15
+2018,21,Abu Dhabi Grand Prix,Brendon Hartley,Toro Rosso,101.137,98.957,99.074,97.994,False,,False,,16
+2018,21,Abu Dhabi Grand Prix,Pierre Gasly,Toro Rosso,100.671,98.506,99.74,98.166,False,,False,,17
+2018,21,Abu Dhabi Grand Prix,Stoffel Vandoorne,McLaren,102.114,99.938,100.233,98.577,False,,False,,18
+2018,21,Abu Dhabi Grand Prix,Sergey Sirotkin,Williams,,100.935,101.182,98.635,False,,False,,19
+2018,21,Abu Dhabi Grand Prix,Lance Stroll,Williams,101.493,100.046,100.117,98.682,False,,False,,20

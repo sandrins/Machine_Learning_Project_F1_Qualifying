@@ -1,0 +1,45 @@
+season,round,gp_name,driver_name,team_name,fp1_besttime,fp2_besttime,fp3_besttime,q1_besttime,qualified_for_q2,q2_besttime,qualified_for_q3,q3_besttime,startposition
+2026,1,Australian Grand Prix,George Russell,Mercedes,81.371,80.049,79.053,79.507,True,78.934,True,78.518,1
+2026,1,Australian Grand Prix,Kimi Antonelli,Mercedes,81.376,79.943,80.324,80.12,True,79.435,True,78.811,2
+2026,1,Australian Grand Prix,Isack Hadjar,Red Bull Racing,81.087,80.941,80.137,80.023,True,79.653,True,79.303,3
+2026,1,Australian Grand Prix,Charles Leclerc,Ferrari,80.267,80.291,79.827,80.226,True,79.357,True,79.327,4
+2026,1,Australian Grand Prix,Oscar Piastri,McLaren,81.342,79.729,80.087,79.664,True,79.525,True,79.38,5
+2026,1,Australian Grand Prix,Lando Norris,McLaren,84.391,80.794,80.443,80.01,True,79.882,True,79.475,6
+2026,1,Australian Grand Prix,Lewis Hamilton,Ferrari,80.736,80.05,79.669,79.811,True,79.921,True,79.478,7
+2026,1,Australian Grand Prix,Liam Lawson,Racing Bulls,82.613,81.358,80.89,80.491,True,80.144,True,79.994,8
+2026,1,Australian Grand Prix,Arvid Lindblad,Racing Bulls,81.313,80.922,80.838,80.409,True,79.971,True,81.247,9
+2026,1,Australian Grand Prix,Gabriel Bortoleto,Audi,81.696,81.668,80.459,80.495,True,80.221,False,,10
+2026,1,Australian Grand Prix,Nico Hulkenberg,Audi,81.969,81.351,81.067,81.024,True,80.303,False,,11
+2026,1,Australian Grand Prix,Oliver Bearman,Haas F1 Team,82.682,81.326,80.778,81.247,True,80.311,False,,12
+2026,1,Australian Grand Prix,Esteban Ocon,Haas F1 Team,82.161,81.179,80.983,80.759,True,80.491,False,,13
+2026,1,Australian Grand Prix,Pierre Gasly,Alpine,84.035,82.167,81.071,81.138,True,80.501,False,,14
+2026,1,Australian Grand Prix,Alexander Albon,Williams,83.13,81.847,81.664,81.051,True,80.941,False,,15
+2026,1,Australian Grand Prix,Franco Colapinto,Alpine,83.325,82.619,81.413,81.2,True,81.27,False,,16
+2026,1,Australian Grand Prix,Fernando Alonso,Aston Martin,,84.662,82.72,81.969,False,,False,,17
+2026,1,Australian Grand Prix,Sergio Perez,Cadillac,84.62,,84.397,82.605,False,,False,,18
+2026,1,Australian Grand Prix,Valtteri Bottas,Cadillac,84.022,83.66,83.514,83.244,False,,False,,19
+2026,1,Australian Grand Prix,Carlos Sainz,Williams,82.323,82.253,,,False,,False,,20
+2026,1,Australian Grand Prix,Lance Stroll,Aston Martin,110.334,85.816,,,False,,False,,21
+2026,1,Australian Grand Prix,Max Verstappen,Red Bull Racing,80.789,80.366,80.197,,False,,False,,22
+2026,3,Japanese Grand Prix,Kimi Antonelli,Mercedes,91.692,90.225,89.362,90.035,True,89.048,True,88.778,1
+2026,3,Japanese Grand Prix,George Russell,Mercedes,91.666,90.338,89.616,89.967,True,89.686,True,89.076,2
+2026,3,Japanese Grand Prix,Oscar Piastri,McLaren,91.865,90.133,90.364,90.2,True,89.451,True,89.132,3
+2026,3,Japanese Grand Prix,Charles Leclerc,Ferrari,91.955,90.846,90.229,89.915,True,89.303,True,89.405,4
+2026,3,Japanese Grand Prix,Lando Norris,McLaren,91.798,90.649,90.6,90.401,True,89.795,True,89.409,5
+2026,3,Japanese Grand Prix,Lewis Hamilton,Ferrari,92.04,90.98,90.383,90.309,True,89.589,True,89.567,6
+2026,3,Japanese Grand Prix,Pierre Gasly,Alpine,92.978,91.734,91.082,90.584,True,89.874,True,89.691,7
+2026,3,Japanese Grand Prix,Isack Hadjar,Red Bull Racing,92.803,91.759,91.094,90.662,True,90.104,True,89.978,8
+2026,3,Japanese Grand Prix,Gabriel Bortoleto,Audi,92.759,91.933,91.0,90.359,True,89.99,True,90.274,9
+2026,3,Japanese Grand Prix,Arvid Lindblad,Racing Bulls,92.665,,91.288,90.781,True,90.109,True,90.319,10
+2026,3,Japanese Grand Prix,Max Verstappen,Red Bull Racing,92.457,91.509,90.91,90.519,True,90.262,False,,11
+2026,3,Japanese Grand Prix,Esteban Ocon,Haas F1 Team,92.601,91.532,91.326,90.915,True,90.309,False,,12
+2026,3,Japanese Grand Prix,Nico Hulkenberg,Audi,92.798,91.441,90.658,90.358,True,90.387,False,,13
+2026,3,Japanese Grand Prix,Liam Lawson,Racing Bulls,92.529,91.59,91.097,90.657,True,90.495,False,,14
+2026,3,Japanese Grand Prix,Franco Colapinto,Alpine,93.361,92.438,91.759,90.931,True,90.627,False,,15
+2026,3,Japanese Grand Prix,Carlos Sainz,Williams,93.383,91.608,91.829,90.927,True,91.033,False,,16
+2026,3,Japanese Grand Prix,Alexander Albon,Williams,93.697,91.496,91.733,91.088,False,,False,,17
+2026,3,Japanese Grand Prix,Oliver Bearman,Haas F1 Team,92.9,91.498,91.558,91.09,False,,False,,18
+2026,3,Japanese Grand Prix,Sergio Perez,Cadillac,94.221,93.689,92.54,92.206,False,,False,,19
+2026,3,Japanese Grand Prix,Valtteri Bottas,Cadillac,94.49,92.615,92.503,92.33,False,,False,,20
+2026,3,Japanese Grand Prix,Fernando Alonso,Aston Martin,,93.596,93.529,92.646,False,,False,,21
+2026,3,Japanese Grand Prix,Lance Stroll,Aston Martin,95.294,93.951,93.485,92.92,False,,False,,22

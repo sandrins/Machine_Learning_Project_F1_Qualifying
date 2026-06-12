@@ -1,0 +1,361 @@
+season,round,gp_name,driver_name,team_name,fp1_besttime,fp2_besttime,fp3_besttime,q1_besttime,qualified_for_q2,q2_besttime,qualified_for_q3,q3_besttime,startposition
+2021,1,Bahrain Grand Prix,Max Verstappen,Red Bull Racing,91.394,90.847,90.577,90.499,True,90.318,True,88.997,1
+2021,1,Bahrain Grand Prix,Lewis Hamilton,Mercedes,91.921,91.082,91.316,90.617,True,90.085,True,89.385,2
+2021,1,Bahrain Grand Prix,Valtteri Bottas,Mercedes,91.692,91.218,91.855,91.2,True,90.186,True,89.586,3
+2021,1,Bahrain Grand Prix,Charles Leclerc,Ferrari,91.993,91.612,92.482,90.691,True,90.01,True,89.678,4
+2021,1,Bahrain Grand Prix,Pierre Gasly,AlphaTauri,92.195,91.483,91.583,90.848,True,90.513,True,89.809,5
+2021,1,Bahrain Grand Prix,Daniel Ricciardo,McLaren,92.434,91.23,92.477,90.795,True,90.222,True,89.927,6
+2021,1,Bahrain Grand Prix,Lando Norris,McLaren,91.897,90.942,92.86,90.902,True,90.099,True,89.974,7
+2021,1,Bahrain Grand Prix,Carlos Sainz,Ferrari,92.366,91.127,92.108,91.653,True,90.009,True,90.215,8
+2021,1,Bahrain Grand Prix,Fernando Alonso,Alpine,93.872,91.77,92.82,90.863,True,90.595,True,90.249,9
+2021,1,Bahrain Grand Prix,Lance Stroll,Aston Martin,93.233,91.393,92.431,91.261,True,90.624,True,90.601,10
+2021,1,Bahrain Grand Prix,Sergio Perez,Red Bull Racing,92.071,91.503,91.908,91.165,True,90.659,False,,11
+2021,1,Bahrain Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,92.786,91.74,92.5,90.998,True,90.708,False,,12
+2021,1,Bahrain Grand Prix,Yuki Tsunoda,AlphaTauri,93.329,91.294,92.709,90.607,True,91.203,False,,13
+2021,1,Bahrain Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,93.134,91.862,92.224,91.547,True,91.238,False,,14
+2021,1,Bahrain Grand Prix,George Russell,Williams,94.127,92.331,93.323,91.316,True,93.43,False,,15
+2021,1,Bahrain Grand Prix,Esteban Ocon,Alpine,93.528,91.601,92.423,91.724,False,,False,,16
+2021,1,Bahrain Grand Prix,Nicholas Latifi,Williams,94.34,93.4,93.959,91.936,False,,False,,17
+2021,1,Bahrain Grand Prix,Sebastian Vettel,Aston Martin,93.157,91.769,92.755,92.056,False,,False,,18
+2021,1,Bahrain Grand Prix,Mick Schumacher,Haas F1 Team,94.501,93.297,93.422,92.449,False,,False,,19
+2021,1,Bahrain Grand Prix,Nikita Mazepin,Haas F1 Team,94.975,93.449,93.622,93.273,False,,False,,20
+2021,2,Emilia Romagna Grand Prix,Lewis Hamilton,Mercedes,76.605,75.561,75.515,74.823,True,74.817,True,74.411,1
+2021,2,Emilia Romagna Grand Prix,Sergio Perez,Red Bull Racing,78.228,76.411,75.551,75.395,True,74.716,True,74.446,2
+2021,2,Emilia Romagna Grand Prix,Max Verstappen,Red Bull Racing,76.622,76.999,74.958,75.109,True,74.884,True,74.498,3
+2021,2,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,76.796,76.371,75.738,75.413,True,74.808,True,74.74,4
+2021,2,Emilia Romagna Grand Prix,Pierre Gasly,AlphaTauri,76.888,75.629,75.89,75.548,True,74.927,True,74.79,5
+2021,2,Emilia Romagna Grand Prix,Daniel Ricciardo,McLaren,77.769,77.281,76.253,75.669,True,75.033,True,74.826,6
+2021,2,Emilia Romagna Grand Prix,Lando Norris,McLaren,77.935,76.485,75.414,75.009,True,74.718,True,74.875,7
+2021,2,Emilia Romagna Grand Prix,Valtteri Bottas,Mercedes,76.564,75.551,75.908,74.672,True,74.905,True,74.898,8
+2021,2,Emilia Romagna Grand Prix,Esteban Ocon,Alpine,78.36,76.817,76.228,75.385,True,75.117,True,75.21,9
+2021,2,Emilia Romagna Grand Prix,Lance Stroll,Aston Martin,77.489,76.737,76.245,75.522,True,75.138,False,,10
+2021,2,Emilia Romagna Grand Prix,Carlos Sainz,Ferrari,76.888,75.834,75.908,75.406,True,75.199,False,,11
+2021,2,Emilia Romagna Grand Prix,George Russell,Williams,77.866,77.179,76.427,75.826,True,75.261,False,,12
+2021,2,Emilia Romagna Grand Prix,Sebastian Vettel,Aston Martin,77.984,77.092,76.389,75.459,True,75.394,False,,13
+2021,2,Emilia Romagna Grand Prix,Nicholas Latifi,Williams,77.739,76.823,76.537,75.653,True,75.593,False,,14
+2021,2,Emilia Romagna Grand Prix,Fernando Alonso,Alpine,77.457,76.835,76.186,75.832,True,75.593,False,,15
+2021,2,Emilia Romagna Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,77.883,77.273,76.803,75.974,False,,False,,16
+2021,2,Emilia Romagna Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,78.058,76.513,76.612,76.122,False,,False,,17
+2021,2,Emilia Romagna Grand Prix,Mick Schumacher,Haas F1 Team,79.48,77.35,76.448,76.279,False,,False,,18
+2021,2,Emilia Romagna Grand Prix,Nikita Mazepin,Haas F1 Team,78.823,77.857,77.398,76.797,False,,False,,19
+2021,2,Emilia Romagna Grand Prix,Yuki Tsunoda,AlphaTauri,79.781,76.419,76.23,,False,,False,,20
+2021,3,Portuguese Grand Prix,Valtteri Bottas,Mercedes,79.648,80.181,78.82,78.722,True,78.458,True,78.348,1
+2021,3,Portuguese Grand Prix,Lewis Hamilton,Mercedes,79.967,79.837,78.725,78.857,True,77.968,True,78.355,2
+2021,3,Portuguese Grand Prix,Max Verstappen,Red Bull Racing,79.673,79.98,78.489,79.485,True,78.65,True,78.746,3
+2021,3,Portuguese Grand Prix,Sergio Perez,Red Bull Racing,79.846,80.516,78.84,79.337,True,78.845,True,78.89,4
+2021,3,Portuguese Grand Prix,Carlos Sainz,Ferrari,80.68,80.197,79.05,79.309,True,78.813,True,79.039,5
+2021,3,Portuguese Grand Prix,Esteban Ocon,Alpine,80.8,80.235,78.86,79.092,True,78.586,True,79.042,6
+2021,3,Portuguese Grand Prix,Lando Norris,McLaren,80.635,80.757,79.272,78.794,True,78.481,True,79.116,7
+2021,3,Portuguese Grand Prix,Charles Leclerc,Ferrari,79.884,80.36,79.001,79.373,True,78.769,True,79.306,8
+2021,3,Portuguese Grand Prix,Pierre Gasly,AlphaTauri,80.444,80.558,79.374,79.464,True,79.052,True,79.475,9
+2021,3,Portuguese Grand Prix,Sebastian Vettel,Aston Martin,81.405,81.074,80.214,79.403,True,78.97,True,79.659,10
+2021,3,Portuguese Grand Prix,George Russell,Williams,80.529,80.976,80.127,79.797,True,79.109,False,,11
+2021,3,Portuguese Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,,81.238,79.588,79.41,True,79.216,False,,12
+2021,3,Portuguese Grand Prix,Fernando Alonso,Alpine,81.303,80.22,79.949,79.728,True,79.456,False,,13
+2021,3,Portuguese Grand Prix,Yuki Tsunoda,AlphaTauri,81.09,81.053,79.485,79.684,True,79.463,False,,14
+2021,3,Portuguese Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,81.381,81.225,79.415,79.748,True,79.812,False,,15
+2021,3,Portuguese Grand Prix,Daniel Ricciardo,McLaren,80.995,80.418,79.582,79.839,False,,False,,16
+2021,3,Portuguese Grand Prix,Lance Stroll,Aston Martin,80.894,80.427,80.09,79.913,False,,False,,17
+2021,3,Portuguese Grand Prix,Nicholas Latifi,Williams,82.293,81.855,80.681,80.285,False,,False,,18
+2021,3,Portuguese Grand Prix,Mick Schumacher,Haas F1 Team,81.939,81.537,80.033,80.452,False,,False,,19
+2021,3,Portuguese Grand Prix,Nikita Mazepin,Haas F1 Team,84.224,82.638,80.69,80.912,False,,False,,20
+2021,4,Spanish Grand Prix,Lewis Hamilton,Mercedes,78.627,78.17,78.07,78.245,True,77.166,True,76.741,1
+2021,4,Spanish Grand Prix,Max Verstappen,Red Bull Racing,78.537,78.785,77.835,78.09,True,76.922,True,76.777,2
+2021,4,Spanish Grand Prix,Valtteri Bottas,Mercedes,78.504,78.309,78.423,78.005,True,77.142,True,76.873,3
+2021,4,Spanish Grand Prix,Charles Leclerc,Ferrari,78.996,78.335,78.308,78.041,True,77.717,True,77.51,4
+2021,4,Spanish Grand Prix,Esteban Ocon,Alpine,79.681,78.466,78.7,78.281,True,77.743,True,77.58,5
+2021,4,Spanish Grand Prix,Carlos Sainz,Ferrari,79.02,78.674,78.41,78.205,True,77.656,True,77.62,6
+2021,4,Spanish Grand Prix,Daniel Ricciardo,McLaren,79.732,79.195,78.582,78.264,True,77.719,True,77.622,7
+2021,4,Spanish Grand Prix,Sergio Perez,Red Bull Racing,79.349,78.918,78.606,78.203,True,77.669,True,77.701,8
+2021,4,Spanish Grand Prix,Lando Norris,McLaren,78.944,79.092,78.494,77.821,True,77.696,True,78.01,9
+2021,4,Spanish Grand Prix,Fernando Alonso,Alpine,79.95,78.518,78.662,78.281,True,77.966,True,78.147,10
+2021,4,Spanish Grand Prix,Lance Stroll,Aston Martin,79.429,79.134,78.877,78.241,True,77.974,False,,11
+2021,4,Spanish Grand Prix,Pierre Gasly,AlphaTauri,79.062,78.593,78.535,78.19,True,77.982,False,,12
+2021,4,Spanish Grand Prix,Sebastian Vettel,Aston Martin,79.234,78.947,79.363,78.289,True,78.079,False,,13
+2021,4,Spanish Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,79.694,79.122,79.214,78.549,True,78.356,False,,14
+2021,4,Spanish Grand Prix,George Russell,Williams,,79.957,79.005,78.445,True,79.154,False,,15
+2021,4,Spanish Grand Prix,Yuki Tsunoda,AlphaTauri,79.669,78.619,78.673,78.556,False,,False,,16
+2021,4,Spanish Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,,79.213,78.597,78.917,False,,False,,17
+2021,4,Spanish Grand Prix,Mick Schumacher,Haas F1 Team,80.766,80.326,79.999,79.117,False,,False,,18
+2021,4,Spanish Grand Prix,Nicholas Latifi,Williams,80.27,80.046,79.392,79.219,False,,False,,19
+2021,4,Spanish Grand Prix,Nikita Mazepin,Haas F1 Team,81.976,80.753,80.237,79.807,False,,False,,20
+2021,5,Monaco Grand Prix,Charles Leclerc,Ferrari,79.618,71.684,71.552,71.113,True,70.597,True,70.346,1
+2021,5,Monaco Grand Prix,Max Verstappen,Red Bull Racing,72.648,72.081,71.294,71.124,True,70.65,True,70.576,2
+2021,5,Monaco Grand Prix,Valtteri Bottas,Mercedes,73.131,72.107,71.765,70.938,True,70.695,True,70.601,3
+2021,5,Monaco Grand Prix,Carlos Sainz,Ferrari,72.606,71.796,71.341,71.324,True,70.806,True,70.611,4
+2021,5,Monaco Grand Prix,Lando Norris,McLaren,73.236,72.379,71.988,71.321,True,71.031,True,70.62,5
+2021,5,Monaco Grand Prix,Pierre Gasly,AlphaTauri,72.929,72.498,72.357,71.56,True,71.179,True,70.9,6
+2021,5,Monaco Grand Prix,Lewis Hamilton,Mercedes,72.995,72.074,72.02,71.622,True,71.116,True,71.095,7
+2021,5,Monaco Grand Prix,Sebastian Vettel,Aston Martin,73.732,72.982,72.537,72.078,True,71.309,True,71.419,8
+2021,5,Monaco Grand Prix,Sergio Perez,Red Bull Racing,72.487,72.708,71.817,71.644,True,71.019,True,71.573,9
+2021,5,Monaco Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,74.106,72.746,72.539,71.658,True,71.409,True,71.779,10
+2021,5,Monaco Grand Prix,Esteban Ocon,Alpine,74.32,73.199,73.614,71.74,True,71.486,False,,11
+2021,5,Monaco Grand Prix,Daniel Ricciardo,McLaren,74.281,73.257,72.959,71.747,True,71.598,False,,12
+2021,5,Monaco Grand Prix,Lance Stroll,Aston Martin,74.09,73.195,72.7,71.979,True,71.6,False,,13
+2021,5,Monaco Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,74.081,73.065,72.298,71.899,True,71.642,False,,14
+2021,5,Monaco Grand Prix,George Russell,Williams,74.84,73.509,73.447,72.016,True,71.83,False,,15
+2021,5,Monaco Grand Prix,Yuki Tsunoda,AlphaTauri,73.746,74.829,73.522,72.096,False,,False,,16
+2021,5,Monaco Grand Prix,Fernando Alonso,Alpine,74.205,73.175,73.329,72.205,False,,False,,17
+2021,5,Monaco Grand Prix,Nicholas Latifi,Williams,74.268,73.593,73.475,72.366,False,,False,,18
+2021,5,Monaco Grand Prix,Nikita Mazepin,Haas F1 Team,74.616,74.407,73.39,72.958,False,,False,,19
+2021,5,Monaco Grand Prix,Mick Schumacher,Haas F1 Team,74.801,74.416,73.139,,False,,False,,20
+2021,6,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,103.227,102.436,102.778,102.241,True,101.659,True,101.218,1
+2021,6,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes,103.893,103.156,102.697,101.545,True,101.634,True,101.45,2
+2021,6,Azerbaijan Grand Prix,Max Verstappen,Red Bull Racing,103.184,102.216,103.984,101.76,True,101.625,True,101.563,3
+2021,6,Azerbaijan Grand Prix,Pierre Gasly,AlphaTauri,103.757,102.534,102.251,102.288,True,101.932,True,101.565,4
+2021,6,Azerbaijan Grand Prix,Carlos Sainz,Ferrari,103.521,102.243,103.006,102.121,True,101.74,True,101.576,5
+2021,6,Azerbaijan Grand Prix,Lando Norris,McLaren,103.996,103.018,103.011,102.167,True,101.813,True,101.747,6
+2021,6,Azerbaijan Grand Prix,Sergio Perez,Red Bull Racing,103.63,102.115,102.595,101.968,True,101.63,True,101.917,7
+2021,6,Azerbaijan Grand Prix,Yuki Tsunoda,AlphaTauri,105.384,103.13,103.244,102.521,True,101.654,True,102.211,8
+2021,6,Azerbaijan Grand Prix,Fernando Alonso,Alpine,104.777,102.693,103.08,102.934,True,102.195,True,102.327,9
+2021,6,Azerbaijan Grand Prix,Valtteri Bottas,Mercedes,104.891,104.184,103.745,102.701,True,102.106,True,102.659,10
+2021,6,Azerbaijan Grand Prix,Sebastian Vettel,Aston Martin,105.415,103.881,103.585,102.46,True,102.224,False,,11
+2021,6,Azerbaijan Grand Prix,Esteban Ocon,Alpine,105.446,103.02,103.294,102.426,True,102.273,False,,12
+2021,6,Azerbaijan Grand Prix,Daniel Ricciardo,McLaren,103.732,103.298,103.557,102.304,True,102.558,False,,13
+2021,6,Azerbaijan Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,104.943,103.22,103.826,102.923,True,102.587,False,,14
+2021,6,Azerbaijan Grand Prix,George Russell,Williams,105.452,104.557,104.434,102.728,True,102.758,False,,15
+2021,6,Azerbaijan Grand Prix,Nicholas Latifi,Williams,105.774,106.983,104.054,103.128,False,,False,,16
+2021,6,Azerbaijan Grand Prix,Mick Schumacher,Haas F1 Team,106.899,106.095,105.282,104.158,False,,False,,17
+2021,6,Azerbaijan Grand Prix,Nikita Mazepin,Haas F1 Team,106.945,105.563,105.711,104.238,False,,False,,18
+2021,6,Azerbaijan Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,105.092,102.941,104.113,,False,,False,,19
+2021,6,Azerbaijan Grand Prix,Lance Stroll,Aston Martin,105.234,103.812,103.682,,False,,False,,20
+2021,7,French Grand Prix,Max Verstappen,Red Bull Racing,93.88,92.872,91.3,91.001,True,91.08,True,89.99,1
+2021,7,French Grand Prix,Lewis Hamilton,Mercedes,93.783,93.125,92.266,91.237,True,90.788,True,90.248,2
+2021,7,French Grand Prix,Valtteri Bottas,Mercedes,93.448,92.88,92.047,91.669,True,90.735,True,90.376,3
+2021,7,French Grand Prix,Sergio Perez,Red Bull Racing,94.193,93.921,92.238,91.56,True,90.971,True,90.445,4
+2021,7,French Grand Prix,Carlos Sainz,Ferrari,95.342,93.698,92.195,92.079,True,91.146,True,90.84,5
+2021,7,French Grand Prix,Pierre Gasly,AlphaTauri,94.699,93.696,92.707,91.898,True,91.353,True,90.868,6
+2021,7,French Grand Prix,Charles Leclerc,Ferrari,94.95,93.55,92.82,92.209,True,91.567,True,90.987,7
+2021,7,French Grand Prix,Lando Norris,McLaren,94.707,93.822,92.336,91.733,True,91.542,True,91.252,8
+2021,7,French Grand Prix,Fernando Alonso,Alpine,94.693,93.34,92.624,92.158,True,91.549,True,91.34,9
+2021,7,French Grand Prix,Daniel Ricciardo,McLaren,94.644,94.079,92.759,92.181,True,91.615,True,91.382,10
+2021,7,French Grand Prix,Esteban Ocon,Alpine,94.329,93.685,92.681,92.139,True,91.736,False,,11
+2021,7,French Grand Prix,Sebastian Vettel,Aston Martin,95.289,94.447,93.2,92.132,True,91.767,False,,12
+2021,7,French Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,95.116,93.831,93.017,92.722,True,91.813,False,,13
+2021,7,French Grand Prix,George Russell,Williams,,95.266,93.364,93.06,True,92.065,False,,14
+2021,7,French Grand Prix,Mick Schumacher,Haas F1 Team,97.329,95.512,94.143,92.942,False,,False,,15
+2021,7,French Grand Prix,Nicholas Latifi,Williams,95.612,95.331,93.584,93.062,False,,False,,16
+2021,7,French Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,95.135,93.786,93.328,93.354,False,,False,,17
+2021,7,French Grand Prix,Nikita Mazepin,Haas F1 Team,96.651,95.551,94.642,93.554,False,,False,,18
+2021,7,French Grand Prix,Lance Stroll,Aston Martin,95.275,94.632,93.051,,False,,False,,19
+2021,7,French Grand Prix,Yuki Tsunoda,AlphaTauri,94.847,93.955,93.424,,False,,False,,20
+2021,8,Styrian Grand Prix,Max Verstappen,Red Bull Racing,65.91,65.412,64.573,64.489,True,64.433,True,63.841,1
+2021,8,Styrian Grand Prix,Valtteri Bottas,Mercedes,66.386,66.251,64.832,64.537,True,64.443,True,64.035,2
+2021,8,Styrian Grand Prix,Lewis Hamilton,Mercedes,66.332,65.796,64.369,64.672,True,64.512,True,64.067,3
+2021,8,Styrian Grand Prix,Lando Norris,McLaren,66.861,65.994,66.654,64.584,True,64.298,True,64.12,4
+2021,8,Styrian Grand Prix,Sergio Perez,Red Bull Racing,66.696,66.089,65.026,64.638,True,64.197,True,64.168,5
+2021,8,Styrian Grand Prix,Pierre Gasly,AlphaTauri,66.166,,65.298,64.765,True,64.429,True,64.236,6
+2021,8,Styrian Grand Prix,Charles Leclerc,Ferrari,66.629,66.27,65.34,64.745,True,64.646,True,64.472,7
+2021,8,Styrian Grand Prix,Yuki Tsunoda,AlphaTauri,66.397,66.451,65.15,64.608,True,64.631,True,64.514,8
+2021,8,Styrian Grand Prix,Fernando Alonso,Alpine,66.519,65.827,65.4,64.971,True,64.582,True,64.574,9
+2021,8,Styrian Grand Prix,Lance Stroll,Aston Martin,66.584,66.079,65.445,64.821,True,64.663,True,64.708,10
+2021,8,Styrian Grand Prix,George Russell,Williams,66.848,66.628,65.863,65.033,True,64.671,False,,11
+2021,8,Styrian Grand Prix,Carlos Sainz,Ferrari,66.63,66.147,65.698,64.859,True,64.8,False,,12
+2021,8,Styrian Grand Prix,Daniel Ricciardo,McLaren,66.669,65.748,66.116,65.142,True,64.808,False,,13
+2021,8,Styrian Grand Prix,Sebastian Vettel,Aston Martin,66.708,65.934,65.492,65.051,True,64.875,False,,14
+2021,8,Styrian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,66.614,66.145,65.556,65.092,True,64.913,False,,15
+2021,8,Styrian Grand Prix,Nicholas Latifi,Williams,67.18,67.669,66.119,65.175,False,,False,,16
+2021,8,Styrian Grand Prix,Esteban Ocon,Alpine,66.551,65.79,65.676,65.217,False,,False,,17
+2021,8,Styrian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,,66.297,65.942,65.429,False,,False,,18
+2021,8,Styrian Grand Prix,Mick Schumacher,Haas F1 Team,67.473,66.886,65.992,66.041,False,,False,,19
+2021,8,Styrian Grand Prix,Nikita Mazepin,Haas F1 Team,68.081,67.404,66.692,66.192,False,,False,,20
+2021,9,Austrian Grand Prix,Max Verstappen,Red Bull Racing,65.143,64.74,64.591,64.249,True,63.927,True,63.72,1
+2021,9,Austrian Grand Prix,Lando Norris,McLaren,65.88,65.466,65.7,64.345,True,64.415,True,63.768,2
+2021,9,Austrian Grand Prix,Sergio Perez,Red Bull Racing,65.726,65.516,65.396,64.833,True,64.483,True,63.99,3
+2021,9,Austrian Grand Prix,Lewis Hamilton,Mercedes,65.709,64.523,65.277,64.506,True,64.258,True,64.014,4
+2021,9,Austrian Grand Prix,Valtteri Bottas,Mercedes,65.445,64.712,65.129,64.563,True,64.376,True,64.049,5
+2021,9,Austrian Grand Prix,Pierre Gasly,AlphaTauri,65.726,65.379,65.28,64.841,True,64.412,True,64.107,6
+2021,9,Austrian Grand Prix,Yuki Tsunoda,AlphaTauri,65.474,65.356,65.561,64.967,True,64.518,True,64.273,7
+2021,9,Austrian Grand Prix,Sebastian Vettel,Aston Martin,66.444,65.268,65.542,64.846,True,64.493,True,64.57,8
+2021,9,Austrian Grand Prix,George Russell,Williams,,65.819,65.694,64.907,True,64.553,True,64.591,9
+2021,9,Austrian Grand Prix,Lance Stroll,Aston Martin,66.203,65.139,65.546,64.927,True,64.547,True,64.618,10
+2021,9,Austrian Grand Prix,Carlos Sainz,Ferrari,65.431,65.62,65.347,64.596,True,64.559,False,,11
+2021,9,Austrian Grand Prix,Charles Leclerc,Ferrari,65.409,65.708,65.484,64.906,True,64.6,False,,12
+2021,9,Austrian Grand Prix,Daniel Ricciardo,McLaren,66.181,65.698,65.725,64.977,True,64.719,False,,13
+2021,9,Austrian Grand Prix,Fernando Alonso,Alpine,,65.393,65.434,64.472,True,64.856,False,,14
+2021,9,Austrian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,,65.511,65.345,64.782,True,65.083,False,,15
+2021,9,Austrian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,65.586,65.624,65.747,65.009,False,,False,,16
+2021,9,Austrian Grand Prix,Esteban Ocon,Alpine,65.98,65.527,65.674,65.051,False,,False,,17
+2021,9,Austrian Grand Prix,Nicholas Latifi,Williams,66.978,66.014,66.105,65.195,False,,False,,18
+2021,9,Austrian Grand Prix,Mick Schumacher,Haas F1 Team,66.583,65.911,66.078,65.427,False,,False,,19
+2021,9,Austrian Grand Prix,Nikita Mazepin,Haas F1 Team,67.316,66.173,66.289,65.951,False,,False,,20
+2021,11,Hungarian Grand Prix,Lewis Hamilton,Mercedes,77.722,77.039,76.826,76.424,True,76.553,True,75.419,1
+2021,11,Hungarian Grand Prix,Valtteri Bottas,Mercedes,77.616,77.012,77.055,76.569,True,76.702,True,75.734,2
+2021,11,Hungarian Grand Prix,Max Verstappen,Red Bull Racing,77.555,77.31,76.914,76.214,True,75.65,True,75.84,3
+2021,11,Hungarian Grand Prix,Sergio Perez,Red Bull Racing,78.466,77.824,77.917,77.233,True,76.443,True,76.421,4
+2021,11,Hungarian Grand Prix,Pierre Gasly,AlphaTauri,78.181,78.113,78.115,76.874,True,76.394,True,76.483,5
+2021,11,Hungarian Grand Prix,Lando Norris,McLaren,78.649,78.313,77.772,77.081,True,76.385,True,76.489,6
+2021,11,Hungarian Grand Prix,Charles Leclerc,Ferrari,78.391,78.37,77.52,77.084,True,76.574,True,76.496,7
+2021,11,Hungarian Grand Prix,Esteban Ocon,Alpine,78.765,77.759,78.174,77.367,True,76.766,True,76.653,8
+2021,11,Hungarian Grand Prix,Fernando Alonso,Alpine,78.385,78.169,77.992,77.123,True,76.541,True,76.715,9
+2021,11,Hungarian Grand Prix,Sebastian Vettel,Aston Martin,78.989,78.228,78.235,77.105,True,76.794,True,76.75,10
+2021,11,Hungarian Grand Prix,Daniel Ricciardo,McLaren,79.265,78.737,77.942,77.664,True,76.871,False,,11
+2021,11,Hungarian Grand Prix,Lance Stroll,Aston Martin,78.755,78.32,78.05,77.038,True,76.893,False,,12
+2021,11,Hungarian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,,79.277,78.683,77.553,True,77.564,False,,13
+2021,11,Hungarian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,81.889,80.186,79.113,77.776,True,77.583,False,,14
+2021,11,Hungarian Grand Prix,Carlos Sainz,Ferrari,78.115,78.441,77.497,76.649,False,,False,,15
+2021,11,Hungarian Grand Prix,Yuki Tsunoda,AlphaTauri,78.77,79.671,78.461,77.919,False,,False,,16
+2021,11,Hungarian Grand Prix,George Russell,Williams,79.724,79.292,78.794,77.944,False,,False,,17
+2021,11,Hungarian Grand Prix,Nicholas Latifi,Williams,79.824,79.479,78.821,78.036,False,,False,,18
+2021,11,Hungarian Grand Prix,Nikita Mazepin,Haas F1 Team,80.992,81.881,79.933,78.922,False,,False,,19
+2021,11,Hungarian Grand Prix,Mick Schumacher,Haas F1 Team,80.383,79.817,79.406,,False,,False,,20
+2021,12,Belgian Grand Prix,Max Verstappen,Red Bull Racing,105.363,104.472,116.924,118.717,True,116.559,True,119.765,1
+2021,12,Belgian Grand Prix,George Russell,Williams,106.772,106.665,119.492,119.864,True,116.95,True,120.086,2
+2021,12,Belgian Grand Prix,Lewis Hamilton,Mercedes,108.224,104.544,117.996,119.218,True,116.229,True,120.099,3
+2021,12,Belgian Grand Prix,Daniel Ricciardo,McLaren,106.683,106.118,120.456,121.583,True,117.127,True,120.864,4
+2021,12,Belgian Grand Prix,Sebastian Vettel,Aston Martin,106.177,105.336,119.436,120.175,True,116.814,True,120.935,5
+2021,12,Belgian Grand Prix,Pierre Gasly,AlphaTauri,105.699,104.965,119.324,120.387,True,116.44,True,121.164,6
+2021,12,Belgian Grand Prix,Sergio Perez,Red Bull Racing,106.127,105.404,117.871,119.334,True,116.886,True,122.112,7
+2021,12,Belgian Grand Prix,Valtteri Bottas,Mercedes,105.199,104.513,119.808,119.87,True,116.295,True,122.502,8
+2021,12,Belgian Grand Prix,Esteban Ocon,Alpine,106.497,105.302,118.913,121.824,True,117.354,True,123.513,9
+2021,12,Belgian Grand Prix,Lando Norris,McLaren,106.336,105.386,118.509,118.301,True,116.025,False,,10
+2021,12,Belgian Grand Prix,Charles Leclerc,Ferrari,105.818,106.836,121.37,120.728,True,117.721,False,,11
+2021,12,Belgian Grand Prix,Nicholas Latifi,Williams,107.101,106.198,119.981,120.966,True,118.056,False,,12
+2021,12,Belgian Grand Prix,Carlos Sainz,Ferrari,105.935,105.517,120.749,121.184,True,118.137,False,,13
+2021,12,Belgian Grand Prix,Fernando Alonso,Alpine,106.612,104.953,119.613,121.653,True,118.205,False,,14
+2021,12,Belgian Grand Prix,Lance Stroll,Aston Martin,106.649,105.18,119.205,121.597,True,118.231,False,,15
+2021,12,Belgian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,106.755,105.789,121.512,122.306,False,,False,,16
+2021,12,Belgian Grand Prix,Yuki Tsunoda,AlphaTauri,106.928,105.758,121.51,122.413,False,,False,,17
+2021,12,Belgian Grand Prix,Mick Schumacher,Haas F1 Team,109.059,107.529,121.269,123.973,False,,False,,18
+2021,12,Belgian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,108.125,105.967,124.382,124.452,False,,False,,19
+2021,12,Belgian Grand Prix,Nikita Mazepin,Haas F1 Team,108.705,107.335,121.792,124.939,False,,False,,20
+2021,13,Dutch Grand Prix,Max Verstappen,Red Bull Racing,71.597,71.264,69.623,70.036,True,69.071,True,68.885,1
+2021,13,Dutch Grand Prix,Lewis Hamilton,Mercedes,71.5,71.911,70.417,70.114,True,69.726,True,68.923,2
+2021,13,Dutch Grand Prix,Valtteri Bottas,Mercedes,71.738,71.132,70.179,70.219,True,69.769,True,69.222,3
+2021,13,Dutch Grand Prix,Pierre Gasly,AlphaTauri,72.515,71.462,71.005,70.274,True,69.541,True,69.478,4
+2021,13,Dutch Grand Prix,Charles Leclerc,Ferrari,71.623,70.902,70.896,69.829,True,69.437,True,69.527,5
+2021,13,Dutch Grand Prix,Carlos Sainz,Ferrari,71.601,71.056,71.94,70.022,True,69.87,True,69.537,6
+2021,13,Dutch Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,72.359,71.678,71.299,70.05,True,70.033,True,69.59,7
+2021,13,Dutch Grand Prix,Esteban Ocon,Alpine,72.231,71.074,71.18,70.179,True,69.919,True,69.933,8
+2021,13,Dutch Grand Prix,Fernando Alonso,Alpine,72.158,71.28,70.67,70.435,True,70.02,True,69.956,9
+2021,13,Dutch Grand Prix,Daniel Ricciardo,McLaren,73.081,72.157,71.013,70.255,True,69.865,True,70.166,10
+2021,13,Dutch Grand Prix,George Russell,Williams,73.181,72.855,71.274,70.382,True,70.332,False,,11
+2021,13,Dutch Grand Prix,Lance Stroll,Aston Martin,72.431,72.136,70.842,70.438,True,70.367,False,,12
+2021,13,Dutch Grand Prix,Lando Norris,McLaren,72.679,71.488,70.781,70.489,True,70.406,False,,13
+2021,13,Dutch Grand Prix,Nicholas Latifi,Williams,72.907,72.61,71.083,70.093,True,71.161,False,,14
+2021,13,Dutch Grand Prix,Yuki Tsunoda,AlphaTauri,,72.096,71.98,70.462,True,71.314,False,,15
+2021,13,Dutch Grand Prix,Sergio Perez,Red Bull Racing,73.328,71.946,70.526,70.53,False,,False,,16
+2021,13,Dutch Grand Prix,Sebastian Vettel,Aston Martin,75.984,71.713,70.872,70.731,False,,False,,17
+2021,13,Dutch Grand Prix,Robert Kubica,Alfa Romeo Racing,,,72.162,71.301,False,,False,,18
+2021,13,Dutch Grand Prix,Mick Schumacher,Haas F1 Team,73.847,72.607,72.366,71.387,False,,False,,19
+2021,13,Dutch Grand Prix,Nikita Mazepin,Haas F1 Team,73.516,72.835,72.136,71.875,False,,False,,20
+2021,16,Turkish Grand Prix,Lewis Hamilton,Mercedes,84.178,83.804,93.636,84.585,True,83.082,True,82.868,1
+2021,16,Turkish Grand Prix,Valtteri Bottas,Mercedes,84.842,84.214,91.996,85.047,True,83.579,True,82.998,2
+2021,16,Turkish Grand Prix,Max Verstappen,Red Bull Racing,84.603,84.439,90.611,84.592,True,83.732,True,83.196,3
+2021,16,Turkish Grand Prix,Charles Leclerc,Ferrari,84.654,83.97,91.543,84.869,True,84.015,True,83.265,4
+2021,16,Turkish Grand Prix,Pierre Gasly,AlphaTauri,85.382,84.756,90.447,84.704,True,83.817,True,83.326,5
+2021,16,Turkish Grand Prix,Fernando Alonso,Alpine,85.383,84.66,91.545,85.174,True,83.914,True,83.477,6
+2021,16,Turkish Grand Prix,Sergio Perez,Red Bull Racing,85.459,84.373,90.684,84.963,True,83.961,True,83.706,7
+2021,16,Turkish Grand Prix,Lando Norris,McLaren,85.347,84.525,92.314,85.138,True,84.642,True,83.954,8
+2021,16,Turkish Grand Prix,Lance Stroll,Aston Martin,86.361,85.02,93.348,85.511,True,84.601,True,84.305,9
+2021,16,Turkish Grand Prix,Yuki Tsunoda,AlphaTauri,86.424,84.882,91.981,85.409,True,84.054,True,84.368,10
+2021,16,Turkish Grand Prix,Sebastian Vettel,Aston Martin,85.81,85.229,92.111,85.787,True,84.795,False,,11
+2021,16,Turkish Grand Prix,Esteban Ocon,Alpine,84.909,84.672,92.089,85.422,True,84.842,False,,12
+2021,16,Turkish Grand Prix,George Russell,Williams,85.685,85.358,,85.417,True,85.007,False,,13
+2021,16,Turkish Grand Prix,Mick Schumacher,Haas F1 Team,86.636,85.48,92.228,85.555,True,85.2,False,,14
+2021,16,Turkish Grand Prix,Carlos Sainz,Ferrari,84.86,84.903,91.262,85.177,False,,False,,15
+2021,16,Turkish Grand Prix,Daniel Ricciardo,McLaren,85.75,85.06,92.27,85.881,False,,False,,16
+2021,16,Turkish Grand Prix,Nicholas Latifi,Williams,85.863,85.307,95.681,86.086,False,,False,,17
+2021,16,Turkish Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,85.813,84.796,92.097,86.43,False,,False,,18
+2021,16,Turkish Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,85.933,85.143,91.572,87.525,False,,False,,19
+2021,16,Turkish Grand Prix,Nikita Mazepin,Haas F1 Team,87.019,85.698,93.425,88.449,False,,False,,20
+2021,17,United States Grand Prix,Max Verstappen,Red Bull Racing,95.806,95.824,94.912,94.352,True,93.464,True,92.91,1
+2021,17,United States Grand Prix,Lewis Hamilton,Mercedes,94.919,95.31,95.219,94.579,True,93.797,True,93.119,2
+2021,17,United States Grand Prix,Sergio Perez,Red Bull Racing,96.798,94.946,94.701,94.369,True,94.178,True,93.134,3
+2021,17,United States Grand Prix,Valtteri Bottas,Mercedes,94.874,95.36,94.988,94.59,True,93.959,True,93.475,4
+2021,17,United States Grand Prix,Charles Leclerc,Ferrari,96.334,95.572,95.688,94.153,True,93.928,True,93.606,5
+2021,17,United States Grand Prix,Carlos Sainz,Ferrari,96.508,95.919,94.805,94.558,True,94.126,True,93.792,6
+2021,17,United States Grand Prix,Daniel Ricciardo,McLaren,97.458,95.457,95.345,94.407,True,94.643,True,93.808,7
+2021,17,United States Grand Prix,Lando Norris,McLaren,96.855,95.203,94.945,94.551,True,93.88,True,93.887,8
+2021,17,United States Grand Prix,Pierre Gasly,AlphaTauri,96.611,96.242,95.398,94.567,True,94.583,True,94.118,9
+2021,17,United States Grand Prix,Yuki Tsunoda,AlphaTauri,97.954,96.983,96.572,95.36,True,95.137,True,94.918,10
+2021,17,United States Grand Prix,Esteban Ocon,Alpine,96.97,96.158,95.711,95.747,True,95.377,False,,11
+2021,17,United States Grand Prix,Sebastian Vettel,Aston Martin,96.982,96.718,95.851,95.281,True,95.5,False,,12
+2021,17,United States Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,96.874,96.138,96.252,95.92,True,95.794,False,,13
+2021,17,United States Grand Prix,Fernando Alonso,Alpine,97.068,96.376,96.49,95.756,True,104.549,False,,14
+2021,17,United States Grand Prix,George Russell,Williams,96.966,97.49,96.023,95.746,False,,False,,15
+2021,17,United States Grand Prix,Lance Stroll,Aston Martin,96.972,95.561,96.392,95.983,False,,False,,16
+2021,17,United States Grand Prix,Nicholas Latifi,Williams,97.463,97.254,96.118,95.995,False,,False,,17
+2021,17,United States Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,96.876,96.558,96.062,96.311,False,,False,,18
+2021,17,United States Grand Prix,Mick Schumacher,Haas F1 Team,98.866,97.041,96.671,96.499,False,,False,,19
+2021,17,United States Grand Prix,Nikita Mazepin,Haas F1 Team,102.239,98.026,123.456,96.796,False,,False,,20
+2021,18,Mexico City Grand Prix,Valtteri Bottas,Mercedes,78.341,77.725,77.708,76.727,True,76.864,True,75.875,1
+2021,18,Mexico City Grand Prix,Lewis Hamilton,Mercedes,78.417,77.81,77.675,77.207,True,76.474,True,76.02,2
+2021,18,Mexico City Grand Prix,Max Verstappen,Red Bull Racing,78.464,77.301,77.217,76.788,True,76.483,True,76.225,3
+2021,18,Mexico City Grand Prix,Sergio Perez,Red Bull Racing,78.61,77.871,77.024,77.003,True,77.055,True,76.342,4
+2021,18,Mexico City Grand Prix,Pierre Gasly,AlphaTauri,78.985,78.429,78.202,76.908,True,76.955,True,76.456,5
+2021,18,Mexico City Grand Prix,Carlos Sainz,Ferrari,79.463,78.318,78.029,77.517,True,77.248,True,76.761,6
+2021,18,Mexico City Grand Prix,Daniel Ricciardo,McLaren,80.273,79.521,78.121,77.719,True,77.092,True,76.763,7
+2021,18,Mexico City Grand Prix,Charles Leclerc,Ferrari,79.667,78.605,78.213,76.748,True,77.034,True,76.837,8
+2021,18,Mexico City Grand Prix,Yuki Tsunoda,AlphaTauri,80.011,78.644,78.037,77.33,True,76.701,True,77.158,9
+2021,18,Mexico City Grand Prix,Lando Norris,McLaren,80.301,78.979,78.312,77.569,True,77.473,True,96.83,10
+2021,18,Mexico City Grand Prix,Sebastian Vettel,Aston Martin,79.858,78.681,78.614,77.502,True,77.746,False,,11
+2021,18,Mexico City Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,80.026,78.841,78.531,77.606,True,77.958,False,,12
+2021,18,Mexico City Grand Prix,George Russell,Williams,80.517,,79.211,77.958,True,78.172,False,,13
+2021,18,Mexico City Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,80.344,79.227,78.556,77.897,True,78.29,False,,14
+2021,18,Mexico City Grand Prix,Esteban Ocon,Alpine,79.759,79.431,78.999,78.126,True,78.405,False,,15
+2021,18,Mexico City Grand Prix,Fernando Alonso,Alpine,79.656,78.732,78.847,78.452,False,,False,,16
+2021,18,Mexico City Grand Prix,Nicholas Latifi,Williams,81.58,80.82,79.313,78.756,False,,False,,17
+2021,18,Mexico City Grand Prix,Mick Schumacher,Haas F1 Team,82.144,79.62,79.238,78.858,False,,False,,18
+2021,18,Mexico City Grand Prix,Nikita Mazepin,Haas F1 Team,82.819,81.581,80.479,79.303,False,,False,,19
+2021,18,Mexico City Grand Prix,Lance Stroll,Aston Martin,80.03,79.73,78.352,80.873,False,,False,,20
+2021,20,Qatar Grand Prix,Lewis Hamilton,Mercedes,84.509,83.57,82.388,81.901,True,81.682,True,80.827,1
+2021,20,Qatar Grand Prix,Max Verstappen,Red Bull Racing,83.723,83.498,82.651,81.996,True,81.984,True,81.282,2
+2021,20,Qatar Grand Prix,Valtteri Bottas,Mercedes,84.194,83.148,82.31,82.016,True,81.991,True,81.478,3
+2021,20,Qatar Grand Prix,Pierre Gasly,AlphaTauri,84.16,83.357,82.835,82.535,True,81.728,True,81.64,4
+2021,20,Qatar Grand Prix,Fernando Alonso,Alpine,85.905,84.056,83.186,82.422,True,81.894,True,81.67,5
+2021,20,Qatar Grand Prix,Lando Norris,McLaren,85.215,83.632,83.895,82.839,True,82.216,True,81.731,6
+2021,20,Qatar Grand Prix,Carlos Sainz,Ferrari,84.713,84.033,83.048,82.304,True,82.241,True,81.84,7
+2021,20,Qatar Grand Prix,Yuki Tsunoda,AlphaTauri,84.648,83.735,83.567,82.458,True,82.058,True,81.881,8
+2021,20,Qatar Grand Prix,Esteban Ocon,Alpine,84.972,84.041,83.209,82.565,True,82.012,True,82.028,9
+2021,20,Qatar Grand Prix,Sebastian Vettel,Aston Martin,85.328,84.02,83.884,82.549,True,82.146,True,82.785,10
+2021,20,Qatar Grand Prix,Sergio Perez,Red Bull Racing,84.915,83.787,82.846,82.398,True,82.346,False,,11
+2021,20,Qatar Grand Prix,Lance Stroll,Aston Martin,86.712,83.705,84.154,82.551,True,82.46,False,,12
+2021,20,Qatar Grand Prix,Charles Leclerc,Ferrari,84.79,84.095,83.276,82.742,True,82.463,False,,13
+2021,20,Qatar Grand Prix,Daniel Ricciardo,McLaren,85.291,84.135,83.711,82.688,True,82.597,False,,14
+2021,20,Qatar Grand Prix,George Russell,Williams,85.871,84.954,83.923,82.863,True,82.756,False,,15
+2021,20,Qatar Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,85.828,84.631,84.246,83.156,False,,False,,16
+2021,20,Qatar Grand Prix,Nicholas Latifi,Williams,85.688,85.209,84.499,83.213,False,,False,,17
+2021,20,Qatar Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,85.757,85.072,84.288,83.262,False,,False,,18
+2021,20,Qatar Grand Prix,Mick Schumacher,Haas F1 Team,86.699,85.575,84.68,83.407,False,,False,,19
+2021,20,Qatar Grand Prix,Nikita Mazepin,Haas F1 Team,87.5,,,85.859,False,,False,,20
+2021,21,Saudi Arabian Grand Prix,Lewis Hamilton,Mercedes,89.786,89.018,88.314,88.466,True,87.712,True,87.511,1
+2021,21,Saudi Arabian Grand Prix,Valtteri Bottas,Mercedes,90.009,89.079,89.019,88.057,True,88.054,True,87.622,2
+2021,21,Saudi Arabian Grand Prix,Max Verstappen,Red Bull Racing,89.842,89.213,88.1,88.285,True,87.953,True,87.653,3
+2021,21,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,90.6,89.772,89.101,88.31,True,88.459,True,88.054,4
+2021,21,Saudi Arabian Grand Prix,Sergio Perez,Red Bull Racing,90.96,89.768,88.629,88.021,True,87.946,True,88.123,5
+2021,21,Saudi Arabian Grand Prix,Pierre Gasly,AlphaTauri,90.263,89.099,88.715,88.401,True,88.314,True,88.125,6
+2021,21,Saudi Arabian Grand Prix,Lando Norris,McLaren,91.029,90.004,89.3,88.338,True,88.344,True,88.18,7
+2021,21,Saudi Arabian Grand Prix,Yuki Tsunoda,AlphaTauri,91.099,89.597,88.641,88.503,True,88.222,True,88.442,8
+2021,21,Saudi Arabian Grand Prix,Esteban Ocon,Alpine,91.023,89.555,89.177,88.752,True,88.574,True,88.647,9
+2021,21,Saudi Arabian Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,90.318,90.11,89.59,88.899,True,88.616,True,88.754,10
+2021,21,Saudi Arabian Grand Prix,Daniel Ricciardo,McLaren,90.608,89.968,89.717,88.216,True,88.668,False,,11
+2021,21,Saudi Arabian Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,91.296,90.276,89.689,88.856,True,88.885,False,,12
+2021,21,Saudi Arabian Grand Prix,Fernando Alonso,Alpine,90.842,89.441,89.418,88.944,True,88.92,False,,13
+2021,21,Saudi Arabian Grand Prix,George Russell,Williams,91.343,90.506,90.034,88.926,True,89.054,False,,14
+2021,21,Saudi Arabian Grand Prix,Carlos Sainz,Ferrari,90.564,89.589,89.149,88.237,True,113.652,False,,15
+2021,21,Saudi Arabian Grand Prix,Nicholas Latifi,Williams,91.821,91.039,90.366,89.177,False,,False,,16
+2021,21,Saudi Arabian Grand Prix,Sebastian Vettel,Aston Martin,90.886,90.502,90.296,89.198,False,,False,,17
+2021,21,Saudi Arabian Grand Prix,Lance Stroll,Aston Martin,91.044,90.442,90.03,89.368,False,,False,,18
+2021,21,Saudi Arabian Grand Prix,Mick Schumacher,Haas F1 Team,91.525,90.652,90.933,89.464,False,,False,,19
+2021,21,Saudi Arabian Grand Prix,Nikita Mazepin,Haas F1 Team,93.464,91.629,90.979,90.473,False,,False,,20
+2021,22,Abu Dhabi Grand Prix,Max Verstappen,Red Bull Racing,85.009,84.332,83.488,83.322,True,82.8,True,82.109,1
+2021,22,Abu Dhabi Grand Prix,Lewis Hamilton,Mercedes,85.355,83.691,83.274,82.845,True,83.145,True,82.48,2
+2021,22,Abu Dhabi Grand Prix,Lando Norris,McLaren,86.123,85.153,84.106,83.553,True,83.256,True,82.931,3
+2021,22,Abu Dhabi Grand Prix,Sergio Perez,Red Bull Racing,85.363,84.4,84.047,83.35,True,83.135,True,82.947,4
+2021,22,Abu Dhabi Grand Prix,Carlos Sainz,Ferrari,85.886,84.844,84.595,83.624,True,83.174,True,82.992,5
+2021,22,Abu Dhabi Grand Prix,Valtteri Bottas,Mercedes,85.205,84.083,84.025,83.117,True,83.246,True,83.036,6
+2021,22,Abu Dhabi Grand Prix,Charles Leclerc,Ferrari,85.846,84.557,84.758,83.467,True,83.202,True,83.122,7
+2021,22,Abu Dhabi Grand Prix,Yuki Tsunoda,AlphaTauri,85.378,84.532,84.223,83.428,True,83.404,True,83.22,8
+2021,22,Abu Dhabi Grand Prix,Esteban Ocon,Alpine,86.025,84.034,84.834,83.764,True,83.42,True,83.389,9
+2021,22,Abu Dhabi Grand Prix,Daniel Ricciardo,McLaren,86.676,84.959,84.733,83.829,True,83.448,True,83.409,10
+2021,22,Abu Dhabi Grand Prix,Fernando Alonso,Alpine,85.625,84.495,85.094,83.846,True,83.46,False,,11
+2021,22,Abu Dhabi Grand Prix,Pierre Gasly,AlphaTauri,85.822,84.94,84.251,83.489,True,84.043,False,,12
+2021,22,Abu Dhabi Grand Prix,Lance Stroll,Aston Martin,86.608,85.385,84.821,84.061,True,84.066,False,,13
+2021,22,Abu Dhabi Grand Prix,Antonio Giovinazzi,Alfa Romeo Racing,86.409,85.108,85.048,84.118,True,84.251,False,,14
+2021,22,Abu Dhabi Grand Prix,Sebastian Vettel,Aston Martin,86.007,85.195,85.115,84.225,True,84.305,False,,15
+2021,22,Abu Dhabi Grand Prix,Nicholas Latifi,Williams,87.487,85.687,85.322,84.338,False,,False,,16
+2021,22,Abu Dhabi Grand Prix,George Russell,Williams,,85.549,85.22,84.423,False,,False,,17
+2021,22,Abu Dhabi Grand Prix,Kimi Räikkönen,Alfa Romeo Racing,86.189,85.44,85.037,84.779,False,,False,,18
+2021,22,Abu Dhabi Grand Prix,Mick Schumacher,Haas F1 Team,87.698,85.784,85.34,84.906,False,,False,,19
+2021,22,Abu Dhabi Grand Prix,Nikita Mazepin,Haas F1 Team,88.305,86.336,86.332,85.685,False,,False,,20

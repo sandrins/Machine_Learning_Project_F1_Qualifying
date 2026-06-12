@@ -1,0 +1,19 @@
+season,round,gp_name,fp1_mean_airtemp,fp1_mean_tracktemp,fp1_mean_humidity,fp1_has_rain,fp2_mean_airtemp,fp2_mean_tracktemp,fp2_mean_humidity,fp2_has_rain,fp3_mean_airtemp,fp3_mean_tracktemp,fp3_mean_humidity,fp3_has_rain,qualifying_mean_airtemp,qualifying_mean_tracktemp,qualifying_mean_humidity,qualifying_has_rain
+2021,1,Bahrain Grand Prix,35.561,46.833,24.601,False,28.262,32.618,43.185,False,37.979,46.858,10.55,False,29.06,33.844,46.545,False
+2021,2,Emilia Romagna Grand Prix,11.941,22.785,51.74,True,13.53,24.142,37.797,False,11.65,21.69,51.44,False,13.685,26.89,41.976,False
+2021,3,Portuguese Grand Prix,17.723,33.03,45.004,True,18.966,38.92,44.784,False,17.093,31.026,46.154,False,18.101,37.181,41.708,False
+2021,4,Spanish Grand Prix,21.908,35.749,55.19,False,20.951,40.962,62.216,False,23.963,39.47,51.842,False,25.077,44.59,47.603,False
+2021,5,Monaco Grand Prix,20.24,39.096,54.61,False,22.16,47.995,34.376,False,18.501,28.549,70.557,False,18.745,32.747,72.335,False
+2021,6,Azerbaijan Grand Prix,26.929,49.249,41.259,False,27.419,46.937,47.401,False,28.205,53.949,37.509,False,26.034,47.271,47.556,False
+2021,7,French Grand Prix,25.955,40.945,52.655,False,27.332,47.261,43.729,False,25.489,36.916,53.365,False,29.298,44.324,44.989,False
+2021,8,Styrian Grand Prix,23.886,47.704,44.854,False,21.978,43.92,55.252,True,22.294,48.506,43.81,False,25.791,53.858,28.465,False
+2021,9,Austrian Grand Prix,18.457,31.685,50.259,True,19.64,31.251,42.026,True,23.004,47.606,32.914,False,25.618,51.721,27.205,False
+2021,11,Hungarian Grand Prix,30.801,55.558,36.776,False,32.42,61.5,33.327,False,27.211,54.082,56.935,False,29.255,59.239,46.571,False
+2021,12,Belgian Grand Prix,13.544,18.454,85.133,True,14.833,19.53,82.049,False,13.926,16.451,92.552,True,14.324,17.588,93.013,True
+2021,13,Dutch Grand Prix,18.614,24.904,73.366,False,20.701,34.996,65.514,False,17.208,29.265,68.371,False,19.087,35.224,62.098,False
+2021,16,Turkish Grand Prix,19.567,28.865,66.415,False,19.652,28.327,66.882,False,17.638,23.402,90.359,True,18.416,22.661,81.479,True
+2021,17,United States Grand Prix,27.054,31.472,64.249,False,29.096,36.29,51.981,True,28.647,36.93,60.462,False,29.619,36.685,55.271,True
+2021,18,Mexico City Grand Prix,18.985,40.413,42.124,False,21.788,41.323,29.295,False,18.04,36.268,38.91,False,21.641,45.032,20.068,False
+2021,20,Qatar Grand Prix,28.449,41.077,47.333,False,26.353,30.459,50.986,False,27.472,36.91,59.076,False,25.938,29.24,66.627,False
+2021,21,Saudi Arabian Grand Prix,28.409,34.546,68.549,False,28.562,30.486,60.326,False,29.18,34.511,65.189,False,28.154,30.858,72.06,False
+2021,22,Abu Dhabi Grand Prix,26.998,39.272,46.02,False,24.914,29.905,69.577,False,26.767,38.505,47.795,False,25.13,29.173,57.358,False
