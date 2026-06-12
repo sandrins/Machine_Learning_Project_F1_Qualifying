@@ -1,5 +1,7 @@
 # Machine Learning Project: F1 Qualifying
 
+Dieses Machine-Learning-Projekt entstand im Rahmen meines Studiums.
+
 Dieses Projekt untersucht, bereinigt und modelliert Formel-1-Qualifying-Zeiten. Ziel ist es, auf Basis von Trainings-, Qualifying- und Wetterdaten vorherzusagen, wie stark verschiedene Faktoren die Qualifying-Performance beeinflussen.
 
 Das Projekt ist als Notebook-Workflow aufgebaut: von der explorativen Datenanalyse über das Preprocessing bis zum Vergleich mehrerer Machine-Learning-Modelle.
